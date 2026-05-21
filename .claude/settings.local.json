@@ -7,7 +7,9 @@
       "PowerShell(python -c \"from bs4 import BeautifulSoup; print\\('bs4 ok'\\)\" 2>&1)",
       "PowerShell(python -c \"import requests; print\\(requests.__version__\\)\" 2>&1)",
       "Bash(python scripts/fetch_skills.py)",
-      "Bash(tee scripts/fetch_skills.log)"
+      "Bash(tee scripts/fetch_skills.log)",
+      "Bash(python scripts/fetch_ascendancy_notables.py)",
+      "Bash(tee scripts/fetch_ascendancy_notables.log)"
     ]
   }
 }

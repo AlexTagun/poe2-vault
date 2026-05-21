@@ -30,6 +30,7 @@
 <!-- archetypes, synthesized strategies -->
 
 - [[builds/classes|classes]] | classes, ascendancy | 0.4.0 | 2026-05
+- [[builds/ascendancies|ascendancies]] | ascendancy, subclasses, trials, sekhemas, chaos | 0.4.0 | 2026-05
 
 ## Glossary
 <!-- short term definitions -->

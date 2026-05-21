@@ -67,11 +67,11 @@ ADDITIONAL EFFECTS FROM QUALITY:
 ### Armour Piercing Rounds Leveling Progression Table in Path of Exile 2 (POE 2)
 
 | **Level** | **Required LvL** | **Str** | **Dex** | **Cost** | **Attack Damage** | **Bolts loaded per clip** | **Hits Break XX Armour** |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
+| --------- | ---------------- | ------- | ------- | -------- | ----------------- | ------------------------- | ------------------------ |
+|           |                  |         |         |          |                   |                           |                          |
+|           |                  |         |         |          |                   |                           |                          |
+|           |                  |         |         |          |                   |                           |                          |
+|           |                  |         |         |          |                   |                           |                          |
 
 ### How to get Armour Piercing Rounds in Path of Exile 2 (PoE 2)
 

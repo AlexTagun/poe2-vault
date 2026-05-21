@@ -1,21 +1,24 @@
 ---
-title: "Missing skill pages"
+title: "Skill name → page alias map"
 clipped: 2026-05-21
+updated: 2026-05-21
 patch: 0.4.0
 status: meta
 ---
 
-# Missing on Fextralife
+# Skill alias map
 
-Скиллы есть в категорийном списке [Skills](https://pathofexile2.wiki.fextralife.com/Skills),
-но отдельной wiki-страницы на Fextralife у них нет (HTTP 404):
+Имена из категорийной таблицы [Skills.md](../Skills.md) не всегда совпадают
+с реальным URL Fextralife. Зафиксированные расхождения:
 
-- **Blood Boil** — встречается как Buff Skill (Pillar of the Caged God / Ascendancy notable [[Corrupted Lifeforce]]). Эффекты — см. [Skills.md](../Skills.md).
-- **Ritual Sacrifice** — встречается как Buff. Эффекты — там же.
-- **Snap** — Spell skill (cold-конверт). Эффекты — там же.
+| Имя в Skills.md | Канонический URL/файл |
+|---|---|
+| Blood Boil | [Blood Boil (Ritualist).md](Blood%20Boil%20%28Ritualist%29.md) — `Blood+Boil+(Ritualist)` |
+| Ritual Sacrifice | [Ritual Sacrifice (Ritualist).md](Ritual%20Sacrifice%20%28Ritualist%29.md) — `Ritual+Sacrifice+(Ritualist)` |
+| Snap | [Cold Snap.md](Cold%20Snap.md) — `Cold+Snap` (Fextralife переименовала) |
 
-При создании wiki-страниц по этим скиллам использовать данные из таблиц
-[raw/Clippings/Skills.md](../Skills.md) и помечать `sources` соответствующе.
+При линковке wiki-страниц использовать **канонические** имена выше.
 
-Проверено: 2026-05-21. Если Fextralife добавит страницы — перезапустить
-`scripts/fetch_skills.py --only "Blood Boil,Ritual Sacrifice,Snap"`.
+История: ингест 2026-05-21 эти три скилла дал 404 — URL'ы оказались с
+ascendancy-суффиксом или переименованием. Добавлены вручную после подсказки
+user'а. Если в будущем будут аналогичные расхождения — расширить таблицу.

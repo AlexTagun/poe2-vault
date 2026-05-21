@@ -47,11 +47,11 @@ The **Archmage**is related with the following Support Gems:
 ### Archmage Leveling Progression Table in Path of Exile 2 (POE 2)
 
 | **Level** | **Required LvL** | **Int** | **Non-Channelling Spells extra Lightning damage** | **Non-Channelling Spells cost** |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| --------- | ---------------- | ------- | ------------------------------------------------- | ------------------------------- |
+|           |                  |         |                                                   |                                 |
+|           |                  |         |                                                   |                                 |
+|           |                  |         |                                                   |                                 |
+|           |                  |         |                                                   |                                 |
 
 ### How to get Archmage in Path of Exile 2 (PoE 2)
 

@@ -50,11 +50,11 @@ The **Blink** Buff Skill is related with the following Support Gems:
 ### Blink Leveling Progression Table in Path of Exile 2 (POE 2)
 
 | **Level** | **Required LvL** | **Int** | **Teleports XX metres** |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| --------- | ---------------- | ------- | ----------------------- |
+|           |                  |         |                         |
+|           |                  |         |                         |
+|           |                  |         |                         |
+|           |                  |         |                         |
 
 ### How to get Blink in Path of Exile 2 (PoE 2)
 

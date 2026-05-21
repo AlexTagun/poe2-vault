@@ -1,0 +1,607 @@
+---
+title: "Skills"
+source: "https://pathofexile2.wiki.fextralife.com/Skills"
+author:
+published: 2025-12-27
+created: 2026-05-21
+description: "Skills in Path of Exile 2: Information about Skill Gems, Support Gems, Meta Gems, Buff Skill Gems, Descriptions, How to Obtain and more!"
+tags:
+  - "clippings"
+---
+![](https://pathofexile2.wiki.fextralife.com/file/Path-of-Exile-2/background_path_of_exile_2_wiki_guide.jpg) ![](https://pathofexile2.wiki.fextralife.com/file/Path-of-Exile-2/background_path_of_exile_2_wiki_guide.jpg)
+
+## Skills | Path of Exile 2 Wiki
+
+**Skills** in **[Path of Exile 2 (PoE 2)](https://pathofexile2.wiki.fextralife.com/Path+of+Exile+2+Wiki "Path of Exile 2 Wiki")** are abilities players can use in combat. **Skills** are divided into two main categories: [Skill Gems](https://pathofexile2.wiki.fextralife.com/Skill+Gems "Path of Exile 2 Skill Gems") and [Passive Skills](https://pathofexile2.wiki.fextralife.com/Passive+Skills "Path of Exile 2 Passive Skills"). Both categories are vital for shaping your character’s combat abilities, with each offering different ways to customize and enhance your playstyle.
+
+## Path of Exile 2 Skills Guide
+
+### Path of Exile 2: Skills Gems
+
+Gear or Equipment no longer have Sockets to place gems into, as they now are placed into Skills. Your Character is able to have up to 9 Active Skills, and each of those Skills can be also modified by up to 5 Support Gems that could drastically alter how the skills works and its effects. Any class can use any Skill Gem.
+
+**Meta Gems** are also Skill Gems that can be supported by Support Gems and other Skill gems.  
+**Support Gems** provide utility effects rather than direct offensive stats such as damage itself.
+
+### PoE2 Skills: Other New Features
+
+All skills scale with the level based on the character's skill progression, even for the **Skills** granted from alternative ways, like by choosing a Class or using an Item. Each Skill has independent selectable Advanced Settings, to change the movement or the targeting for the minions or totems.
+
+### Passive Skill Tree on Path of Exile 2
+
+The Passive Skill Tree in Path of Exile 2 is believed to be one of the biggest things in the game. Individual Attribute Points will be able to be switched between Dexterity, Intelligence or Strength, allowing players to explore the tree in any direction from the starting point. The starting Class you chose will dictate the position of the starting point in the tree, but still Skills are non-restrictive by class, meaning you could, for example, spend Skill points on heavy Weapons with a mage.
+
+For more Information about Passive Skills and Skill Tree visit [Passive Skills](https://pathofexile2.wiki.fextralife.com/Passive+Skills "Path of Exile 2 Passive Skills").
+
+### Gemcutting in Path of Exile 2
+
+Skill Gems are not obtained as items that you find or as drop, instead, you'll have to get Uncut Gems throughout the map and use them to convert them into different types of Skill Gems. **Gemcutting** has it's own interface menu where you will be able to craft Gems to get new Skills, and then enhance these skills using Support Gems, also crafted in the Gemcutting menu, and placed in the Skill Gem Sockets to further modify the effects of the skills.
+
+**Uncut Gems:**
+
+- Uncut Skill Gems must be engraved into a Gem to become usable in the Gemcutting Menu, they can be used to create a Skill Gem or to Level an existing gem up to a certain level.
+- Uncut Buff Skill Gems can be used to create Buff Skill Gems.
+- Uncut Support Gems can be used to create a Support Gem.
+
+### Path of Exile 2 Sockets
+
+**Skill Gems** can contain up to 5 sockets, but at the moment you first obtain then they usually have only 2 or 3, you can upgrade the amount of sockets wtih Jeweller's Orbs.  
+There is a variety of Jeweller's Orbs, each adding a socket to a skill gem with a specific amount of sockets only.
+
+**Socket Colours** are randomized but can be chosen by using a Chromatic Orb. These are represented in red for Strength, in blue for Intelligence and green for Dexterity.
+
+### Path of Exile Atlas Passive Skills
+
+[Atlas Passive Skills](https://pathofexile2.wiki.fextralife.com/Atlas+Passive+Skills "Path of Exile 2 Atlas Passive Skills") are clusters of smaller skill trees that grant bonuses and buffs to the various maps and encounters. Skill points for these trees can be earned by killing powerful foes and clearing [Endgame](https://pathofexile2.wiki.fextralife.com/Endgame+Guide "Path of Exile 2 Endgame Guide") [Maps](https://pathofexile2.wiki.fextralife.com/Maps "Path of Exile 2 Maps").
+
+### Active Skills Weapon Swapping in PoE 2
+
+In **Path of Exile 2**, swapping between two weapon sets is quick and effortless. For players using a mouse and keyboard, simply press the default keybind, X, to toggle between weapon sets seamlessly. Controller users can achieve the same by opening the radial dial, navigating to the Bind Screen, and assigning the Toggle Weapon Set function to a skill slot on their skill bar. Additionally, the game introduces a mechanic that allows automatic weapon set swapping when activating specific skills.
+
+By default, skills use the currently equipped weapon set. However, you can configure specific skills to always utilize a designated weapon set. To do this, open your Skill Gem tab, and click the arrow next to the DPS counter attached to the desired skill.
+
+![active skill gem weapons poe2 wiki guide](https://pathofexile2.wiki.fextralife.com/file/Path-of-Exile-2/active-skill-gem-weapons-poe2-wiki-guide.jpg "Active Skill Gems PoE2 Wiki Guide")
+
+Within this menu, you can specify how the skill interacts with your weapon sets:
+
+- **Tick Weapon Set I only:** The skill will always switch to your first weapon set before activating.
+- **Tick Weapon Set II only:** The skill will always switch to your second weapon set before activating.
+- **Tick both Weapon Set I and II:** The skill can be used with either weapon set, provided its requirements are met.
+
+![extended description weapons poe2 wiki guide](https://pathofexile2.wiki.fextralife.com/file/Path-of-Exile-2/extended-description-weapons-poe2-wiki-guide.jpg "Extended Description Skills PoE 2 Wiki Guide")
+
+If a skill is attempted with a weapon set that doesn't meet its requirements, the game will automatically swap to the appropriate set. For instance, trying to use [Rolling Slam](https://pathofexile2.wiki.fextralife.com/Rolling+Slam "Path of Exile 2 Rolling Slam") while equipped with a [Crossbows](https://pathofexile2.wiki.fextralife.com/Crossbows "Path of Exile 2 Crossbows") will trigger an automatic switch to the set that supports Rolling Slam, as this ability cannot be performed with a ranged weapon.
+
+## All Skills in Path of Exile 2 (POE 2)
+
+Ammunition Skills
+
+Attack Skills
+
+Buff Skills
+
+Meta Skills
+
+Minion Skills
+
+Spell Skills
+
+Trigger Skills
+
+Warcry Skills
+
+Ascendancy Skills
+
+### All Ammunition Skills in Path of Exile 2
+
+**Quick Search of All Ammunition Skills in POE 2**
+
+| ##### Skill Gems | ##### Effects |
+| --- | --- |
+| #### Armour Piercing Rounds | +(12–21) Bolts loaded per clip  Attack Speed: 425% of base   Attack Damage: (25–91)%  Hits Break (1–845) Armour  Knock Back Enemies |
+| #### Explosive Shot | Converts 30% of Physical Damage to Fire Damage  Knocks Back Enemies |
+| #### Fragmentation Rounds | +1 Bolt loaded per clip  Projectile  Attack Damage: (20–72)% of base  Projectile Speed: 400 Units per Second  Knocks Back Enemies  Cannot Freeze  Consume Freeze on Hit  Overwhelm % Physical Damage Reduction  Fires 10 fragments per shot  Bolts Pierce 2 Targets  VS Frozen  Attack Damage: (350–1429)%  Converts 100% of Physical Damage to Cold Damage  Cannot Freeze  Overwhelm % Physical Damage Reduction  Explosion radius is 2 metres  50% more damage with Hits for explosions originating  from a Unique enemy  Consumes Freeze on enemies Hit to  trigger a secondary explosion at their location  Secondary explosions cannot Consume Freeze |
+| #### Galvanic Shards | Ammunition   1 Bolt loaded per clip      Projectile   Attack Damage: (15–54)% of base   Projectile Speed: 500 Units per Second   Converts 60% of Physical Damage to Lightning Damage   Knocks Back Enemies   Cannot Chain   Fires 8 fragments per shot  Beam   Attack Damage: (75–272)%   Converts 100% of Physical Damage to Lightning Damage   Beam Chains to 1 enemy |
+| #### Glacial Bolt | Ammunition   +1 Bolt loaded per clip  Projectile   Attack Damage: (40–145)% of base   Projectile Speed: 400 Units per Second  Converts 60% of Physical Damage to Cold Damage   Knocks Back Enemies  Wall   Attack Damage: (60–245)%   Converts 100% of Physical Damage to Cold Damage   50% more area of effect if Shattered   % more damage if Shattered   80% less damage if destroyed within 0.5 seconds by something other than you   Explosion radius is 1.8 metres   Wall lasts 8 seconds   Ice Crystals have (36–12714) maximum Life |
+| #### High Velocity Rounds | Ammunition   +1 Bolt loaded per clip  Projectile   Attack Damage: (160–464)% of base   Projectile Speed: 420 Units per Second   Knocks Back Enemies   Cannot Break Armour   Overwhelm % Physical   Damage Reduction   Bolts Pierce 6 Targets  VS Armour Broken   Attack Damage: (220–580)%   Knocks Back Enemies   Cannot Break Armour   Overwhelm % Physical Damage Reduction   Bolts Pierce 6 Targets   Applies Riven Armour on Hit   Riven Armour has 5 second duration, or until Fully Broken Armour is removed |
+| #### Ice Shards | Ammunition   +16 Bolts loaded per clip  Projectile   Attack Speed: 550% of base   Attack Damage: (8–29)% of base   Projectile Speed: 292.5 Units per Second   Converts 60% of Physical Damage to Cold Damage   Knocks Back Enemies  Shard   Attack Damage: (20–82)%   Converts 100% of Physical Damage to Cold Damage   80% less damage if destroyed within 0.5 seconds by something other than you   Explosion radius is 1.4 metres   Shards arm after 1.5 seconds   Shards deal up to 300% more damage 3 seconds after arming   Maximum 16 active shards   Chills Enemies as though dealing (200–390)% more damage |
+| #### Incendiary Shot | Ammunition   +1 Bolt loaded per clip  Projectile   Attack Damage: (10–36)% of base   Projectile Speed: 342 Units per Second   Converts 80% of Physical Damage to Fire Damage   Knocks Back Enemies   Ignites you inflict with this skill deal Damage 200% faster   Inflicts 300% more Flammability Magnitude   Consumes 30 Heat if possible to   gain 50% more Ignite Magnitude   Bolts shatter on impact, dealing Damage in a 1.9 metre cone   Fires 10 fragments per shot   30% increased Ignite duration for each Fragment in a single hit |
+| #### Molten Blast | Projectile  Converts 60% of Physical Damage to Fire Damage   Inflicts 200% more   Flammability Magnitude   100% more Ignite duration   While Dual Wielding, fires twice as many Projectiles with 15% less attack speed   Explosion radius is 1.6 metres  Shrapnel  Attack Damage: (65–265)%   Converts 100% of Physical Damage to Fire Damage   Projectile count cannot be modified   Inflicts 200% more Flammability Magnitude   100% more Ignite duration   Fires 8 Projectiles |
+| #### Permafrost Bolts | Ammunition  +1 Bolt loaded per clip  Projectile  Attack Damage: (17–49)% of base   Projectile Speed: 280 Units per Second   Converts 80% of Physical Damage to Cold Damage   Knocks Back Enemies   (200–504)% more Freeze Buildup   Bolts shatter on impact, dealing Damage in a 2.7 metre cone   Fires 10 fragments per shot |
+| #### Punch | \- |
+| #### Rapid Shot | Ammunition  100 Bolts loaded per clip  Projectile  Attack Speed: 550% of base   Attack Damage: (26–94)% of base   Projectile Speed: 325 Units per Second   Converts 60% of Physical Damage to Fire Damage   Knocks Back Enemies   Maximum (26–45) Heat   Cannot fire or reload for 10 seconds on reaching maximum Heat |
+| #### Stormblast Bolts | Ammunition  5 Bolts loaded per clip  Impact  Attack Damage: (20–72)% of base   Projectile Speed: 200 Units per Second   Converts 60% of Physical Damage   to Lightning Damage   Maximum of 30 active Bolts   Impact radius is 0.8 metres   Fires 3 Bolts   Charged Bolt duration is 10 seconds  Explosion  Attack Damage: (115–470)%   Converts 100% of Physical Damage   to Lightning Damage   Maximum of 30 active Bolts   Explosion radius is 1.6 metres |
+| #### Quarterstaff Strike | \- |
+
+### All Attack Skills in Path of Exile 2
+
+**Quick Search of All Attack Skills in POE 2**
+
+| ##### Skill Gems | ##### Effects |
+| --- | --- |
+| #### Ancestral Warrior Totem | Totem duration is 8 seconds  Limit 1 Totem  Totem base attack time is 1 second  Totem uses its own weapon, dealing 59 to 89 Base Physical Damage |
+| #### Armour Breaker | Knocks Enemies Back on Hit  +2 to Melee Strike Range  Hits Break 1562 Armour |
+| #### Artillery Ballista | Totem duration is 12 seconds  Limit 1 Totem  Totem gains +(0–75)% to all Elemental Resistances  Totem gains +(0–35)% to Chaos Resistance  Attack Speed: 25% of base  Attack Damage: (15–40)% of base  Projectile Speed: 326 Units per Second  Hits are Pinning  Pins Enemies as though dealing 600% more Damage  Maim on Hit  Bolt impact radius is 2.5 metres  Hits 4 times per salvo  Modifiers to number of Projectiles fired instead apply to number of Hits per salvo |
+| #### Blazing Lance | Projectiles Pierce all Targets  Deals 158 Base Fire Damage per second  Converts 50% of Physical Damage to Fire Damage  Base radius is 0.8 metres  Base secondary radius is 2.4 metres |
+| #### Bleeding Concoction | (11–311) to (21–577) Added Attack Physical Damage  +5% to Critical Hit Chance   Causes Bleeding  Consumes 3 Charges from your Mana Flask  100% more Magnitude of Bleeding inflicted  Explosion radius is 1.5 metres |
+| #### Blood Hunt | +0.15 seconds to Total Attack Time   Cannot cause Bleeding    Cannot cause Bleeding   Explosion radius is 1.3 metres   Enemies lose Life equal to 25% of Consumed Blood Loss   10% more area of effect per Blood Loss Consumed, up to 500%   % more area of effect per (1–381) Blood Loss Consumed, up to 500% |
+| #### Boneshatter | +2 to Melee Strike Range   While Dual Wielding, both weapons hit with 30% less damage   Cannot cause Stun buildup  Attack Damage: (200-724)%   While Dual Wielding, both weapons hit with 30% less damage   Shockwave radius is 2 metres   50% more damage with Hits for Shockwaves originating   from a Unique enemy |
+| #### Bow Shot | n/a |
+| #### Cluster Grenade | Detonation Time is 2 seconds   Converts 20% of Physical Damage to Fire Damage   Consumes 15 Heat if possible to   Gain 50% of damage as Fire damage   Explosion radius is 2.5 metres  Attack Damage: (70-286)%   Detonation Time is 3 seconds   Supported Skills fire Projectiles in a circle   Converts 40% of Physical Damage to Fire Damage   Fires 18 Projectiles   Consumes 15 Heat if possible to   Gain 50% of damage as Fire damage   Explosion radius is 1.4 metres |
+| #### Cross Slash | Cross Slash  Gouge length is 4.7 metres  Gouge width is 1.6 metres  Flings Ice Fragments within 7 metres  Shockwave  Gouge length is 2.4 metres  Gouge width is 1.6 metres  Flings Ice Fragments within 7 metres |
+| #### Crossbow Shot | +7 Bolts loaded per clip |
+| #### Detonating Arrow | Gain 120% of Damage as Extra Fire Damage per Stage  Maximum 4 Stages |
+| #### Disengage | +0.2 seconds to Total Attack Time   +25 to Melee Strike Range |
+| #### Elemental Sundering | Pulse radius is 5 metres   Consumes up to 20 Ailments  Attack Damage: (350-1429)%  Converts 100% of Physical Damage to Cold Damage  Cannot inflict Freeze, Shock or Ignite  Explosion radius is 1.6 metres  100% more damage against a Unique enemy  Attack Damage: (125-510)%  Converts 100% of Physical Damage to Fire Damage  Cannot inflict Freeze, Shock or Ignite  Explosion radius is 1.6 metres  Attack Damage: (140-572)%  Converts 100% of Physical Damage to Lightning Damage  Cannot inflict Freeze, Shock or Ignite  Explosion radius is 1.6 metres |
+| #### Earthquake | 100% increased Magnitude of Jagged Ground   While Dual Wielding, both weapons hit with 30% less damage   Impact radius is 1.8 metres   Jagged Ground radius is 2.2 metres   Maximum (2–4) Jagged Ground patches   Jagged Ground duration is 4 seconds  Attack Damage: 130%  100% increased Magnitude of Jagged Ground you create   While Dual Wielding, both weapons hit with 30% less damage   Aftershock radius is 3.4 metres |
+| #### Earthshatter | While Dual Wielding, both weapons hit with   30% less attack speed   Maximum 6 Spikes   Deals damage along the fissure's path and in a   1 metre radius around the emerging spike   Spike duration is 6 seconds  Attack Damage: (140-507)%  While Dual Wielding, both weapons hit with   30% less attack speed   Maximum 6 Spikes   Explosion radius is 2 metres |
+| #### Electrocuting Arrow | Converts 50% of Physical Damage to Lighning Damage   Cannot Chain   Cannot Pierce   Arrow duration is 25 seconds |
+| #### Escape Shot | Converts 80% of Physical Damage to Cold Damage  Projectile count cannot be modified  +0.7 seconds to Total Attack Time  (300–585)% more Freeze Buildup  Impact radius is 2.4 metres  Ice Fragments  Attack Damage: (55–172)% of base  Projectile Speed: 32 Units per Second  Detonation Time is 2.5 seconds  Converts 100% of Physical Damage to Cold Damage  Fires 4 Projectiles  Explosion radius is 1.3 metres |
+| #### Explosive Grenade | Converts 20% of Physical Damage to Fire Damage  Fuse duration is 2.5 seconds  Explosion radius is 1.9 metres |
+| #### Explosive Shot | Converts 30% of Physical Damage to Fire Damage  Knocks Back Enemies |
+| #### Explosive Spear | Spear  Detonation Time is 2.5 seconds  Converts 60% of Physical Damage to Fire Damage  Projectile count cannot be modified  Pierces all Targets  Cannot Chain  Limit 1 lodged Spear  Explosion  Attack Damage: (135–489)%  Converts 100% of Physical Damage to Fire Damage  Projectile count cannot be modified  Explosion radius is 2.8 metres  Frenzy-Charged  Attack Damage: (150–543)%  Converts 100% of Physical Damage to Fire Damage  Projectile count cannot be modified  Explosion and Ignited Ground length are 4 metres  Explosion and Ignited Ground width are 1.5 metres  Ignited Ground duration is 8 seconds  Ignited Ground Ignites enemies as though dealing the explosion's damage |
+| #### Falling Thunder | Melee  Converts 60% of Physical Damage to Lightning Damage  Cone length is 4 metres  Projectile  Converts 100% of Physical Damage to Lightning Damage  Pierces all Targets  50% more Damage per Power Charge Consumed  100% more Damage if a Power Charge was Consumed  Fires 3 Projectiles per Power Charge Consumed |
+| #### Fangs of Frost | Converts 80% of Physical Damage to Cold Damage  +4 to Melee Strike Range  (50–107)% more Freeze Buildup  Explosion  Attack Damage: (110–449)%  Converts 100% of Physical Damage to Cold Damage  Ice Crystal duration is 4 seconds  Explosion and Chilled Ground radius are 2.2 metres  (150–321)% more Freeze Buildup |
+| #### Flame Breath | Converts 100% of Physical damage to Fire damage  Ignites from a single use of this Skill Compound  Inflicts 200% more Flammability Magnitude  60% less Ignite Magnitude  Rage cost is ignored for first 4 seconds of Channelling  Cannot gain Rage while using this Skill  Immolation radius is 2 metres  Empowered Flame Breath Gains 50% of damage as Lightning damage  Empowered Flame Breath costs 50% less Rage per second |
+| #### Flash Grenade | Blind Enemies  1000% more Stun buildup  Fuse Duration is 0.85 seconds  Explosion radius is 2.6 metres |
+| #### Flicker Strike | Teleports and Strikes 2 additional times per Power Charge, with 285% more Attack Speed  You cannot gain Power Charges while using this Skill |
+| #### Freezing Salvo | Converts 80% of Physical Damage to Cold Damage  (50–107)% more Freeze Buildup  Impact radius is 1.2 metres  Accumulates up to 10 additional missiles  Accumulates a missile every 0.75 seconds |
+| #### Frozen Locus | Crystal  Maximum 1 Ice Crystal   Ice Crystal duration is 10 seconds   Ice Crystal has (43–1364) maximum Life   Chilled Ground  Attack Damage: (150–612)%   Converts 100% of Physical Damage to Cold Damage   Maximum 1 Ice Crystal   Does not Hit, but Chills enemies as though Hitting them   Gains 30% more Radius per second, up to a maximum of 180%   Ice Crystal duration is 10 seconds   Chilled Ground radius is 1.2 metres   Explosion  Attack Damage: (150–612)%   Converts 100% of Physical Damage to Cold Damage   50% more Freeze Buildup   Maximum 1 Ice Crystal   80% less damage if destroyed within 0.5 seconds by something other than you   Ice Crystal duration is 10 seconds   Explosion radius is 3.4 metres |
+| #### Furious Slam | Base  60% more Stun buildup  +0.4 seconds to base attack time if not standing  +0.4 seconds to base use time when Shapeshifting  Shockwave radius is 2 metres  Spends 10 Rage to perform enraged slam if possible  Enraged  Attack Damage: (110—398)%  60% more Stun buildup  +0.4 seconds to base attack time if not standing  +0.4 seconds to base use time when Shapeshifting  Shockwave radius is 3 metres  Jagged Ground duration is 4 seconds |
+| #### Gas Arrow | Impact radius is 1.8 metres |
+| #### Gas Grenade | Impact  Detonation Time is 2 seconds   Impact radius is (1.4–2) metres  Poison Cloud      Attack Damage: (150–612)%   Limit 6 Poison Clouds   Does not Hit, but Poisons enemies as though Hitting them   Gains 20% more Radius per second, up to a maximum of 80%   Cloud Duration is 6 seconds  Explosion      Attack Damage: (150–612)%   Converts 100% of Physical Damage to Fire Damage |
+| #### Gathering Storm | Converts 20% of Physical Damage to Lightning Damage  +0.5 seconds to total Attack Time  Attack Damage: 332%   Converts 70% of Physical Damage to Lightning Damage  Converts 100% of Physical Damage to Lightning Damage   Shockwave radius is 2.4 metres   Maximum 20 Shockwaves per use |
+| #### Glacial Cascade | Wave  Converts 60% of Physical Damage to Cold Damage   Cannot Freeze   Burst radius is 0.6 metres   Wave length is 4.8 metres   Causes 8 Bursts  Final Burst   Attack Damage: (120–374)%   Converts 60% of Physical Damage to Cold Damage   Cannot Freeze   Consumes Freeze on Non-Unique enemies to deal 250% more Damage   Consumes Freeze on Unique enemies to deal 425% more Damage   Cannot Knock Enemies Back   Burst radius is 0.9 metres |
+| #### Hailstorm Rounds | Ammunition  Supported Crossbow Ammunition Skills cannot reload   100% more reload speed   Can store up to (16–25) Bolts  Impact   Cost: (24–163) Mana   Attack Speed: 55% of base   Attack Damage: (70–254)% of base   Projectile Speed: 140 Units per Second   Fire all loaded bolts into the sky, causing them to rain down over the target area, starting at the centre and spreading outward.   Converts 80% of Physical Damage to Cold Damage   (100–157)% more Freeze Buildup   Impact radius is 1 metre   Rain radius is 4 metres |
+| #### Hammer of the Gods | Base duration is 2.5 seconds  Base radius is 2.4 metres  Can't be Evaded |
+| #### Hand of Chayula | Strike   Converts 73% of Physical Damage to Chaos Damage   Can't be Evaded  Support   100% increased duration of socketed Curses   (20–29)% increased Effect of Socketed Marks |
+| #### Ice Shot | Converts 40% of Physical Damage to Cold Damage  200% more Effect of Chill  Consumes Freeze on enemies to deal 350% more Damage  Cannot inflict Freeze |
+| #### Ice Spear | Converts 70% of Physical Damage to Cold Damage  Base radius is 2.5 metres  **When armed:**  Deals 80% more Damage  Converts 70% of Physical Damage to Cold Damage  20% chance for Hits to be Freezing  Base radius is 2.5 metres |
+| #### Ice Strike | Converts 80% of Physical Damage to Cold Damage |
+| #### Impale | 100% chance for Hits to be Immobilising  +5 to Melee Strike Range  Immobilises Enemies as Though dealing 200% more Damage |
+| #### Elemental Surge (Attack) | Cold-Infused  - Supported Skills cannot consume Charges - Converts 100% of Physical Damage to Cold Damage - Explosion radius is 1.8 metres  Additional Effects From Quality:  - Explosion radius is (0–0.3) metres  Fire-Infused  Attack Damage: (50–181)%  - Supported Skills cannot consume Charges - Converts 100% of Physical Damage to Fire Damage - Explosion radius is 1.8 metres  Lightning-Infused  Attack Damage: (50–181)%  - Supported Skills cannot consume Charges - Converts 100% of Physical Damage to Lightning Damage - Explosion radius is 1.8 metres |
+| #### Killing Palm | Culling Strike      Can't be Evaded      Normal and Magic monsters grant 1 Power Charge      Rare monsters grant 2 Power Charges      Unique monsters grant 3 Power Charges |
+| #### Leap Slam | +0.65 seconds to Attack Time  +0.35 seconds based on distance travelled  Base impact radius is 2.5 metres  25% more stun buildup  500% more Stun buildup against  Enemies with fully Broken Armour  Ends Fully Broken Armour on Enemies after Hitting |
+| #### Lightning Arrow | Converts 40% of Physical Damage to Lightning Damage  Hits up to 2 additional enemies near the target |
+| #### Lightning Rod | Converts 100% of Physical Damage to Lightning Damage  Burst radius is 2 metres  Maximum Arrow duration is 20 seconds  Arrow disappears after being Chained to 8 times  Maximum 20 active Arrows |
+| #### Lightning Spear | Spear  Cannot Pierce   Converts 80% of Physical Damage to Lightning Damage   100% more chance to Shock   Cannot Chain   Projectiles can Split from hitting terrain   Spear cannot Pierce, Fork, Chain or Return   Modifiers to the number of Projectiles fired only affect the maximum number of lightning bolt Projectiles   Splits towards 3 targets when Consuming a Frenzy Charge  Lightning Bolts  Attack Damage: (75–234)%   Converts 100% of Physical Damage to Lightning Damage   200% more chance to Shock   Fires 5 Projectiles   Projectiles cannot Split   Fires lightning bolts at targets within 5 metre radius |
+| #### Lunar Assault | Converts 80% of Physical damage to Cold damage  (240—506)% more Magnitude of Chill inflicted  (240—506)% more Freeze Buildup |
+| #### Mace Strike | \-- |
+| #### Magma Barrier | Buff  Fully imbues Shield in 8 seconds   Grants 25% increased Block chance  Magma Spray      Critical Hit Chance: 5.00%   Attack Damage: (170–694)% of base   6 to 8 Added Fire Damage per 15 Armour on Shield   6 to 8 Added Fire Damage per 15 Evasion on Shield   (4–103) to (6–155) Base Off Hand Fire Damage   Magma Spray radius is 2.8 metres |
+| #### Magnetic Salvo | Impact  Converts 80% of Physical Damage to Lightning Damage   Impact radius is 1 metre   Fires up to (8–17) missiles  Explosion  Attack Damage: (80–250)%   Converts 80% of Physical Damage to Lightning Damage   Explosion radius is 2.4 metres |
+| #### Maul | 8 to 11 Added Attack Physical Damage  +0.6 seconds to Total Attack Time if not already a Bear  +9 to Melee Strike Range  +7% to Critical Strike Chance  25% chance to cause Bleeding |
+| #### Oil Barrage | Base  Fires 3 Projectiles  Oil Slows enemy movement speed by 20%  Oil applies Exposure, lowering Total  Elemental Resistances by 20%  Oil spray radius is 2.1 metres  Oil Duration is 6 seconds  Channelling ends after one group of Projectiles  Cannot Ignite  Oil Ground  Converts 100% of Physical damage to Fire damage  Once Ignited, Oil Ground adds 100% of this Attack's Fire Damage as unscalable Damage to the Ignite  Oil Slows enemy movement speed by 20%  Oil applies Exposure, lowering Total  Elemental Resistances by 20%  Oil Ground radius is 2.1 metres  Oil Ground Duration is 6 seconds |
+| #### Oil Grenade | Base Duration is 1.60 seconds  Base secondary duration is 5.00 seconds  Base radius is 2.4 metres |
+| #### Parry | Can't be Evaded   400% more Stun buildup   Parried Debuff makes targets take 50% more Attack Damage   Parried Debuff duration is 2 seconds   3 to 4 Added Physical Damage per 5 Evasion Rating on Buckler   Can Parry Projectiles fired from within 1 metre |
+| #### Perfect Strike | Normal Strike  Converts 40% of Physical Damage to Fire Damage   While Dual Wielding, both weapons hit with 30% less damage  Perfect Strike  Attack Damage: (330–1029)%   Converts 80% of Physical Damage to Fire Damage   +35 to Melee Strike Range   While Dual Wielding, both weapons hit with 30% less damage |
+| #### Plasma Blast | Ammunition  1 Bolt loaded per clip  Projectile  Attack Damage: (830–3389)% of base   Projectile Speed: 720 Units per Second   Channel to charge an unstable bolt. The bolt deals devastating damage and explodes on hitting terrain, but cannot be fired at all unless fully charged. Additional Projectiles are fired in a spread, unlike other Crossbow Skills.   Converts 80% of Physical Damage to Lightning Damage   Knocks Back Enemies   +2 seconds to Total Attack Time   50% more Magnitude of Shock inflicted   Pierces all Targets  Explosion  Attack Damage: (300–1225)%   Converts 100% of Physical Damage to Lightning Damage   50% more Magnitude of Shock inflicted   Explosion radius is 3.2 metres |
+| #### Poisonburst Arrow | Poison inflicted by this Skill is affected by Modifiers to Skill Effect Duration  Does not Hit, but Poisons enemies as though Hitting them  Burst radius is (1.5–2.4) metres  Poison duration is (3–4.9) seconds |
+| #### Pounce | +0.2 seconds to Total Attack Time  Impact radius is 2 metres |
+| #### Puncture | Knocks Enemies Back on Hit  Deals up to 200% more Damage, based on the distance travelled  Causes Bleeding  Hits Stun Enemies as though dealing 50% more Damage |
+| #### Rain of Arrows | Fires (30–39) Arrows  Rain radius is 3.6 metres  Arrow impact radius is 0.7 metres  Maximum 1 arrow rain  One arrow lands every 0.08 seconds  Fires 100% more Arrows if a Frenzy Charge was consumed  Fires 50% more Arrows per Frenzy Charge consumed  Modifiers to Projectile speed apply to arrow landing frequency |
+| #### Rake | +0.4 seconds to Total Attack Time  +2 to Melee Strike Range  100% more Magnitude of Bleeding inflicted  Deals up to 100% more Damage, based on the distance travelled  Inflicts Bleeding on Hit |
+| #### Rampage | +0.5 seconds to base attack time if not standing  Rage cost is ignored for first 2.5 seconds of Channelling  Run speed is affected by movement speed modifiers instead of Attack speed modifiers  Cannot gain Rage while using this Skill  Impact radius is 2.2 metres |
+| #### Rapid Assault | Normal Strikes  +6 to Melee Strike Range  Final Strike  Attack Damage: (100–312)%   Limit 5 Spearheads stuck in each Target   +12 to Melee Strike Range   Inflicts Bleeding on Hit   Knocks Back Enemies   Spearhead duration is 30 seconds  Explosion  Attack Damage: (100–312)%   Inflicts Bleeding on Hit   Explosion radius is 2.4 metres |
+| #### Resonating Shield | Hits Break 59 Armour  19 to 29 Base Off Hand Physical Damage  2 to 4 Added Physical Damage per 15 Armour on Shield  Shockwave radius is 1.8 metres |
+| #### Ripwire Ballista | Totem Duration is 16 seconds  Limit 1 Totem  Totem base Attack Time is 1.6 seconds  Totem use its own weapon, dealing 24 to 36 base Physical Damage. |
+| #### Rolling Slam | Rolling Slam  +1.5 seconds to Total Attack Time   While Dual Wielding, both weapons hit with 30% less damage  First Slam  Attack Damage: (90–367)%   +1.5 seconds to Total Attack Time   While Dual Wielding, both weapons hit with 30% less damage   50% more Stun buildup   Impact radius is 1.4 metres  Second Slam  Attack Damage: (180–735)%   +1.5 seconds to Total Attack Time   50% more Damage against Heavy Stunned Enemies   While Dual Wielding, both weapons hit with 30% less damage   Impact radius is 1.8 metres |
+| #### Sandstorm Swipe | Base Duration is 3 seconds  Storm:  Attack Damage: (20–62)%   400% more Attack Speed   Enemies inside the storm have 30% reduced Movement Speed |
+| #### Shattering Palm | 45 to 68 Added Cold Damage  Can't be Evaded  +9 to Critical Hit Chance  Attaches Shards to enemies within a 3.8 metre radius |
+| #### Shield Charge | Area of Effect  (3–85) to (5–128) Base Off Hand Physical Damage   3 to 5 Added Physical Damage per 15 Armour on Shield   Deals up to an additional +100% more Damage, based on the distance travelled   Impact radius is 2.4 metres  Collision  Attack Damage: (60–217)%   Knocks Back Enemies   50% more Stun buildup   Deals up to an additional +100% more Damage, based on the distance travelled   Impact radius is 2.4 metres   6 to 8 Added Physical Damage per 15 Armour on Shield |
+| #### Shield Wall | (4–103) to (6–155) Base Off Hand Physical Damage  6 to 8 Added Physical Damage per 15 Armour on Shield  Can have 2 Shield Walls active at a time  80% less damage if destroyed within 0.5 seconds by something other than you  100% more Damage if destroyed by your Skills  Explosion length is 4 metres  Wall duration is 6 seconds  Wall Segments have (36–12714) maximum Life |
+| #### Shockburst Rounds | Ammunition  20% Less Reload Speed   (10-19) Bolts loaded per clip  Projectile  Attack Speed: 400% of base   Attack Damage: (10-36)% of base   Projectile Speed: 350 Units per second   Converts 40% of Physical Damage to Lightning Damage   100% less Electrocution buildup   Cannot Shock  Pulse  Attack Damage: (30–109)%   Converts 100% of Physical Damage to Lightning Damage   100% less Electrocution buildup   Cannot Shock   Pulse radius is 1.8 metres |
+| #### Shockchain Arrow | Projectile  Converts 20% of Physical Damage to Lightning Damage   Cannot Chain   Arrows always Pierce while flying towards a Shcoked enemy  Beam  Attack Damage: 80%  Converts 100% of Physical Damage to Lightning Damage   Chains up to 10 times  Shockwave  Converts 100% of Physical Damage to Lightning Damage   Shockwave radius is 2.5 metres |
+| #### Shockwave Totem | Totem lasts 12 seconds  Limit 1 Totem  Totem base attack time is 3 seconds  Totem deals 5 to 8 base Physical Damage |
+| #### Siege Cascade | Ammunition  30% less reload speed   +1 Bolt loaded per clip  Impact  Attack Speed: 75% of base   Attack Damage: (40–145)% of base   Projectile Speed: 200 Units per Second   Cannot Freeze   Fires Bolts at every Enemy within a 4 metre radius   Bolt explosion radius is 0.4 metres  Explosion  Attack Damage: (150–543)%   Cannot Freeze   Fires Bolts at every Enemy within a 4 metre radius   Bolt explosion radius is 0.8 metres |
+| #### Siphoning Strike | Dash  +6 to Melee Strike Range   50% more Stun buildup   Consume Shock on Hit   Knocks Back Enemies   Cannot Shock  Shockwave  Attack Damage: (200–624)%   Converts 100% of Physical Damage to Lightning Damage   50% more Stun buildup   Cannot Shock   Shockwave radius is 3 metres |
+| #### Snipe | Arrow  Your Hits Cannot Stun Enemies   Cannot Freeze   Modifiers to Attack Speed also affect this skill's cost  Explosion  Attack Damage: (300–936)%   Your Hits cannot Stun Enemies   Cannot Freeze   Modifers to Attack speed also affect this skill's cost   Explosion radius is 2.5 metres  Heavy Blast  Attack Damage: (400–1248)%   Your Hits cannot Stun Enemies   Cannot Freeze   Modifers to Attack speed also affect this skill's cost   Explosion radius is 3.5 metres  Icy Blast  Attack Damage: (460–1878)%   Your Hits cannot Stun Enemies   Converts 100% of Physical Damage to Cold Damage   Cannot Freeze   Modifers to Attack speed also affect this skill's cost   Explosion radius is 3.2 metres   50% more damage with Hits for explosions originating from a Unique enemy |
+| #### Spearfield | Spearfield  Creates 1 Spear per 0.2 metres of Radius   Maim on Hit   80% less damage if destroyed within 0.5 seconds by something other than you   Maims from this Skill Slow an additional 10%   Spears emerge within a (4–6.9) metre length cone   Spear duration is 10 seconds   Maximum 70 active spears  Explosion  Attack Damage: (50–204)%   Maim on Hit   80% less damage if destroyed within 0.5 seconds by something other than you   Maims from this Skill Slow an additional 10%   Explosion radius is 0.6 metres |
+| #### Spear of Solaris | Requires 20 Glory to use  Generates 100% of Monster Power as Glory for this Skill on Heavy Stunning an enemy  Converts 75% of Physical Damage to Fire Damage  +1.4 seconds to Total Attack Time  Can't be Evaded  Impact radius is 2 metres |
+| #### Spiral Volley | +0.4 seconds to total Attack Time  Fires 15 Arrows  Chains once per Frenzy Charge consumed |
+| #### Staggering Palm | 12 to 18 added Attack Physical Damage  Can't be evaded  +7% to Critical Strike Chance  Buff duration is 6 seconds |
+| #### Stampede | Base impact radius is 3.2 metres  Warcries can Empower this attack as though it was not Channelled |
+| #### Storm Spear | Converts 60% of Physical Damage to Lightning Damage  Fires 6 Projectiles  Base radius is 5 metres  Spear cannot Split, Pierce, Fork, Chain or Return  Modifiers to the number of Projectiles fired instead apply to the maximum number of Lightning Bolts fired |
+| #### Storm Wave | Converts 80% of Physical Damage to Lightning Damage  100% more chance to Shock  Wave length is 8 metres  Wave width is 1 metre |
+| #### Stormcaller Arrow | Converts 20% of Physical Damage to Lightning Damage |
+| #### Sunder | Wave  +0.2 metres to wave length for each wave in the Sequence   While Dual Wielding, both weapons hit with 30% less damage   Cannot Break Armour   Wave length is 0.9 metres   Wave causes Shockwaves from up to 7 Enemies in each Area   Inflicts Sundered Armour on hitting   Fully Armour Broken targets, causing 20% additional increased Physical damage taken   Sundered Armour has 6 second duration, or until Fully Broken Armour is removed  Shockwave  Attack Damage: (65–265)%   While Dual Wielding, both weapons hit with 30% less damage   Cannot Break Armour   Shockwave radius is 1.2 metres |
+| #### Supercharged Slam | Impact  Impact radius is 1.6 metres   40% more Damage with Hits for each stage   Maximum 3 Stages   Channelling ends 1 second after reaching maximum Stages   Releases 1 Aftershock per Stage  Aftershock  Aftershock radius is 2.8 metres   Each successive aftershock gains +0.4 metres to radius, up to 3 metres   40% more damage with Hits for each stage |
+| #### Temper Weapon | Maximum of 12 Empowered Attacks      While Channelling each strike of the anvil Empowers your next 3 Melee Attacks      Empowered Attacks Trigger Combust on Hit  Combust triggered by it's Empowered Attacks now deal 25% more Damage at all Levels and has a base radius of 3 Metres  Additional Effects from Quality:  (0-20)% Increased Skill Speed      Converts 100% of Physical Damage to Fire Damage      Can't be Evaded      Explosion radius is 2.5 metres |
+| #### Tempest Bell | Tempest Bell  Requires 4 Combo to use   Lose Combo if you generate no Combo for 8 seconds   Limit 1 Bell   Bell duration is 6 seconds   Bell is destroyed after 10 Hits  Impact  Attack Damage: (120–490)%   Bell is destroyed after 10 Hits   Impact radius is 1.8 metres  Shockwave  Attack Damage: (50–132)%   30% more Area of Effect per 0.1 metres of   Knockback the triggering Hit would have caused   Gains 30% of Physical Damage as Extra Damage of each Type matching an Elemental Ailment on the Bell   Bell is destroyed after 10 Hits   Shockwave radius is 2.4 metres   Shockwave can be triggered once every 0.25 seconds |
+| #### Tempest Flurry | Converts 60% of Physical Damage to Lightning Damage  +4 to Melee Strike Range |
+| #### Thunderous Leap | Converts 70% of Physical Damage to Lightning Damage  +1.1 seconds to Total Attack Time  Shockwave radius is 2.5 metres |
+| #### Tornado Shot | Impact radius is 1 metre |
+| #### Toxic Growth | Pustules  Detonation Time is 15 seconds   Stored Poison adds up to 1.5 metres to base explosion radius   Stored Poison grants up to 300% more explosion Damage   Fires 8 Pustules   Limit 8 pustules  Explosion  Attack Damage: (32–100)%   Detonation Time is 15 seconds   Always Poisons on Hit   Explosion radius is 0.8 metres   Pustules store expected damage of Poisons inflicted on them |
+| #### Twister | Blinds Enemies  Pierces all Targets  Twister radius is 0.5 metres  Twister duration is 3 seconds  Consumes Whirlwinds to create an additional twister and deal 80% more damage per Whirlwind stage  Elemental twisters Gain 50% of damage as damage of the corresponding Type  Twisters fired at the same time can Hit the same target no more than once every 0.66 seconds |
+| #### Vaulting Impact | Vaulting Impact  +1 second to Total Attack Time   Cannot inflict Daze   Impact radius is 2.4 metres  Vs Dazed  Attack Damage: (160–100)%   +1 second to Total Attack Time   Cannot inflict Daze   Applies Broken Stance on Hit against Dazed enemies   Broken Stance has 5 second duration, or until Daze is removed |
+| #### Vine Arrow | Base impact radius is 0.8 metres |
+| #### Void Illusion | Explosion Radius is 3 metres   Illusion Duration is 2 seconds |
+| #### Volcanic Fissure | Converts 80% of Physical Damage to Fire Damage  While Dual Wielding, both weapons hit with  30% less attack speed  Fissures branch 2 times  Fissure duration is 12 seconds  Limit 8 Fissures |
+| #### Voltaic Grenade | Detonation Time is 2.5 seconds  Explosion radius is (2–2.4) metres  Converts 80% of Physical Damage to Lightning Damage  Lightning damage from Hits with this skill Contributes to Electrocution Buildup  (150–340)% more Electrocution buildup from Hits with this skill  Electrocution buildup Debuff duration is 6 seconds |
+| #### Voltaic Mark | Mark duration is 8 seconds  Hits against Marked enemy have 50% increased chance to Shock  Shock inflicted on Marked enemy has 30% increased effect |
+| #### Walking Calamity | Walking Calamity  Supported skills requires 20 Glory to be use  +0.3 Seconds to base attack time if not standing  Trigger a meteor every 0.05 seconds  A large meteor falls every 20 meteors  Meteors fall in 8 metre Radius  Buff Duration is 10 Seconds  Buff Grants 5 Rage Regenerated Per Second  Buff Grants 30% of Damage Gained as Fire Damage  Small Meteor  Attack Damage: 149%  Converts 100% of Physical Damage to Fire Damage  Impact Radius is 0.8 Metres  Large Meteor  Attack Damage: 374%  Converts 100% of Physical Damage to Fire Damage  Impact Radius is 1.4 Metres  Ignited Ground Duration is 5 Seconds |
+| #### Wave of Frost | Converts 80% of Physical Damage to Cold Damage  (300–585)% more Freeze Buildup  Freeze enemies that are Primed for Freeze  Wave length is 6 metres |
+| #### Whirling Assault | +1.4 seconds to Total Attack Time |
+| #### Whirling Slash | Melee  Knocks Back Enemies  Whirlwind  Attack Damage: (60–217)%   Knocks Back Enemies   Slows enemy movement speed by 30%   Maximum 3 stages   Collapse deals 150% more damage per additional stage   10% more Knockback distance per stage   Whirlwind radius is 1.8 metres   +0.3m to Radius per additional stage |
+| #### Whirlwind Lance | Attack Damage: (60–217)%  Knocks Back Enemies  Slows enemy movement speed by 30%  Maximum 3 stages  Collapse deals 150% more damage per additional stage  10% more Knockback distance per stage  Collapse deals Melee damage  Whirlwind radius is 1.8 metres  Whirlwind duration is 15 seconds  +0.3m to Radius per additional stage  Limit 6 Whirlwinds |
+| #### Wind Blast | 150% more Stun buildup  Knocks Back Enemies  Cone length is 6 metres  Dazes on Hit |
+| #### Wind Serpent's Fury | Thrust  200% more Knockback Distance against Unique Enemies   Knocks Back Enemies   Thrust length is 10 metres   Thrust width is 1.7 metres   Requires 1 Frenzy Charge to use  Serpent  Attack Damage: (55–199)%   200% more Knockback Distance against Unique Enemies   Knocks Back Enemies   Serpent length is 10 metres   Serpent width is 1.7 metres |
+| #### Wing Blast | Wing Blast  +0.3 seconds to Total Attack Time  Cannot cause Stun buildup  Knocks Back Enemies  Blast length is 6 metres  10% Surpassing chance to grant a Power Charge on  Heavy Stun, modified by Monster Power  Shockwave  Attack Damage: 145%  Cannot Cause Stun Buildup  Shockwave radius is 2 Metres |
+
+### All Buff Skills in Path of Exile 2
+
+**Quick Search of All Buff Skills in POE 2**
+
+| ##### Skill Gems | ##### Effects |
+| --- | --- |
+| #### Align Fate | (9.15—12) second delay between Visage  25% increased Visage frequency per Spell Visages could cast  Casting the matching Spell before the next Visage Empowers it  Empowered Spells deal 30% more damage |
+| #### Apocalypse | Apocalypse  Requires 100 Glory to use  Duration of the Apocalypse is 12 seconds  Triggers one of three disasters every 0.75 seconds  Hailstorm  Cast Time: Instant  Critical Hit Chance: 12.00%  Deals (3—128) to (4—192) Cold Damage  Hailstorm radius is 2 metres  Hail impact radius is 0.8 metres  Hailstorm creates 9 chunks of ice  Meteor  Cast Time: Instant  Critical Hit Chance: 7.00%  Deals (19—902) to (28—1352) Fire Damage  Explosion radius is 1.6 metres  Meteor lands after 2 seconds  Crash Lightning  Cast Time: Instant  Critical Hit Chance: 10.00%  Deals (1—59) to (7—335) Lightning Damage  Crash Lightning radius is 1.6 metres  Pulses 3 times before final strike  Final strike occurs after 3 seconds  Final Strike  Crash Lightning radius is 1.6 metres  Deals (3—169) to (20—958) Lightning Damage |
+| #### Archmage | Non-Channelling Spells Gain 4% of Damage as extra Lightning damage for each 100 maximum Mana you have  Non-Channelling Spells cost an additional (6.1–8)% of your maximum Mana |
+| #### Arctic Armour | Deals 18 to 28 Cold Damage per Stage  Gains a Stage every 1.42 seconds, up to a maximum of 3 Stages |
+| #### Barrier Invocation | When Hit, gain 1 Energy for each 5 Energy Shield lost to Damage Taken  Maximum Energy is 500 |
+| #### Berserk | Lose 0.1% of maximum Life per Rage per second while not losing Rage   Grants (40–59)% increased Rage effect |
+| #### Blink | Cooldown Time: (4.50-3.50)s   Cast Time: 0.70s   Teleports (4–4.9) Metres |
+| #### Blood Boil | Corrupted Blood deals 2% of slain Enemy's maximum Life as Physical damage per second  Blood Boil applies to non-Unique enemies in your Presence every (1.53–2) seconds  20% more Corrupted Blood infliction Area of Effect per Blood Boil on slain Enemy  Inflicts a stack of Corrupted Blood on targets within 1.5 metres per Blood Boil on slain Enemy  Corrupted Blood duration is 5 seconds  Additional Effects From Quality:  +(0–1.5) seconds to Corrupted Blood duration |
+| #### Cast on Block | Gains 250 Energy when you Block  (0–57)% increased Energy gained  Triggers all Socketed Spells and loses all Energy on reaching maximum Energy |
+| #### Cast on Critical | Gains 10 Energy when you deal a Critical Strike with a Skill  Triggers all Socketed Spells and loses all Energy on reaching maximum Energy |
+| #### Cast on Death | Triggers all Socketed Spells when you Die  Socketed Skills deal 150% more Damage |
+| #### Cast on Elemental Ailment | Gains 10 Energy per Power of enemies you Freeze with Hits from Skills   Gains 1 Energy per Power of enemies you Ignite with Hits from Skills, modified by the percentage of the enemy's Ailment Threshold the Ignite will deal   Gains 1 Energy per Power of enemies you Shock with Hits from Skills   (0–57)% increased Energy gained   Triggers all Socketed Spells and loses all Energy on reaching maximum Energy |
+| #### Cast on Freeze | 26% increased Energy Generated  Gain 100 Energy when you Freeze an Enemy with a Hit from a Skill, once per Skill use  Trigger all Socketed Spells and lose all Energy on reaching maximum Energy  Has 10 maximum Energy per 0.13 seconds of base cast time of Socketed Spells |
+| #### Cast on Ignite | 26% increased Energy Generated  Gains 20 Energy when you Ignite an Enemy with a Hit from a Skill, once per Skill use  Triggers all Socketed Spells and loses all Energy on reaching maximum Energy  Has 10 maximum Energy per 0.13 seconds of base cast time of Socketed Spells |
+| #### Combat Frenzy | Gain a Frenzy Charge when you Freeze, Electrocute or Pin an enemy, no more than once every (6.1-8) seconds |
+| #### Defiance Banner | Requires 200 Glory to use   Generates 100% of Monster Power as Glory for this Skill on Hitting with an Attack   Banner Aura radius is 4.5 metres   Aura grants 30% more Armour and Evasion Rating   Aura grants 30% increased movement speed   Banner duration is (6–9.8) seconds |
+| #### Discipline | Allies add 38% of your Maximum Mana to their Total Maximum Energy Shield |
+| #### Dread Banner | Requires 200 Glory to use   Generates 100% of Monster Power as Glory for this Skill on Hitting with an Attack   Banner Aura radius is 4.5 metres   Aura grants +4% to all Maximum Elemental Resistances   Aura grants 60% more Elemental Ailment Threshold   Aura grants 0.5 Flask charges per second   Banner duration is (6–9.8) seconds |
+| #### Elemental Invocation | Gains 10 Energy per Power of enemies you Freeze with Hits from Skills   Gains 1 Energy per Power of enemies you Ignite with Hits from Skills, modified by the percentage of the enemy's Ailment Threshold the Ignite will deal   Gains 1 Energy per Power of enemies you Shock with Hits from Skills   (0–57)% increased Energy gained   Maximum Energy is 500 |
+| #### Emergency Reload | Buff duration is 6 seconds or until your Empowered bolts are expended   Buff Empowers bolts with (12–31)% more damage   Number of each clip's Empowered bolts is equal to the maximum Ammunition of the clip |
+| #### Fire Spell on Hit | Gains 3 Energy per Power of enemies you Hit with Melee Attacks, modified by the percentage of the enemy's Ailment Threshold the Hit will deal.      (0–57)% increased Energy gained.      Triggers all Socketed Spells and loses all Energy on reaching maximum Energy.  Additional Effects from Quality:  (0–15)% increased Energy gained.      Has 10 maximum Energy per 0.1 seconds of base cast time of Socketed Spells. |
+| #### Grim Feast | Grim Remnants recover 24 Energy Shield |
+| #### Heart of Ice | Chills enemies in your Presence as though dealing (26–888) to (39–1332) Cold damage |
+| #### Herald of Ice | Attack Damage: 92%  Explosion Radius is 1.8 Metres  100% of Explosion Physical Damage converted to Cold Damage |
+| #### Herald of Plague | Spreads the most Damaging Poison on enemies you kill in a 1.6 metre radius  17% chance to Hinder enemies on spreading Poison to them |
+| #### Herald of Thunder | Buff   Lightning Bolts strike the targets of your next (2–3) Attack Hits after Killing a Shocked Enemy with Attack Damage  Bolt   Attack Damage: (35–143)%   Can't be Evaded   Cannot Shock   Bolt impact radius is 1 metre   100% of Bolt Physical Damage   Converted to Lightning Damage |
+| #### Into the Breach | Remnants spawned by supported Skills have (0-50)% increased effect.   A Flame of Chayula manifests. nearby every (1.21–1.4) seconds.   Flames of Chayula fade after 25 seconds if not picked up.  Red Flames - Leech 15% Life   Blue Flame - Leech 15% Mana   Purple Flame - Stackable buff that provides 7% damage as an extra chaos damage (lasts for 8 seconds) |
+| #### Lingering Illusion | Base duration is 0.6 seconds  Illusions have 20% of your maximum Life |
+| #### Malice | Critical Weakness duration is 4 seconds  Applies Critical Weakness to enemies every 0.66 seconds |
+| #### Mana Remnants | Remnants last for 8 seconds  25% chance to spawn a Remnant on killing an enemy affected by an Elemental Ailment  Spawn a Remnant on Critically Hitting a target affected by an Elemental Ailment, no more than once every 2 seconds  Each Remnant grants (28–281) Mana |
+| #### Mantra of Destruction | Requires 8 Combo to use  Lose Combo if you generate no Combo for 8 seconds  Empowered Attack gains (50–69)% of Damage as Chaos  Empowers the next Melee Attack you perform  Buff duration is up to 8 seconds, or until your next Attack  Purple Flames of Chayula Duration is 20 seconds |
+| #### Overwhelming Presence | Enemies in your Presence have (15–24)% reduced  Elemental Ailment Threshold  Enemies in your Presence have (15–25)% reduced Stun Threshold |
+| #### Plague Bearer | Stores 6% of Expected Poison Damage  Stores up to 240 Poison Damage |
+| #### Purity of Fire | Allies gain (22–41)% additional Fire Resistance |
+| #### Purity of Ice | Allies gain (22–41)% additional Cold Resistance |
+| #### Purity of Lightning | Allies gain (22–41)% additional Lightning Resistance |
+| #### Raging Spirits | Minions from this skill convert 70% of Physical Damage to Fire Damage  Base duration is 4 seconds  Limit 10 Summoned Raging Spirits  Fire Area Spells summon a Spirit per 1.5 metres of radius  Projectiles from Fire Spells summon a Spirit on hit  Maximum 5 Spirits summoned per Spell cast |
+| #### Ritual Sacrifice | Stolen Modifier duration is (82-120) seconds  Additional Effects From Quality:   +(0–20) seconds to Stolen Modifier duration |
+| #### Scavenged Plating | Scavenged Plating duration is 8 seconds  4% more Armour per Scavenged Plating  Maximum 10 Scavenged Plating  (2–43) to (2–64) Thorns per Scavenged Plating |
+| #### Time of Need | (10.1–12) second duration between Blessings  Blessing recovers (17–628) Life and removes Curses and Elemental Ailments |
+| #### Trinity | (1–6)% more Elemental Damage per 30 Resonance of any type  On dealing Elemental Damage with a Hit, gain (5–13) Resonance of the highest Elemental Damage type and lose 3 Resonance of the other types |
+| #### Unbound Avatar | Gain Unbound Fury when you inflict an Elemental Ailment with a Hit on an Enemy  Maximum 100 Unbound Fury   Cannot gain Unbound Fury while Unbound      40% more Elemental Damage while Unbound      80% more chance to inflict Elemental Ailments while Unbound      40% more Elemental Ailment Buildup while Unbound      Unbound duration is (8—9.9) seconds |
+| #### War Banner | Requires 200 Glory to use  Generates 100% of Monster Power as Glory for this Skill on Hitting with an Attack  Banner Aura radius is 4.5 metres  Aura grants 25% more Attack damage  Aura grants 50% increased Accuracy Rating  Aura grants 25% increased Attack Speed  Banner duration is (6–9.8) seconds |
+| #### Withering Presence | Withered duration is 6 seconds  Withers enemies in your Presence every (1.42–1.8) seconds |
+
+### All Meta Skills in Path of Exile 2
+
+**Quick Search of All Meta Skills in POE 2**
+
+| ##### Skill Gems | ##### Effects |
+| --- | --- |
+| #### Cast on Melee Stun | Gains 1000 Energy per enemy Power when you Heavy Stun an enemy with a Melee Hit  Gains 200 Energy per enemy Power when you Stun an enemy with a Melee Hit  Triggers all Socketed Spells and loses all Energy on reaching maximum Energy   Cooldown Time: 0.20 s      Has 10 maximum Energy per 0.1 seconds of base cast time of Socketed Spells |
+| #### Cast on Shock | Gains 1 Energy per Power of enemies you Shock with Hits from Skills  (0–57)% increased Energy gained  Triggers all Socketed Spells and loses all Energy on reaching maximum Energy |
+| #### Mirage Deadeye (Meta Skill) | Gains 1 Energy per Power of enemies you Shock with Hits from Skills   (0–57)% increased Energy gained   Triggers all Socketed Spells and loses all Energy on reaching maximum Energy |
+
+### All Minion Skills in Path of Exile 2
+
+**Quick Search of All Minion Skills in POE 2**
+
+| ##### Skill Gems | ##### Effects |
+| --- | --- |
+| #### Bone Offering | Limit 1 Bone Offering Spike   Spike duration is 8 seconds   Minions take (20–25)% reduced damage from Hits while shielded   Absorbs first Hit dealing over 25% of Minion's maximum life  Deals (256-917) to (385-1375) Physical Damage   2.4 Explosion Radius |
+| #### Bind Spectre | Minions deal (0–20)% more Damage |
+| #### Manifest Weapon | Minions from this skill have 1% increased Attack Speed   per 3 of your Dexterity   Minions from this skill have 1% increased Damage   per 3 of your Strength   Additional Effects:  As a Mace, now has a cooldown of 6 seconds (from 10 seconds) for its Slam Skill.   As a Quarterstaff, now has a cooldown of 6 seconds (from 10 seconds) on its Sweep Skill.   As a Spear, fixed a bug where the damage dealt while it was Dashing towards enemies didn't cover the full distance of the Dash. |
+| #### Pain Offering | Limit 1 Pain Offering Spike  Aura radius is 6 metres  Spike duration is 5 seconds  Aura grants Minions 30% increased Attack and Cast Speed  Aura grants Minions 38% more Damage |
+| #### Power Offering | Power Offering spike limit of 10  Spike duration is 3.8 seconds |
+| #### Raise Zombie | Limit 10 Raised Zombies  Zombie duration is 20 seconds  Empowered Zombies take 30% less damage  Empowered Zombies deal 100% more damage with Hits  Empowered Zombies have 25% more movement speed |
+| #### Rhoa Mount | 100% increased Minion Accuracy Rating  15% increased Movement Speed while mounted  80% reduced Movement Speed Penalty from using Skills while mounted |
+| #### Skeletal Arsonist | Command  Cost: (9–93) Mana   Can target Minions with (29–1379) Life or less  Explosive Demise  Cooldown Time: 3.00 s   Attack Damage: 300% of base   Converts 100% of Physical Damage to Fire Damage   Deals additional Fire Damage equal to 8% of Minion's maximum Life   Can target Minions with (30–1096) Life or less   Explosion radius is 2.4 metres |
+| #### Skeletal Brute | Command  Cost: (8–83) Mana  Initial Strike  Cooldown Time: 4.00 s   Attack Speed: 120% of base   Attack Damage: 180% of base   +2 to Melee Strike Range  Shockwave  +2 to Melee Strike Range |
+| #### Skeletal Cleric | Revive Skeleton  Cooldown Time: 5.00 s   Cast Time: 1.20 sec  Heal  Cast Time: 1.00 sec |
+| #### Skeletal Frost Mage | Command: Ice Bomb  Cost: (16–173) Mana   Cooldown Time: 8.00 s   Cast Time: 1.25 sec   Critical Hit Chance: 12.00%   Deals 16 to 23 Cold Damage   100% more Magnitude of Chill inflicted   Explosion radius is 2.6 metres |
+| #### Soul Offering | Limit 1 Power Offering Spike  Spike Duration is 4 seconds  Buff grants you 32% more Spell Damage |
+| #### Skeletal Reaver | Lose 1% of Life per second  20% more Life loss each second  Gain 2 rage on Hit |
+| #### Skeletal Sniper | Gas Arrow  Cost: (8–85) Mana   Cooldown Time: 6.00 s   Attack Speed: 120% of base   Attack Damage: 80% of base   Projectile Speed: 75 Units per Second   Impact radius is 1.4 metres  Poison Cloud  Does not Hit, but Poisons enemies as though Hitting them   Gains 20% more Radius per second, up to a maximum of 80%   Cloud radius is 1.4 metres   Cloud duration is 8 seconds  Explosion  Converts 100% of Physical Damage to Fire Damage   Impact radius is 1.4 metres |
+| #### Skeletal Storm Mage | Cost: (15–155) Mana  Cooldown Time: 5.00 s  Cast Time: 2.00 sec  Critical Hit Chance: 10.00%  Deals 10 to 59 Lightning Damage  Bolt explosion radius is 2 metres  Shocked Ground radius is 2 metres  Shocked Ground duration is 6 seconds |
+| #### Skeletal Warrior | +7% to all Elemental Resistances |
+| #### Supporting Fire | Minions from this skill have 1% increased Area of Effect per 3 of your Dexterity   Minions from this skill have 1% increased Damage per 3 of your Strength   The Death from Above command for Supporting Fire deals approximately 3 times more Damage at all Gem levels. |
+
+### All Spell Skills in Path of Exile 2
+
+**Quick Search of All Spell Skills in POE 2**
+
+| ##### Skill Gems | ##### Effects |
+| --- | --- |
+| #### Arc | Deals (1–20) to (13–386) Lightning Damage  Chains (6–9) times  50% more Magnitude of Shock inflicted  Chains 6 additional times when Lightning Infused  200% more damage when Lightning Infused |
+| #### Ball Lightning | Deals (1–4) to (3–70) Lightning Damage   Hits enemies in range every 0.2 seconds   750% more chance to Shock   Bolts target enemies within 1.8 metres   Fire-Infused  Critical Hit Chance: 7.00%   Fire-Infused explosion radius is 2.6 metres   Creates Ignited Ground every 0.35 seconds   Fire-Infused explosion deals (11–287) to (16–431) Fire damage   Ignited Ground  Critical Hit Chance: 7.00%   Ignited Ground radius is 0.9 metres   Ignited Ground duration is 4 seconds   Ignites as though dealing (12–425) to (19–638) Fire damage |
+| #### Barrage | Buff Empowers your next Bow Attack to Repeat an Additional time, plus an additional time per Frenzy Charge consumed  1440% of repeated Skill's Attack time is added to this skill's cooldown, to a maximum of 30 seconds  Maximum buff duration is 5 seconds |
+| #### Bone Blast | Deals (1–37) to (2–68) Physical Damage  Your Spells have Culling Strike  (0–76)% chance to grant an additional Power Charge on Cull |
+| #### Bone Cage | Causes 15 to 22 Physical Damage  Hits are Pinning  Pins enemies as though dealing 50% more Damage  Cage radius is 1.8 metres  Explosion radius is 1 meter  Cage duration is 1.6 seconds |
+| #### Bone Offering | Limit 1 Bone Offering Spike  Spike duration is 5 seconds |
+| #### Bonestorm | Deals 16 to 25 Physical Damage  Debuff enemies take 16 to 25 additional Physical damage from next Attack  Debuff duration is 10 seconds |
+| #### Chaos Bolt | Deals (5–200) to (9–371) Chaos Damage   Inflicts Withered on Hit   Withered lasts 4 seconds |
+| #### Charged Staff | n/a |
+| #### Snap | Deals (14–473) to (21–709) Cold Damage   Supported Skills cannot Ignite   Cannot Freeze   Cannot Shock   Enemy explosion radius is 1.6 metres   Frostbolt explosion radius is 3.2 metres   50% more damage with Hits for blasts originating from a Unique enemy  Critical Hit Chance: 11.00%   Supported Skills cannot Ignite   Cannot Freeze   Cannot Shock   Enemy explosion radius is 1.6 metres   Deals (2–27) to (15–512) Lightning Damage  Critical Hit Chance: 8.00%   Supported Skills cannot Ignite   Cannot Freeze   Cannot Shock   Enemy explosion radius is 1.6 metres   Deals (6–192) to (8–288) Fire Damage |
+| #### Comet | Deals (24–829) to (36–1243) Cold Damage   +1 second to Total Cast Time   Impact radius is 2.8 metres  +1 second to Total Cast Time   Impact radius is 3.4 metres   Deals (16–553) to (24–829) Fire Damage   Deals (16–553) to (24–829) Cold Damage |
+| #### Consecrate | Regenerate (4–7.5)% of Life per second  Consecrated Ground radius is 2.2 metres  Consecrated Ground duration is 8 seconds |
+| #### Conductivity | Curse radius is 1.7 metres  Cursed enemies have -32% to Lightning Resistance  Curse duration is 6.4 seconds |
+| #### Contagion | Deals (2–93.9) Base Chaos Damage per second   Modifiers to Spell Damage apply to Debuff's Damage over Time   Debuff deals 100% more Damage for eachtime it has spread, up to 300%   Spread radius is 1.7 metres   Debuff duration is 5 seconds |
+| #### Dark Effigy | Totem duration is 8 seconds   Limit 1 Totem   Totem gains +(0–75)% to all Elemental Resistances   Totem gains +(0–35)% to Chaos Resistance  Cast Time: 1.00 sec  Critical Hit Chance: 11.00%  Deals (2–69) to (4–128) Chaos Damage   Fires 100 additional Projectiles   Impact radius is 1.2 metres |
+| #### Decompose | Poisons enemies as though dealing Chaos damage equal to (30–39.5)% of Corpse's maximum Life  Gains 50% more Area of Effect per second, up to a maximum of 200%  Cloud radius is 1.6 metres  Cloud duration is 4 seconds |
+| #### Despair | Curse applies after 1.5 seconds delay   Curse does not apply to enemies above level (0–20)   Curse inflicts (-49–-35)% to Chaos Resistance   Curse radius is (1.5–3.1) metres   Curse duration is (6–7.4) seconds |
+| #### Detonate Dead | Deals 28 to 43 Fire Damage  Deals Physical Damage equal to 20% of Corpse's maximum Life  Explosion radius is 2.6 metres |
+| #### Elemental Weakness | Curse applies after 1.5 seconds delay  Curse does not apply to enemies above level (0–20)  Curse radius is (1.5–3.1) metres  Curse inflicts (-59–-40)% to Elemental Resistances  Curse duration is (6–7.4) seconds |
+| #### Ember Fusillade | Deals (7–195) to (10–293) Fire Damage   5% more Damage for each previous Ember fired in sequence   Hover duration is 1.3 seconds   Can accumulate up to (6–10) Embers   Modifiers to number of Projectiles instead apply to number of Embers accumulated  5% more Damage for each previous Ember fired in sequence   Explosion radius is 0.9 metres  Chains 4 times   5% more Damage for each previous Ember fired in sequence   Deals (1–16) to (10–309) Lightning Damage |
+| #### Enfeeble | Curse applies after a 1.5-second delay  Curse does not apply to enemies above level (0–20)  Curse radius is (1.5–3.1) metres  Curse makes targets deal (20–29)% less Damage  Curse duration is (6–7.4) seconds |
+| #### Entangle | Fissures  Deals (4—111) to (6—167) Physical Damage  Fissure length is 8 metres  Attaches Vines to enemies within 1.5 metres  Limit (4—8) Fissures  Fissure duration is 8 seconds  Attaches a Vine every 0.1 seconds  Overgrown fissures expire 25% slower  Vines  Vines can stretch to a 2 metre length before breaking  Each attached Vine Slows enemy by 15%  Vines remain attached for up to 1 second  Can attach up to 3 Vines to each enemy  Overgrown fissures can attach up to 3 additional Vines  Deals (1—29) to (1—43) Physical Damage |
+| #### Essence Drain | Causes 9 to 16 Chaos damage |
+| #### Eye of Winter | Deals (1–40) to (2–59) Cold Damage  Gains 100% of damage as damage of the corresponding type when passing over an Elemental Ground Effect or Orb  Each use of this Skill deals 900% more damage with its first Hit against each enemy |
+| #### Exsanguinate | Deals (3–91) to (4–137) Physical Damage  Deals (2.4–85.6) Base Physical Damage per second  Chains 2 Times  Modifiers to Spell Damage apply to Debuff's Damage over Time  Fires tendrils at up to 3 Targets  Debuff duration is 1 second |
+| #### Fireball | Deals (8–224) to (12–336) Fire Damage  Explosion  Explosion radius is 1.7 metres  Firebolts  Projectile count cannot be modified  Inflicts 100% more Flammability Magnitude  Fires 12 Projectiles  Deals (8–224) to (12–336) Fire Damage |
+| #### Firebolt | Projectile  Deals (7–203) to (11–304) Fire Damage  Explosion  Explosion radius is 0.7 metres |
+| #### Firestorm | Firestorm  Deals (2–56) to (3–83) Fire Damage  Impact radius is 1 metre  Storm radius is 2.8 metres  Storm duration is 6 seconds  One impact every 0.2 seconds  Fire Infusion grants 200% increased bolt frequency  Fire Infusion grants +1.8 metres to storm radius  Limit 1 Firestorm  Ice Bolts  Critical Hit Chance: 12.00%  Impact radius is 1.5 metres  One impact every 0.2 seconds  Deals (2–58) to (3–86) Cold Damage  Lightning Bolts  Critical Hit Chance: 9.00%  Impact radius is 0.7 metres  One impact every 0.2 seconds  Deals (1–8) to (5–156) Lightning Damage |
+| #### Flame Wall | Wall deals (1.8–59.6) Fire Damage per second  Wall duration is (4.5–6.4) seconds  Ignites as though dealing (5–181) to (8–271) Fire damage  Projectile Damage  Projectiles which pass through the wall deal (2–27) to (3–41) Added Fire Damage  Projectiles which pass through the Infused wall deal (1–3) to (4–65) Added Lightning Damage |
+| #### Flameblast | Deals 11 to 17 Fire Damage  200% more Damage per stage   10 maximum Stages  Base Radius is 0.4 metres per Stage |
+| #### Flammability | n/a |
+| #### Freezing Mark | Limit 1 Marked Target  Mark duration is 8 seconds  Hits against Marked enemy cause 28% more Freeze buildup |
+| #### Freezing Shards | Deals (2–63) to (3–94) Cold Damage  50% more Freeze Buildup   Fires 7 Projectiles |
+| #### Frost Bomb | Deals (7–238) to (11–358) Cold Damage  Detonation Time is 4 seconds  Chills Enemies as though dealing 300% more damage  Initially applies 20% Elemental Exposure and 2% Exposure per pulse, up to a maximum of 50%  Pulse and explosion radius are (2.4–3.1) metres  Limit 1 Frost Bomb  Exposure duration is 8 seconds  Cannot apply Exposure to enemies of level higher than (20–100) |
+| #### Frost Wall | Deals (7–187) to (11–280) Cold Damage  50% more Freeze Buildup  % more area of effect if Shattered  % more damage if Shattered  80% less damage if destroyed within 0.5 seconds by something other than you  Explosion radius is 2 metres  Ice Crystal duration is 8 seconds  Ice Crystals have (36–12714) maximum Life  Wall is (2.8–5.6) metres long  Critical Hit Chance: 9.00%  50% more Freeze Buildup  % more area of effect if Shattered  % more damage if Shattered  80% less damage if destroyed within 0.5 seconds by something other than you  Explosion radius is 2.8 metres  Deals (1–15) to (11–292) Lightning Damage |
+| #### Frostbolt | Projectile  Deals (5–144) to (8–216) Cold Damage   Chills Enemies as though dealing (100–195)% more damage   Pierces all Targets   Explosion  Explosion radius is 2.4 metres  Deals (9–230) to (13–344) Cold Damage |
+| #### Galvanic Field | Deals (1–4) to (2–68) Lightning Damage  Supported Skills Cannot inflict Shock  Fires a beam every 0.1 seconds  Can target each enemy only once every (0.5–0.7) seconds  Limit 1 Field  Aura grants 20% chance to Shock |
+| #### Hexblast | Deals (21–725) to (39–1347) Chaos Damage  Explosion radius is 2 metres  Explodes a Curse on enemies in a 2.8 metre radius  Maximum 3 Explosions per cast |
+| #### Hypothermia | Curse radius is 1.7 metres  Cursed enemies have -32% to Cold Resistance  Curse duration is 6.4 seconds |
+| #### Ice Nova | Deals (6–131) to (8–196) Cold Damage  (100–157)% more Magnitude of Chill inflicted  (100–157)% more Freeze Buildup  Knocks Back Enemies  Nova radius is 3.2 metres |
+| #### Incinerate | Incinerate   Inflicts 80% less Flammability Magnitude   50% less Ignite duration   Cone length is 5.8 metres   Gains (5–10) milliseconds of fuel per Mana spent   Can store up to 10 seconds of fuel   Deals 30% more damage per stage   Gains a stage every 0.25 seconds   12 maximum stages   Ignites as though dealing (12–414) to (18–622) Fire damage  Ignited Ground   Ignited Ground duration is 4 seconds |
+| #### Inevitable Agony | Ignores Curse Limit   Curse applies after 1.5 seconds delay   Curse radius is (1.5–3.1) metres   Curse duration is (6–7.4) seconds   Cursed targets take 50% of Hit Damage dealt to them while Cursed again when Curse expires   Taking Damage again this way cannot inflict Ailments on the Cursed target |
+| #### Lightning Bolt | Deals (3–30) to (13–565) Lightning Damage  200% more chance to Shock  Impact radius is 0.8 metres |
+| #### Lightning Conduit | Deals (6–189) to (17–568) Lightning Damage  +1 second to Total Cast Time  20% more damage with Hits per 5% Shock Effect on Enemy  Cannot Shock  Cone length is 10 metres  (1–2) additional bolt if a Shocked enemy is in the target area |
+| #### Lightning Storm | Deal 1 to 19 Lightning Damage  Base duration is 10.00 seconds  25% chance to Shock enemies  Base radius is 1.8 metres  Shocks Enemies as though dealing 400% more Damage  Hits one target every 0.05 seconds  Can Hit each enemy only once every 0.40 seconds  Maximum 1 Lightning Storm at a time |
+| #### Lightning Warp | Deals 4 to 75 Lightning Damage  Base Explosion radius is 4 metres  Shocked Ground lasts 10.00 seconds |
+| #### Living Bomb | Deals (10–340) to (15–510) Fire Damage  Explosion radius is 2.5 metres  Seed duration is 15 seconds  Limit 1 active Seed  Explodes after enemy is dealt damage equal to 200% of its Ailment Threshold |
+| #### Lunar Blessing | Lunar Blessing  Cooldown does not recover during buff effect  Buff duration is 5 seconds, plus 0.2 seconds per Rage spent  Knocks back enemies in a 4 metre radius  Buff grants 52%% of damage Gained as Cold damage  Moonbeam  Cooldown Time: 1.00s  Attack Damage: 149%  Converts 100% of Physical Damage to Cold Damage  Impact Radius is 1.6 metres |
+| #### Mana Drain | Leeches Mana 70% slower  Leeches (30–408) Mana |
+| #### Mana Tempest | Empowered Spells Gain (40–78)% of damage as Lightning Damage  Empowered Spells Split to (1–3) additional target  30% of Mana and Life spent while in the storm is added to this Skill's Mana Cost per Second |
+| #### Moment of Vulnerability | Deals (1—30) to (2—46) Physical Damage  Nova radius is 4 metres  10 second delay before enemy can be affected again  (60—98)% of damage dealt to temporal visages is also dealt to the original targets |
+| #### Orb of Storms | Deals (1–14) to (8–260) Lightning Damage  Chains (3–5) times  Fires a bolt every 4 seconds, and when you cast a Spell near the Orb  Orb expires after firing 6 bolts  Orb radius is 3.6 metres  Orb duration is 12 seconds  Limit 1 Orb of Storms |
+| #### Power Siphon | Deals (1–37) to (2–68) Physical Damage  Your Spells have Culling Strike  (0–76)% chance to grant an additional Power Charge on Cull |
+| #### Profane Ritual | Deals (13.5–652.2) Base Chaos Damage per second  Limit 5 active rituals  Modifiers to Spell Damage apply to Debuff's Damage over Time  Ritual radius is 2.2 metres  Ritual duration is 2 seconds |
+| #### Raise Shield | Attack Time: 1.00 sec |
+| #### Reap | Deals (8–299) to (12–448) Physical Damage  Critical Weakness duration is 1 second |
+| #### Rolling Magma | Deals (9–216) to (12–325) Fire Damage   Chains (2–3) Times   Impact radius is (1.4–1.8) metres  Additional Effects From Quality:  (0–4)% more Damage with Hits for each time this Skill has Chained |
+| #### Sigil of Power | Gains a Stage when you Spend a total of 50% of your Maximum Mana while in Area  Maximum 4 Stage  Buff grants 14% more Spell Damage per stage  Minimum 1 second between gaining Stages  Sigil radius is 3 metres  Sigil duration is 11.9 seconds |
+| #### Sniper's Mark | Limit 1 Marked Target  Maximum Mark duration is 8 seconds  Next Critical Hit against Marked Enemy has +38% to Critical Damage Bonus |
+| #### Solar Orb | Pulse  Deals (4–181) to (5–271) Fire Damage   Pulses every 1.4 seconds   Explosion radius is 2.5 metres   Orb duration is 10 seconds   Limit 1 Solar Orb      Ignite  Ignite radius is 1 metre   Ignites as though dealing (6–287) to (8–430) Fire damage |
+| #### Spark | Base  Deals (1–11) to (10–216) Lightning Damage   Fires (4–9) Projectiles   Projectile duration is 2 seconds   Projectiles fired at the same time can Hit the same target no more than once every 0.66 seconds  Cold - Infused  Critical Hit Chance: 11.00%   Supported Skills fire Projectiles in a circle   Projectile duration is 2 seconds   +0.5 seconds to Cast Time   Projectiles fired at the same time can Hit the same target no more than once every 0.66 seconds   Deals (7–182) to (11–273) Cold Damage   Deals (1–11) to (10–216) Lightning Damage   Fires (12–16) Projectiles in a circle |
+| #### Sorcery Ward | Barrier recharges after (6.1–8) seconds  Elemental Damage from Hits is taken from the Barrier before your Life, Mana or Energy Shield   Barrier can take Elemental Damage up to 30% of your Armour and Evasion Rating |
+| #### Soulrend | Deals (4–107) to (7–198) Chaos Damage  Projectiles Pierce all Targets  Deals (11.4–308.6) Base Chaos Damage per second  Modifiers to Spell Damage apply to Debuff's Damage over Time  Debuff duration is 0.6 seconds |
+| #### Summon Wolf | Deals up to 50% more Damage, based on the distance travelled |
+| #### Temporal Chains | Curse applies after 1.5 seconds delay  Curse does not apply to enemies above level (0–20)  Curse radius is (1.5–3.1) metres  Curse Slows targets by (40–59)%  Curse duration is (6–7.4) seconds  Curse makes other effects on targets expire 25% slower |
+| #### Thunder Storm | Deal 1 to 19 Thunder Damage  Base duration is 10.00 seconds  25% chance to Shock enemies  Base radius is 1.8 metres  Shocks Enemies as though dealing 400% more Damage  Hits one target every 0.05 seconds  Can Hit each enemy only once every 0.40 seconds  Maximum 1 Thunder Storm at a time |
+| #### Thrashing Vines | Deals (5—151) to (8—226) Physical Damage  Vine length is 2.5 metres  Vine growth area radius is 4 metres  Overgrown vines are 50% larger  2 vines grow per cast time  Limit 1 vine growth area  Vines grow for 8 second duration  Overgrown vines deal 50% more damage  Vines grow facing nearby targets, no more than once per  0.5 seconds for each target |
+| #### Tornado | Deals (3—146.1) Physical damage per second  Modifiers to Spell Damage apply to Debuff's Damage over Time  Tornado radius is 3 metres  Deals (6.1—292.2) damage per second of each absorbed  Elemental Damage type  Tornado duration is 8 seconds  Limit 1 Tornado |
+| #### Unearth | Deals (4–117) to (6–176) Physical Damage  Limit (8–20) Bone Constructs  Cone length is 6 metres  Bone Construct duration is 15 seconds  Reviving Minions can only create one Bone Construct per death |
+| #### Volatile Dead | Deals (12–317) to (17–476) Fire Damage  Volatile Dead Consumes up to 1 additional corpse  Explosion radius is 1.4 metres |
+| #### Volcano | Deals (4—121) to (6—181) Fire Damage  Modifiers to cast speed also affect this skill's cost  Fires Projectiles every 0.5 seconds  Channelling ends when reaching 4 Stages  Eruption radius is 1.2 metres  Volcano duration is 8 seconds  Limit 1 Volcano  150% more Eruption damage per additional Stage |
+| #### Voltaic Mark | Mark duration is 8 seconds  Hits against Marked enemy have 50% increased chance to Shock  Shock inflicted on Marked enemy has 30% increased effect |
+| #### Vulnerability | Curse applies after 1.5 seconds delay  Curse does not apply to enemies above level (0–20)  Curse radius is (1.5–3.1) metres  Curse inflicts -(16–19210) to Total Armour  Curse duration is (6–7.4) seconds |
+| #### Wither | Withered lasts (2–2.95) seconds  6% increased Chaos Damage taken |
+
+### All Trigger Skills in Path of Exile 2
+
+**Quick Search of All Trigger Skills in POE 2**
+
+| ##### Skill Gems | ##### Effects |
+| --- | --- |
+| #### Cast on Melee Kill | Gains 300 Energy when you kill an enemy with a Melee Hit  Triggers all Socketed Spells and loses all Energy on reaching maximum Energy   Cooldown Time: 0.20 s  Has 10 maximum Energy per 0.1 seconds of base cast time of Socketed Spells  Socketed Skills deal 50% more Damage |
+| #### Cast while Channelling | Gains 60 Energy per second while you are Channelling  Loses 25 Energy per second while you are not Channelling  Loses all Energy when Reservation becomes inactive  Triggers all Socketed Spells and loses all Energy on reaching maximum Energy  Has 10 maximum Energy per 0.1 seconds of base cast time of Socketed Spells |
+
+### All Warcry Skills in Path of Exile 2
+
+**Quick Search of All Warcry Skills in POE 2**
+
+| ##### Skill Gems | ##### Effects |
+| --- | --- |
+| #### Arctic Howl | Deals (5—186) to (8—279) Cold Damage  Cannot cause Freeze Buildup  Knocks Back Enemies  Freeze enemies that are Primed for Freeze  Empowers one Attack per 5 enemy Power in  range, counting up to 50 Power  Warcry radius is 5.5 metres  Buff duration is 8 seconds  Buff grants Allies (1—37) to (2—56) added Cold damage to Attacks  Empowered Attacks deal (4—121) to (5—186) additional Cold damage |
+| #### Ferocious Roar | Empowers one Attack per 8 enemy Power in range, counting up to 64 Power  Warcry radius is 7 metres  Gain 2 Rage per enemy Power in range  Empowered Attacks Break (5—6147) Armour on Hit |
+| #### Infernal Cry | Infernal Cry  Empowers one Attack per 10 enemy Power inrange, counting up to 50 Power   Empowered Attacks Gain (30–49)% of damage as extra Fire damage   Warcry radius is 4 metres   Destabilises Enemies for 8 seconds  Combust      Use Time: 1.00 sec   Critical Hit Chance: 7.00%   Deals (3–112) to (5–167) Fire Damage   Deals 10% more Fire Damage per 1 Power of exploding Corpse   Explosion radius is 1.6 metres |
+| #### Seismic Cry | Deals (7–223) to (10–335) Physical Damage  Knocks Back Enemies  Warcry radius is 4 metres  Empowers one Slam per 10 enemy Power in range, counting up to 50 Power |
+
+### All Ascendancy Skills in Path of Exile 2
+
+**Quick Search of All Ascendancy Skills in POE 2**
+
+| ##### Skill Name | ##### Effect |
+| --- | --- |
+| ##### A Solid Plan | Persistent Buffs have 50% less Reservation requirements. |
+| ##### Adaptive Capability | [Attribute](https://pathofexile2.wiki.fextralife.com/Stats+&+Attributes "Path of Exile 2 Stats & Attributes") Requirements of Gems can be satisfied by your highest [Attribute](https://pathofexile2.wiki.fextralife.com/Stats+&+Attributes "Path of Exile 2 Stats & Attributes") |
+| ##### Advanced Thaumaturgy | Grants you the Thaumaturgical Dynamism Buff, which while active causes you to passively generate a Power, Frenzy or Endurance Charge once every five seconds.   The type of Charge you generate is determined by the Attribute Requirements of your socketed Skill Gems. The higher the total Strength Requirement total of your socketed Skill Gems, the more likely you will be to generate an Endurance Charge.   Higher total Dexterity Requirement corresponds to a higher chance for Frenzy Charges, and Intelligence to Power Charges. |
+| ##### Against the Anvil | Grants Skill: [Temper Weapon](https://pathofexile2.wiki.fextralife.com/Temper+Weapon "Path of Exile 2 Temper Weapon"). |
+| ##### Altered Flesh | 20% of Cold Damage Taken as Fire Damage.   20% of Lightning Damage Taken as Fire Damage.   20% of Physical Damage Taken as Chaos Damage. |
+| ##### Ancestral Empowerment | Every second Slam Skill you use yourself is Ancestrally Boosted |
+| ##### And I Shall Rage | Grants Skill: [Unbound Avatar](https://pathofexile2.wiki.fextralife.com/Unbound+Avatar "Path of Exile 2 Unbound Avatar") |
+| ##### And Protect me from Harm | Evasion Rating also grants Physical Damage reduction. 35% less Evasion Rating |
+| ##### And Scatter them to the Winds | Grants Skill: [Elemental Expression](https://pathofexile2.wiki.fextralife.com/Elemental+Expression "Path of Exile 2 Elemental Expression"). Trigger Elemental Expression on Melee Critical Hit |
+| ##### Answered Call | Grants Skill: [Ancestral Spirits](https://pathofexile2.wiki.fextralife.com/Ancestral+Spirits "Path of Exile 2 Ancestral Spirits"). Trigger Ancestral Spirits when you Summon a Totem |
+| ##### Anvil's Weight | Break Armour equal to 10% of Hit Damage dealt |
+| ##### Apex of the Moment | Enemies in your Presence are Slowed by 20% |
+| ##### As the Whispers Ask | Grants Skill: [Ritual Sacrifice](https://pathofexile2.wiki.fextralife.com/Ritual+Sacrifice "Path of Exile 2 Ritual Sacrifice") |
+| ##### As the Whispers Demand | Ritual Sacrifice can be used on yourself to remove 20% of maximum Life and gain a random Monster Modifier.  A maximum of one Modifier can be granted this way. |
+| ##### Avatar of Evolution | 5% of Physical Damage taken as Cold Damage  5% of Physical Damage taken as Fire Damage  5% of Physical Damage taken as Lightning Damage  Adaptations have a duration of 5 seconds  Double Adaptation Effect |
+| ##### Avidity | 50% chance to gain an additional Frenzy Charge when you gain a Frenzy Charge. |
+| ##### Azmeri Brew | Life Flasks also recover Mana  Mana Flasks also recover Life |
+| ##### Beidat's Gaze | Reserves 25% of Life. +1 to Maximum Mana per 6 Maximum Life |
+| ##### Beidat's Hand | Reserves 25% of Life. +1 to Maximum Energy Shield per 8 Maximum Life |
+| ##### Beidat's Will | Reserves 25% of Life. +1 to Maximum Spirit per 25 Maximum Life |
+| ##### Blackened Heart | 4% increased Magnitude of Unholy Might buffs you grant per 100 Maximum Mana. |
+| ##### Bleeding Concoction | Grants Skill: [Bleeding Concoction](https://pathofexile2.wiki.fextralife.com/Bleeding+Concoction+\(Attack\) "Path of Exile 2 Bleeding Concoction (Attack)") |
+| ##### Blood Barbs | Bleeding you inflict on Cursed targets is Aggravated. Elemental Damage also Contributes to Bleeding Magnitude |
+| ##### Brew Concoction | Gain access to unique concoction skills: [Bleeding](https://pathofexile2.wiki.fextralife.com/Bleeding+Concoction "Path of Exile 2 Bleeding Concoction"), [Explosive](https://pathofexile2.wiki.fextralife.com/Explosive+Concoction "Path of Exile 2 Explosive Concoction"), [Shattering](https://pathofexile2.wiki.fextralife.com/Shattering+Concoction "Path of Exile 2 Shattering Concoction"), [Fulminating](https://pathofexile2.wiki.fextralife.com/Fulminating+Concoction "Path of Exile 2 Fulminating Concoction"), and [Poisonous](https://pathofexile2.wiki.fextralife.com/Poisonous+Concoction "Path of Exile 2 Poisonous Concoction") concoctions. |
+| ##### Bringer of Flame | All Damage from you and Allies in your Presence contributes to Ignite Chance and Magnitude |
+| ##### Bringer of the Apocalypse | - Grants Skill: [Apocalypse](https://pathofexile2.wiki.fextralife.com/Apocalypse "Path of Exile 2 Apocalypse") |
+| ##### Called Shots | Grants Skill: [Called Shots (Meta Skill)](https://pathofexile2.wiki.fextralife.com/Called+Shots+\(Meta+Skill\) "Path of Exile 2 Called Shots (Meta Skill)")   Causes your projectiles to chain to marked enemies, and grants the new Called Shots Meta Skill that repeatedly marks enemies near you, bypassing your Mark limit. |
+| ##### Cannons, Ready! | Totems have 30% more Skill Speed.   Totems only use skills when you fire an Attack Projectile.   +1 to maximum number of Summoned Totems. |
+| ##### Ceremonial Ablution | Sorcery Ward's Barrier can also take Physical and Chaos Damage from Hits |
+| ##### Chayula's Gift | +10% to Maximum Chaos Resistance. Chaos Resistance is doubled |
+| ##### Circular Heartbeat | 30% of Damage taken Recouped as Life |
+| ##### Coal Stoker | Modifiers to Fire Resistance also grant Cold and Lightning Resistance at 50% of their value |
+| ##### Colossal Capacity | Carry a Chest which adds 20 Inventory Slots |
+| ##### Connected Chemistry | 50% more Flask Charges gained |
+| ##### Constant Gale | You have Arcane Surge |
+| ##### Converging Paths | Grants Skill: [Moment of Vulnerability](https://pathofexile2.wiki.fextralife.com/Moment+of+Vulnerability "Path of Exile 2 Moment of Vulnerability") |
+| ##### Corrupted Lifeforce | Grants Skill: [Blood Boil](https://pathofexile2.wiki.fextralife.com/Blood+Boil "Path of Exile 2 Blood Boil")  15% more damage against enemies affected by Blood Boils |
+| ##### Crimson Power | Gain Energy Shield from equipped Body Armour as extra maximum Life |
+| ##### Critical Strike | Chance to hit with Attacks can exceed 100%. Gain additional Critical Hit Chance equal to 25% of excess chance to hit with Attacks |
+| ##### Crushing Impacts | Your Hits are Crushing Blows   25% more Damage against Heavy Stunned Enemies |
+| ##### Crystalline Phylactery | - Can Socket one non-Unique Basic Jewel into the Phylactery. - 100% increased Effect of Socketed Jewels. - 50% more Mana Cost if you have no Energy Shield. |
+| ##### Crystalline Potential | +10% to Quality of all Skills |
+| ##### Deepening Shadows | Grants 1% increased Maximum Darkness per 1% Chaos Resistance |
+| ##### Demonic Possession | Grants Skill: [Demon Form](https://pathofexile2.wiki.fextralife.com/Demon+Form "Path of Exile 2 Demon Form") |
+| ##### Dedication to Kitava | Body Armour grants Armour also applies to Chaos Damage taken from Hits |
+| ##### Druidic Champion | Every 2 Rage also grants 1% more Spell damage |
+| ##### Bullseye | Applies 5 stacks of Critical Weakness to enemies when you consume a Mark on them |
+| ##### Earthbreaker | 25% chance for Slam Skills you use yourself to cause Aftershocks |
+| ##### Eldritch Empowerment | Spells deal 30% more Damage when Sacrificing Energy Shield, Sacrifice 5% of maximum Energy Shield when you Cast a Spell, and Sacrificing Energy Shield does not interrupt Recharge |
+| ##### Elemental Surge | Grants Skill: [Elemental Surge (Attack)](https://pathofexile2.wiki.fextralife.com/Elemental+Infusion "Path of Exile 2 Elemental Infusion") |
+| ##### Embrace the Darkness | Removes all Spirit.   Base Maximum Darkness is 100.   Damage taken is Reserved from Darkness before being taken from Life or Energy Shield.   Darkness Reservation lasts for 5 seconds. +10 to Maximum Darkness per Level |
+| ##### Endless Munitions | Skills fire an additional Projectile |
+| ##### Enduring Elixirs | Life Flask Effects are not removed when Unreserved Life is Filled. Life Flask Effects do not Queue |
+| ##### Enhanced Effectiveness | 20% less [Attributes](https://pathofexile2.wiki.fextralife.com/Stats+&+Attributes "Path of Exile 2 Stats & Attributes"). Inherent bonuses from [Intelligence](https://pathofexile2.wiki.fextralife.com/Intelligence "Path of Exile 2 Intelligence"), [Strength](https://pathofexile2.wiki.fextralife.com/Strength "Path of Exile 2 Strength"), and [Dexterity](https://pathofexile2.wiki.fextralife.com/Dexterity "Path of Exile 2 Dexterity") are doubled |
+| ##### Entwined Realities | Non-Keystone Passive Skills in Medium Radius of allocated Keystone Passive Skills can be allocated without being connected to your tree |
+| ##### Eternal Life | Your Life cannot change while you have Energy Shield |
+| ##### Explosive Concoction | Grants Skill: [Explosive Concoction](https://pathofexile2.wiki.fextralife.com/Explosive+Concoction+\(Attack\) "Path of Exile 2 Explosive Concoction (Attack)") |
+| ##### Faith is a Choice | Grants Skill: [Meditate](https://pathofexile2.wiki.fextralife.com/Meditate "Path of Exile 2 Meditate") |
+| ##### Far Shot | Projectiles deal 0% more Hit damage to targets in the first 3.5 meters of their movement, scaling up with distance traveled to reach 20% after 7 meters |
+| ##### Fateful Vision | Grants Skill: [Align Fate](https://pathofexile2.wiki.fextralife.com/Align+Fate "Path of Exile 2 Align Fate") |
+| ##### Flowing Metal | Body Armour grants 50% of Armour to also apply to Elemental Damage from Hits |
+| ##### Footprints in the Sand | Grants Skill: [Temporal Rift](https://pathofexile2.wiki.fextralife.com/Temporal+Rift "Path of Exile 2 Temporal Rift") |
+| ##### Force of Will | 20% of damage is taken from Mana before Life   20% increased magnitude of Arcane Surge on you per 10% missing Mana |
+| ##### Forced Outcome | Inevitable Critical Hits |
+| ##### Forged in Flame | Modifiers to Maximum Fire Resistance also grant Maximum Cold and Lightning Resistance |
+| ##### Fulminating Concoction | Grants Skill: [Fulminating Concoction](https://pathofexile2.wiki.fextralife.com/Fulminating+Concoction+\(Attack\) "Path of Exile 2 Fulminating Concoction (Attack)") |
+| ##### Furious Wellspring | No Inherent loss of Rage  Regenerate 6% of your maximum Rage per second  Increases and Reductions to Mana Regeneration Rate also apply to Rage Regeneration Rate  Skills have +5 to Rage cost  +7 to Maximum Rage |
+| ##### Gathering Winds | Gain Tailwind on Skill use. Lose all Tailwind when Hit |
+| ##### Gem Studded | For each colour of Socketed Gem that is most numerous, gain:  - Red: Hits against you have no Critical Damage Bonus. - Blue: Skills have 30% less cost. - Green: 40% less Movement Speed Penalty from using Skills while Moving. |
+| ##### Gore Spike | 1% increased Critical Damage Bonus per 40 Life |
+| ##### Grasping Wounds | 25% of Life Loss from Hits is prevented, then that much Life is lost over 4 seconds instead |
+| ##### Grinning Immolation | Become Ignited when you deal a Critical Hit, taking 15% of your Life and Energy Shield as Fire Damage per second. 50% more Critical Damage Bonus |
+| ##### Harmony Within | Hit damage is taken from Mana before Life if your current Mana is higher than your current Life  15% less maximum Life  15% less maximum Mana |
+| ##### Heat of the Forge | Grants Skill: [Fire Spell on Hit](https://pathofexile2.wiki.fextralife.com/Fire+Spell+on+Hit "Path of Exile 2 Fire Spell on Hit") |
+| ##### Heatproofing | Body Armour grants Unaffected by damaging ailments |
+| ##### Heavy Snows | Targets can be affected by two of your Chills at the same time.   Your Chills can Slow targets by up to a maximum of 35%.   25% less Magnitude of Chill you inflict |
+| ##### Hulking Form | 50% increased effect of Small Passive Skills |
+| ##### I am the Blizzard | Gain 10% of Damage as Extra Cold Damage. On Freezing Enemies create Chilled Ground |
+| ##### I am the Thunder | Gain 10% of Damage as Extra Lightning Damage. 25% chance on Shocking Enemies to created Shocked Ground |
+| ##### Illusory Void | Grants Skill: [Void Illusion](https://pathofexile2.wiki.fextralife.com/Void+Illusion "Path of Exile 2 Void Illusion") |
+| ##### Implanted Gems | You can choose one of the three effects listed below:   +2 to level of all Strength-based Skills   +2 to level of all Dexterity-based Skills   +2 to level of all Intelligence-based Skills |
+| ##### Imploding Impacts | You can Break Enemy Armour to below 0   Fully Broken Armour you inflict increases all Damage Taken from Hits instead |
+| ##### In for the Kill | 20% increased Movement Speed while an enemy with an Open Weakness is in your Presence   40% increased Skill Speed while an enemy with an Open Weakness is in your Presence |
+| ##### Incessant Cacophony | Your Curses have infinite Duration   You can apply an additional Curse |
+| ##### Inevitability | Grants Skill: [Inevitable Agony](https://pathofexile2.wiki.fextralife.com/Inevitable+Agony "Path of Exile 2 Inevitable Agony") |
+| ##### Infused Avatar | 50% chance for Infusions to Infuse your Projectiles without being Consumed |
+| ##### Inner Turmoil | Mana Leech recovers based on other damage types as well as Physical Damage |
+| ##### Integrated Efficiency | Skills gain 20% increased Critical Hit Chance per socketed blue [Support Gem](https://pathofexile2.wiki.fextralife.com/Support+Gems "Path of Exile 2 Support Gems")   Skills gain 20% increased Damage per socketed red [Support Gem](https://pathofexile2.wiki.fextralife.com/Support+Gems "Path of Exile 2 Support Gems")   Skills gain 6% increased Skill Speed per socketed green [Support Gem](https://pathofexile2.wiki.fextralife.com/Support+Gems "Path of Exile 2 Support Gems") |
+| ##### Internal Layer | Body Armour grants Hits against you have 100% reduced Critical Damage Bonus |
+| ##### Intricate Sigils | +1 Charm Slot. 20% more Charm Charges gained. |
+| ##### Jade Heritage | Grants Skill: [Encase in Jade](https://pathofexile2.wiki.fextralife.com/Encase+in+Jade "Path of Exile 2 Encase in Jade"). Gain a stack of Jade every second |
+| ##### Judge Jury and Executioner | Decimating Strike: Hits against Full Life Enemies remove between 5% and 30% of Life, before the damage of the Hit is applied. |
+| ##### Kitavan Engraving | Body Armour grants 15% increased maximum Life |
+| ##### Kitavan Imprint | Body Armour grants 60% increased Glory generation |
+| ##### Lead me through Grace | Gain 1 Spirit for every 8 Energy Shield on equipped Body Armour.   Gain 1 Spirit for every 20 Evasion Rating on equipped Body Armour.   Cannot gain Spirit from Equipment |
+| ##### Leather Bindings | Body Armour grants regenerate 3% of maximum Life per second |
+| ##### Living Weapon | Grants Skill: [Manifest Weapon](https://pathofexile2.wiki.fextralife.com/Manifest+Weapon "Path of Exile 2 Manifest Weapon"). |
+| ##### Loyal Hellhound | Grants Skill: [Summon Infernal Hound](https://pathofexile2.wiki.fextralife.com/Summon+Infernal+Hound "Path of Exile 2 Summon Infernal Hound") |
+| ##### Lucid Dreaming | A multi-choice Notable with the following choices:  - Choice of Life – All Flames of Chayula you manifest are Red - Choice of Mana – All Flames of Chayula you manifest are Blue - Choice of Power – All Flames of Chayula you manifest are Purple. |
+| ##### Mastered Darkness | Demonflame has no maximum |
+| ##### Mind Phylacteries | Can instead consume 25% of maximum Mana to trigger Charms with insufficient charges. |
+| ##### Mirage Deadeye | Grants Skill: [Mirage Deadeye (Meta Skill)](https://pathofexile2.wiki.fextralife.com/Mirage+Deadeye+\(Meta+Skill\) "Path of Exile 2 Mirage Deadeye (Meta Skill)") |
+| ##### Molten Symbol | Body Armour grants 25% of Physical Damage from Hits taken as Fire Damage |
+| ##### Mountain Splitter | Every Third Slam skill that doesn't create Fissures which you use yourself causes 3 additional Aftershocks ahead and to each side of the initial area |
+| ##### Multiplying Squalls | +2 to Limit for Elemental Skills |
+| ##### Mysterious Lineage | 15% more Maximum Life |
+| ##### Mystic Attunement | 25% increased bonuses gained from Equipped Rings and Amulets. |
+| ##### Mystic Harvest | Life leech recovers based on your Elemental damage as well as Physical damage |
+| ##### Necromatic Conduit | - While you are not on Low Mana, you and Allies in your Presence have Unholy Might - Lose 5% of maximum Mana per Second |
+| ##### No Mercy | Deal up to 40% more Damage to Enemies based on their missing Concentration |
+| ##### Now and Again | Skills have 33% chance to not consume a Cooldown when used |
+| ##### Obsessive Rituals | Grants Skill: [Sorcery Ward](https://pathofexile2.wiki.fextralife.com/Sorcery+Ward "Path of Exile 2 Sorcery Ward"). 35% less Armour and Evasion Rating |
+| ##### Overwhelming Toxicity | Double the number of your Poisons that targets can be affected by at the same time. 35% less Poison Duration |
+| ##### Path Seeker | Allows access to Path of the Warrior and Path of the Sorceress   Path of the Warrior - Can allocate Passives from the Warrior's starting point and grants 4 Atlas Passive Skill Points   Path of the Sorceress - Can allocate Passives from the Sorceress's starting point and grants 4 Atlas Passive Skill Points |
+| ##### Penetrate | Attacks using your Weapons have Added Physical Damage equal to 25% of the Accuracy Rating on the Weapon |
+| ##### Pitiless Killer | Culling Strike: Cuuling Strikes kill normal enemies if their life is at 30% or below. Magic enemies are instead killed at 20%, Rare at 10%, and Unique at 5%. These thresholds are checked before the damage of the Hit is applied. |
+| ##### Point Blank | Projectiles deal 20% more Hit damage to targets in the first 3.5 meters of their movement, scaling down with distance traveled to reach 0% after 7 meters |
+| ##### Acidic Concoction | Grants Skill: [Poisonous Concoction](https://pathofexile2.wiki.fextralife.com/Poisonous+Concoction+\(Attack\) "Path of Exile 2 Poisonous Concoction (Attack)") |
+| ##### Polish That Gear | Gain Deflection Rating equal to 20% of Armor. |
+| ##### Predatory Instinct | Reveal Weaknesses against Rare and Unique enemies. 50% more damage against enemies with an Open Weakness |
+| ##### Price of Power | Spells consume a Power Charge if able to deal 40% more Damage |
+| ##### Projectile Proximity Specialisation | Gain unique passive skills: [Point Blank](https://pathofexile2.wiki.fextralife.com/Point+Blank "Path of Exile 2 Point Blank") and [Far Shot](https://pathofexile2.wiki.fextralife.com/Far+Shot "Path of Exile 2 Far Shot"). |
+| ##### Pyromantic Pact | Maximum Mana is replaced by Maximum Infernal Flame.   Gain Infernal Flame instead of spending Mana for Skill costs.   Take maximum Life and Energy Shield as Fire Damage when Infernal Flame reaches maximum.   Lose all Infernal Flame on reaching maximum Infernal Flame.   50% of Infernal Flame lost per second if none was gained in the past 2 seconds. |
+| ##### Quicksand Hourglass | Grants Sands of Time   Grants 60% Cast Speed, scaling down to 1% over 10 seconds, at which point it will then scale back up to 60%   Grants 1% increased Area of Effect, scaling up to 60% over 10 seconds, at which point it will then scale back down to 1% |
+| ##### Reactive Growth | 10% less Elemental Damage taken  Adapt to the highest Elemental Damage Type of each Hit you take  10% less Damage taken of each Elemental Damage Type per matching Adaptation |
+| ##### Refracted Infusion | When collecting an Elemental Infusion, gain another different Elemental Infusion |
+| ##### Relentless Pursuit | Your speed is unaffected by Slows |
+| ##### Renly's Training | Gain 35% Base Chance to Block from Equipped Shield instead of the Shield's value |
+| ##### Right Where We Want Them | Pinned enemies cannot perform actions.   Projectile damage Builds Pins |
+| ##### Running Assault | 50% less Movement Speed Penalty from using Skills while moving   Cannot be Heavy Stunned while Sprinting |
+| ##### Rupture The Soul | Cursed Enemies Killed by you, or by Allies in your Presence, have a 33% chance to Explode, dealing a quarter of their maximum Life as Chaos Damage |
+| ##### Sacred Flow | +40 to Spirit for each of your empty Charm slots |
+| ##### Sanguimancy | Grants Skill: [Life Remnants](https://pathofexile2.wiki.fextralife.com/Life+Remnants "Path of Exile 2 Life Remnants") |
+| ##### Sanguine Tides | 50% less life recovery from Flasks   Gain 1 Life Flask Charge per 4% Life spent   On Hitting an Enemy while a Life Flask is at full Charges, 40% of its Charges are consumed   Gain 1% of damage as Physical damage for 3 seconds per Charge consumed this way |
+| ##### Sap of Nightmares | Leech recovers based on Chaos Damage as well as Physical Damage. |
+| ##### Seething Body | Gain Elemental Archon when you cast a Spell while on High Infernal Flame   Elemental Archon does not expire while on High Infernal Flame   Lose Elemental Archon on reaching maximum Infernal Flame |
+| ##### Shaper of Storms | All Damage from Hits Contributes to Shock Chance |
+| ##### Shaper of Winter | All Damage from Hits Contributes to Chill Magnitude |
+| ##### Shattering Concoction | Grants Skill: [Shattering Concoction](https://pathofexile2.wiki.fextralife.com/Shattering+Concoction+\(Attack\) "Path of Exile 2 Shattering Concoction (Attack)") |
+| ##### Smith's Masterwork | Can only use a Normal Body Armour |
+| ##### Spiked Plates | Body Armour grants 100% increased Thorns damage |
+| ##### Soulless Form | 10% of Damage taken bypasses Energy Shield  No inherent Mana Regeneration  Regenerate Mana equal to 6% of maximum Life per second |
+| ##### Stalking Panther | Evasion Rating from Equipped Helmet, Gloves and Boots is doubled   Evasion Rating from Equipped Body Armour is halved |
+| ##### Stay Light, Use Cover | Defend with 200% Armor.  Enemies have an Accuracy Penalty against you based on Distance.  Maximum Evade Chance is 50%.  Maximum Physical Damage Reduction is 50%. |
+| ##### Stone Skin | 50% more Armour from Equipped Body Armour |
+| ##### Storm's Recollection | Remnants you create reappear once, 3 seconds after being collected   Remnants can be collected from 50% further away |
+| ##### Strategic Embankments | Grants Embarkment Auras to your Totems when placed. The effect varies depending on the totem used. |
+| ##### Strike Twice | Targets can be affected by two of your Shocks at the same time. 25% less Magnitude of Shock you inflict |
+| ##### Sunder my Enemies | Critical Hits ignore non-negative Enemy Monster Elemental Resistances |
+| ##### Sunder the Flesh | Base Critical Hit Chance for Spells is 15% |
+| ##### Support Straps | Body Armour grants 20% increased Strength |
+| ##### Suppressing Fire | Provides 40% more Immobilisation buildup. |
+| ##### Surging Avatar | When you Consume a Charge, Trigger Elemental Surge to gain 2 Fire Surges   When you Consume a Charge, Trigger Elemental Surge to gain 2 Cold Surges   Gain 1 fewer Lightning Surge from Triggering Elemental Surge |
+| ##### Sustainable Practices | 50% of Evasion Rating   Grants Elemental Damage reduction |
+| ##### Tantalum Alloy | Body Armour grants +75% to Fire Resistance |
+| ##### Tempest Caller | Grants Skill: [Elemental Storm](https://pathofexile2.wiki.fextralife.com/Elemental+Storm "Path of Exile 2 Elemental Storm"). Trigger Elemental Storm on Critical Hit with Spells |
+| ##### Thaumaturgical Infusion | +1% to Maximum Cold Resistance per 3 Blue [Support Gems](https://pathofexile2.wiki.fextralife.com/Support+Gems "Path of Exile 2 Support Gems") Socketed.   +1% to Maximum Fire Resistance per 3 Red [Support Gems](https://pathofexile2.wiki.fextralife.com/Support+Gems "Path of Exile 2 Support Gems") Socketed.   +1% to Maximum Lightning Resistance per 3 Green [Support Gems](https://pathofexile2.wiki.fextralife.com/Support+Gems "Path of Exile 2 Support Gems") Socketed |
+| ##### The Lesser Harm | Enemy Critical Hit Chance against you is Unlucky  Damage of Enemies Hitting you is Unlucky |
+| ##### The Rapid River | Recoup Effects instead occur over 4 seconds |
+| ##### The Soul Springs Eternal | Meta Skills gain 35% more Energy |
+| ##### The Unseen Path | Walk the Paths Not Taken |
+| ##### Thrilling Chase | Benefits from Consuming Frenzy Charges for your Skills have 50% chance to be doubled |
+| ##### Traveller's Wisdom | Grants Attribute Passive Skills offer additional Options   5% increased Damage   5% increased Global Defences   5% increased Cost Efficiency |
+| ##### Tribute to Utula | Body Armour grants 30% increased Spirit |
+| ##### Turning of the Seasons | Enemies in your Presence have Exposure   Gain 10% of Damage as Extra Damage of a random Element |
+| ##### Turtle Charm | Take 30% of damage from Blocked Hits   Maximum Block Chance is 75% |
+| ##### Ultimate Command | Grants Skill: [Time Freeze](https://pathofexile2.wiki.fextralife.com/Time+Freeze "Path of Exile 2 Time Freeze") |
+| ##### Unbound Encore | Grants Skill: [Time Snap](https://pathofexile2.wiki.fextralife.com/Time+Snap "Path of Exile 2 Time Snap") |
+| ##### Unfurled Finger | +1 Ring Slot. |
+| ##### Unleash Hell! | Grants Skill: [Supporting Fire](https://pathofexile2.wiki.fextralife.com/Supporting+Fire "Path of Exile 2 Supporting Fire") |
+| ##### Unnamed Heartwood | +1 to maximum number of Summoned Totems  Totems die 6 seconds after their Life is reduced to 0 |
+| ##### Unravelling | Grants Chaos Damage from Hits also Contributes to Ignite Chance and Magnitude, Freeze Buildup, or Shock Chance, changing every 2 seconds |
+| ##### Vitality Siphon | 10% of Spell Damage Leeched as Life |
+| ##### Waking Dream | Grants Skill: [Into the Breach](https://pathofexile2.wiki.fextralife.com/Into+the+Breach "Path of Exile 2 Into the Breach") |
+| ##### Warcaller's Bellow | Warcries Explode Corpses dealing 25% of their Life as Physical Damage |
+| ##### Watch How I Do It | Allies in your Presence gain added Attack Damage equal to 25% of your main hand's Weapon Damage. |
+| ##### Weapon Master | 100 Passive Skill Points become Weapon Set Skill Points. Grants 6% increased Cooldown Recovery Rate |
+| ##### Whispers of the Flesh | Targets Cursed by you have 100% reduced Life Regeneration Rate   Targets Cursed by you have at least 15% of Life Reserved |
+| ##### Whoever Pays Best | There is no Limit on the number of Banners you can place   Banners gain 5 Glory per Second |
+| ##### Wildwood Persistence | 10% increased Life Recovery rate per 5% missing Unreserved Life |
+| ##### Wisdom of the Magi | Gain the benefits of modifiers on and |
+| ##### Witchbane | Enemies have Maximum Concentration equal to 30% of their Maximum Life.  Break enemy Concentration on Hit equal to 100% of Damage Dealt.  Enemies regain 10% of Concentration every second if they haven't lost Concentration in the past 5 seconds |
+| ##### Wooden Wall | 20% of Damage from Hits is taken from your nearest Totem's Life before you |
+| ##### Zealous Inquisition | 10% chance for Enemies you Kill to Explode, dealing 100% of their maximum Life as Physical Damage. Chance is doubled against Undead and Demons |
+
+<iframe src="https://static.btloader.com/safeFrame.html?upapi=true"></iframe>

@@ -20,6 +20,8 @@
 ## Skills
 <!-- skill gems, support gems, interactions -->
 
+- [[skills/skill-categories|skill-categories]] | gems, ammunition, attack, buff, meta, trigger, warcry | 0.4.0 | 2026-05
+
 ## Crafting
 <!-- methods, currencies, strategies -->
 

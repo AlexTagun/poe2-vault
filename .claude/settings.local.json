@@ -2,7 +2,12 @@
   "permissions": {
     "allow": [
       "Bash(dir D:\\\\my_progs\\\\poe2-vault)",
-      "WebFetch(domain:pathofexile2.wiki.fextralife.com)"
+      "WebFetch(domain:pathofexile2.wiki.fextralife.com)",
+      "PowerShell(python -c \"import markdownify; print\\(markdownify.__version__\\)\" 2>&1)",
+      "PowerShell(python -c \"from bs4 import BeautifulSoup; print\\('bs4 ok'\\)\" 2>&1)",
+      "PowerShell(python -c \"import requests; print\\(requests.__version__\\)\" 2>&1)",
+      "Bash(python scripts/fetch_skills.py)",
+      "Bash(tee scripts/fetch_skills.log)"
     ]
   }
 }

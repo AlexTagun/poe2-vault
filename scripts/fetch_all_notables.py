@@ -25,9 +25,18 @@ ASC_DIR = ROOT / "raw" / "Clippings" / "ascendancies"
 OUT_DIR = ROOT / "raw" / "Clippings" / "ascendancy-notables"
 
 LINK_RE = re.compile(r'\((/([^"\s)]+))\s+"Path of Exile 2 [^"]+"\)')
+
+# Base classes, attributes, and generic concept pages — not notables
+DENYLIST: set[str] = {
+    "Witch", "Warrior", "Monk", "Ranger", "Sorceress", "Mercenary",
+    "Huntress", "Druid", "Strength", "Dexterity", "Intelligence",
+    "Spirit", "Skill Gems", "Support Gems", "Passive Skills",
+    "Stats & Attributes", "Path of Exile 2 Wiki",
+    "Energy Shield", "Life", "Mana", "Armour", "Evasion",
+}
 # Header that starts the skills table
 SECTION_RE = re.compile(
-    r"^### Path of Exile 2 \(PoE 2\) .+? (?:Skills|Skill Gems)\b",
+    r"^###\s+Path of Exile 2\s+\(PoE 2\)\s+.+?\s+(?:Skills|Skill Gems)\b",
     re.MULTILINE,
 )
 
@@ -51,10 +60,12 @@ def extract_from(path: Path) -> set[tuple[str, str]]:
     out: set[tuple[str, str]] = set()
     for path_part, slug in LINK_RE.findall(section):
         name = url_to_name(slug)
-        # Filter out things that are clearly not notable/passive nodes
+        if name in DENYLIST:
+            continue
+        # Filter out broad navigation links
         if any(kw in name.lower() for kw in (
-            "skill+gem", "support+gem", "stats", "passive+skills",
-            "weapons", "ascendanc", "wiki", "elemental+damage+passive",
+            "skill gem", "support gem", "stats", "passive skills",
+            "weapons", "ascendanc", "wiki",
         )):
             continue
         url = BASE_URL + path_part

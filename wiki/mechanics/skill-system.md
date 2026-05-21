@@ -2,7 +2,7 @@
 category: mechanics
 sources:
   - raw/fextralife/path-of-exile-2-wiki-hub.md
-  - raw/fextralife/skills.md
+  - raw/Clippings/Skills.md
 patch: 0.4.0
 updated: 2026-05-21
 ---

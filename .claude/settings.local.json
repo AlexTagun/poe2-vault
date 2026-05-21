@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir D:\\\\my_progs\\\\poe2-vault)",
+      "WebFetch(domain:pathofexile2.wiki.fextralife.com)"
+    ]
+  }
+}

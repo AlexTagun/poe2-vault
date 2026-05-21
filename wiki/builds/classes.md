@@ -1,106 +1,145 @@
 ---
 category: builds
-sources: [raw/fextralife/path-of-exile-2-wiki-hub.md]
+sources: [raw/fextralife/path-of-exile-2-wiki-hub.md, raw/fextralife/classes.md]
 patch: 0.4.0
 updated: 2026-05-21
 ---
 
 # Классы PoE 2
 
-В Early Access заявлено **12 базовых классов** (Fextralife называет это число, но в этом источнике развёрнуто описаны только 8). 3 Ascendancy на класс = 36 итого.
+**12 базовых классов**, по **3 Ascendancy** на класс → **36 Ascendancy** всего. Классы распределены по трём атрибутам (STR/DEX/INT) и их гибридам.
 
-> Источник перечисляет: Druid, Huntress, Mercenary, Monk, Ranger, Sorceress, Warrior, Witch — плюс "и другие" без детализации. Пробелы нужно дополнить из других источников.
+> Любой класс может использовать любой [[skill-system|Skill Gem]], усиленный до 5 Support Gem. Дополнительно — **Dual Specialisation** пассивного дерева: два разных набора пасок, переключаемых на лету по оружию или скиллу. Дерево содержит **1500+ узлов**. См. [[skill-system|Skill System]] и [[stats-attributes|Stats & Attributes]].
+
+## Сводная таблица
+
+| Класс       | Атрибут(ы) | Оружие              | Ascendancies                          | Статус        |
+|-------------|------------|----------------------|---------------------------------------|---------------|
+| Warrior     | STR        | 2H mace / 1H + shield| Warbringer, Titan                     | available     |
+| Marauder    | STR        | —                    | —                                     | coming soon   |
+| Ranger      | DEX        | Bow                  | Deadeye, Pathfinder                   | available     |
+| Huntress    | DEX        | [[Spear]]            | Amazon, Ritualist                     | available (0.2.0) |
+| Assassin    | DEX        | —                    | —                                     | coming soon   |
+| Sorceress   | INT        | — (spell-focused)    | Stormweaver, Chronomancer             | available     |
+| Witch       | INT        | — (minions)          | Blood Mage, Infernalist               | available     |
+| Mercenary   | STR/DEX    | [[Crossbow]]         | Witchhunter, Gemling Legionnaire      | available     |
+| Monk        | INT/DEX    | Quarterstaff / unarmed| Invoker, Acolyte of Chayula          | available     |
+| Druid       | STR/INT    | shapeshift forms     | Shaman, Oracle                        | available (0.4.0) |
+| Gladiator   | hybrid?    | —                    | —                                     | coming soon   |
+| Templar     | hybrid?    | —                    | —                                     | coming soon   |
 
 ---
 
-## Druid
+## Strength
 
-- **Атрибуты**: Strength / Intelligence (hybrid)
-- **Архетип**: shapeshifter, гибридный кастер-melee
-- **Ресурсы**: Rage, Power charges, Essence
-- **Формы**:
-  - **Bear Form** — Rage-based, физический урон
-  - **Wolf Form** — скорость, холодный урон
-  - **Wyvern Form** — стихийные атаки, power charges
-- **Ascendancy**: Shaman, Oracle (добавлены в 0.4.0)
-- **Введён в**: [[patches|0.4.0]] "The Last of the Druids"
+### Warrior (STR)
 
-Кастует спеллы в человеческой форме, превращается в зверей для melee.
+- **Архетип**: танковый melee, heavy armor, weapon mastery
+- **Сигнатура**: Heavy Slams, Stuns, Knockback, blocking
+- **Оружие**: 2H mace либо 1H + shield
+- **Ascendancy**: Warbringer, Titan
+- **Цитата**: "Classic tanky melee class" с "exceptional survivability through blocking mechanics"
+
+### Marauder (STR) — *coming soon*
+
+В Fextralife обозначен как второй STR-класс наряду с Warrior. Деталей нет.
 
 ---
 
-## Huntress
+## Dexterity
 
-- **Атрибуты**: Dexterity / Intelligence
-- **Архетип**: ranged-специалист, мобильность + статусы
-- **Основное оружие**: [[Spear]]
+### Ranger (DEX)
+
+- **Архетип**: скоростной лучник, crowd control, элементальные стрелы
+- **Оружие**: [[Bow]]
+- **Сигнатурные скиллы**: Poisonburst Arrow, Lightning Arrow, Frost Escape, Snipe — стрелы Fire/Cold/Lightning или ядовитые
+- **Особенность**: зоны яда от стрел (poison zones)
+- **Ascendancy**: Deadeye, Pathfinder
+
+### Huntress (DEX)
+
+- **Архетип**: гибрид melee+ranged, высокая мобильность, статусы
+- **Оружие**: [[Spear]] (метаемое и в ближнем бою)
 - **Ascendancy**: Amazon, Ritualist
 - **Введён в**: [[patches|0.2.0]] "Dawn of the Hunt"
 
----
-
-## Mercenary
-
-- **Атрибуты**: Dexterity / Strength
-- **Архетип**: crossbow-мастер с ammo-вариациями
-- **Основное оружие**: [[Crossbow]] (двойное)
-- **Боеприпасы**: armor-piercing, incendiary, permafrost
-- **Attachments**: гранатомёты (см. Redemption Crossbow в [[patches|0.5.0]])
+### Assassin (DEX) — *coming soon*
 
 ---
 
-## Monk
+## Intelligence
 
-- **Архетип**: Martial Artist, рукопашник
-- **Сигнатурный скилл**: "Fists of Stone"
-- **Особенность**: runic tattoo abilities
+### Sorceress (INT)
 
-> В источнике также упомянут "Martial Artist" как новый Ascendancy в 0.5.0 — нужно сверить, разные ли это сущности (класс Monk vs Ascendancy Martial Artist).
+- **Архетип**: чистый элементальный кастер (Fire / Cold / Lightning)
+- **Оружие**: нет приоритета; сила в spell mastery
+- **Ascendancy**: Stormweaver, Chronomancer
+- **Цитата**: "Quintessential spellcasting mage"
 
----
+> В предыдущей версии страницы Sorceress описывалась как "caster + minion summoner" с auto-revival для скелетов. Это противоречит Fextralife — в источнике Sorceress чисто стихийная, а минионы это домен Witch. Корректирую: минионы → Witch.
 
-## Ranger
+### Witch (INT)
 
-- **Архетип**: скорость-ориентированный лучник
-- **Стихийные стрелы**: fire, cold, lightning
-- **Сигнатурные скиллы**: Poisonburst Arrow, Lightning Arrow, Frost Escape, Snipe
-- **Особенность**: poison zones (зоны яда от стрел)
-
----
-
-## Sorceress
-
-- **Атрибуты**: Intelligence
-- **Архетип**: caster + minion summoner
-- **Миньоны**: skeletal warriors, scorpions, zombies
-- **Особенность**: auto-revival для скелетов
+- **Архетип**: некромант / chaos caster
+- **Сигнатура**: армии нежити (Skeletons, Spectres), Osteomancy
+- **Ресурс**: [[Spirit]] управляет активными миньонами
+- **Инструменты**: curses, crowd control, chaos damage
+- **Ascendancy**: Blood Mage, Infernalist
+- **Цитата**: "Path of Exile 2's version of the Necromancer"
 
 ---
 
-## Warrior
+## Hybrid
 
-- **Атрибуты**: Strength
-- **Архетип**: melee + heavy armor + weapon mastery
+### Mercenary (STR/DEX)
 
-> Деталей в источнике немного — TODO дополнить.
+- **Архетип**: crossbow-специалист с ammo-вариациями
+- **Оружие**: [[Crossbow]] (различные типы с разными боеприпасами)
+- **Боеприпасы**: armor-piercing, incendiary, permafrost; elemental grenades (freeze / flammable oil)
+- **Ascendancy**: Witchhunter, Gemling Legionnaire
+- **Attachments**: гранатомёты — см. Redemption Crossbow в [[patches|0.5.0]]
+
+### Monk (INT/DEX)
+
+- **Архетип**: Martial Artist, quarterstaff + unarmed combos
+- **Сигнатура**: Quick Strikes, Mobility, Combos; "Fists of Stone"; runic tattoo abilities
+- **Особенность**: unarmed finishing blows вызывают элементальные взрывы
+- **Ascendancy**: Invoker, Acolyte of Chayula
+
+> Уточнение: Monk — базовый класс, а **Martial Artist** (упомянутый как новинка 0.5.0) — это, по-видимому, Ascendancy/архетип. Стоит сверить с патч-нотами.
+
+### Druid (STR/INT)
+
+- **Архетип**: shapeshifter, гибридный кастер-melee
+- **Ресурсы**: Rage (Bear), Power charges, Essence
+- **Формы** (через Animal Talismans):
+  - **Bear Form** — Rage-based, физический урон
+  - **Wolf Form** — скорость, холодный урон
+  - **Wyvern Form** — стихийные атаки (lightning + fire), power charges
+- **Ascendancy**: Shaman, Oracle
+- **Введён в**: [[patches|0.4.0]] "The Last of the Druids"
+
+### Gladiator — *coming soon*
+
+### Templar — *coming soon*
 
 ---
 
-## Witch
+## Атрибуты и позиции на дереве
 
-- **Архетип**: dark sorcery caster
-- **Инструменты**: curses, minion control, crowd control
+- **STR**: physical power, melee, defense → Warrior, Marauder
+- **DEX**: agility, ranged, evasion → Ranger, Huntress, Assassin
+- **INT**: spellcasting, minions, элементы → Sorceress, Witch
+- **STR/INT**: Druid
+- **INT/DEX**: Monk
+- **STR/DEX**: Mercenary
 
-> Отличия от Sorceress (тоже минионщица) — в источнике не раскрыты. TODO.
-
----
-
-## Anonsed / прочие классы
-
-12 классов заявлено, выше — 8. Не упомянуты в этом источнике: возможно Spirit Walker / Martial Artist приходят как Ascendancy в 0.5.0, а не как отдельные базовые классы. Нужен другой raw-источник для полного списка.
+Подробнее по влиянию атрибутов на параметры персонажа — [[stats-attributes|Stats & Attributes]].
 
 ## Связанные ссылки
 - [[overview|Game overview]]
 - [[patches|Patch timeline]]
 - [[skill-system|Skill System]]
 - [[combat|Combat basics]]
+- [[stats-attributes|Stats & Attributes]]
+- [[character|Character hub]]

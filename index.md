@@ -15,6 +15,7 @@
 - [[mechanics/combat|combat]] | dodge, spirit, melee | 0.4.0 | 2026-05
 - [[mechanics/atlas-endgame|atlas-endgame]] | atlas, waystone, breach, ritual, delirium, pinnacle | 0.4.0 | 2026-05
 - [[mechanics/skill-system|skill-system]] | gems, supports, passive tree | 0.4.0 | 2026-05
+- [[mechanics/stats-attributes|stats-attributes]] | STR/DEX/INT, life, ES, resists, jewellery | 0.4.0 | 2026-05
 
 ## Skills
 <!-- skill gems, support gems, interactions -->

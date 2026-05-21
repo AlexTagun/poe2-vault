@@ -1,6 +1,6 @@
 ---
 category: meta
-sources: [raw/fextralife/character-information.md, raw/fextralife/path-of-exile-2-wiki-hub.md]
+sources: [raw/fextralife/character-information.md, raw/fextralife/path-of-exile-2-wiki-hub.md, raw/fextralife/stats-attributes.md]
 patch: 0.4.0
 updated: 2026-05-21
 ---
@@ -41,7 +41,7 @@ QoL: Refund All Passives (с 0.2.1).
 
 ## Stats & Attributes
 
-[[stats-attributes]] (TODO) — детальные формулы. Известно только, что есть три ядерных атрибута (Strength, Dexterity, Intelligence) и гибридные классы используют их комбинации. Источник `/Stats+&+Attributes` — TODO.
+См. [[stats-attributes|Stats & Attributes]]: STR (+2 Life/очко), DEX (+5 Accuracy), INT (+2 Mana). Сами по себе урон не дают. Гибридные классы используют комбинации. Там же — defensive/offensive статы, резисты и permanent upgrades по актам.
 
 ## Builds
 

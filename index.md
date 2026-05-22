@@ -18,6 +18,8 @@
 - [[mechanics/merchants|merchants]] | merchants, gold, trading, disenchanting, gambling, currency exchange, vendor | 0.4.0 | 2026-05
 - [[mechanics/quests|quests]] | quests, main quests, side quests, act 1, act 2, act 3, act 4, interlude, ascendancy trials | 0.4.0 | 2026-05
 - [[mechanics/combat|combat]] | dodge, spirit, melee | 0.4.0 | 2026-05
+- [[mechanics/multiplayer|multiplayer]] | party, co-op, crossplay, loot allocation, guilds, local co-op, online | 0.4.0 | 2026-05
+- [[mechanics/pvp|pvp]] | pvp, player vs player, duel, not yet available | 0.4.0 | 2026-05
 - [[mechanics/atlas-endgame|atlas-endgame]] | atlas, waystone, breach, ritual, delirium, pinnacle | 0.4.0 | 2026-05
 - [[mechanics/hideouts|hideouts]] | hideout, base, crafting bench, map device, decorations, endgame | 0.4.0 | 2026-05
 - [[mechanics/skill-system|skill-system]] | gems, supports, passive tree | 0.4.0 | 2026-05
@@ -98,6 +100,11 @@
   - [[builds/ascendancies/blood-mage|Blood Mage]], [[builds/ascendancies/infernalist|Infernalist]], [[builds/ascendancies/lich|Lich]] — Witch
   - [[builds/ascendancies/warbringer|Warbringer]], [[builds/ascendancies/titan|Titan]], [[builds/ascendancies/smith-of-kitava|Smith of Kitava]] — Warrior
   - [[builds/ascendancies/shaman|Shaman]], [[builds/ascendancies/oracle|Oracle]] — Druid
+
+## Lore
+<!-- история мира, мифология, сюжет -->
+
+- [[lore/lore|lore]] | lore, story, vaal, atziri, doryani, beast, innocence, sin, wraeclast, acts, act 1, act 2 | 0.4.0 | 2026-05
 
 ## Glossary
 <!-- short term definitions -->

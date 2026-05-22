@@ -48,12 +48,12 @@ def read_names() -> list[str]:
 
 
 def existing_stems() -> set[str]:
+    """Only track passive-skills folder — name collisions with skills/support-gems
+    are legitimately different pages and must be fetched separately."""
     stems: set[str] = set()
-    for sub in ("skills", "support-gems", "ascendancy-notables", "ascendancies", "passive-skills"):
-        d = ROOT / "raw" / "Clippings" / sub
-        if d.exists():
-            for f in d.glob("*.md"):
-                stems.add(f.stem)
+    if OUT_DIR.exists():
+        for f in OUT_DIR.glob("*.md"):
+            stems.add(f.stem)
     return stems
 
 

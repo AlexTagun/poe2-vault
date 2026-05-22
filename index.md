@@ -32,6 +32,8 @@
 ## Items
 <!-- bases, uniques, modifiers -->
 
+- [[items/unique-weapons|unique-weapons]] | unique, weapons, bows, maces, staves, spears, wands, crossbows, talismans | 0.4.0 | 2026-05
+
 ## Builds
 <!-- archetypes, synthesized strategies -->
 

@@ -9,7 +9,8 @@
       "Bash(python scripts/fetch_skills.py)",
       "Bash(tee scripts/fetch_skills.log)",
       "Bash(python scripts/fetch_ascendancy_notables.py)",
-      "Bash(tee scripts/fetch_ascendancy_notables.log)"
+      "Bash(tee scripts/fetch_ascendancy_notables.log)",
+      "Bash(powershell:*)"
     ]
   }
 }

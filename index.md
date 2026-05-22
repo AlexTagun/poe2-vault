@@ -13,6 +13,10 @@
 <!-- damage calc, defenses, ailments, leveling, etc. -->
 
 - [[mechanics/locations|locations]] | locations, acts, zones, act 1, act 2, act 3, act 4, interlude | 0.4.0 | 2026-05
+- [[mechanics/bosses|bosses]] | bosses, act 1, act 2, act 3, act 4, interlude, count geonor, doryani, jamanra, cc, freeze, stun | 0.4.0 | 2026-05
+- [[mechanics/npcs|npcs]] | npcs, renly, una, einhar, trialmaster, doryani, expedition, dannig, rog, tujen | 0.4.0 | 2026-05
+- [[mechanics/merchants|merchants]] | merchants, gold, trading, disenchanting, gambling, currency exchange, vendor | 0.4.0 | 2026-05
+- [[mechanics/quests|quests]] | quests, main quests, side quests, act 1, act 2, act 3, act 4, interlude, ascendancy trials | 0.4.0 | 2026-05
 - [[mechanics/combat|combat]] | dodge, spirit, melee | 0.4.0 | 2026-05
 - [[mechanics/atlas-endgame|atlas-endgame]] | atlas, waystone, breach, ritual, delirium, pinnacle | 0.4.0 | 2026-05
 - [[mechanics/hideouts|hideouts]] | hideout, base, crafting bench, map device, decorations, endgame | 0.4.0 | 2026-05

@@ -29,6 +29,9 @@
 ## Crafting
 <!-- methods, currencies, strategies -->
 
+- [[crafting/crafting-overview|crafting-overview]] | currency, orbs, essences, omens, vaal, quality, sockets, runes, salvaging | 0.4.0 | 2026-05
+- [[crafting/gemcutting|gemcutting]] | uncut gems, skill gems, support gems, gem tags, gemcutting menu | 0.4.0 | 2026-05
+
 ## Items
 <!-- bases, uniques, modifiers -->
 

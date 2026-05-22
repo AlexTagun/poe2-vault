@@ -56,6 +56,8 @@ updated: 2026-05-21
 - 100+ Support Gems в 0.2.0, +30+ в 0.4.0
 - Система Support Gem перестроена в 0.3.0 («Support Gem system rebuild»)
 - Цитата Fextralife: саппорты *"provide utility effects rather than direct offensive stats"* — намёк, что чистых +damage саппортов в PoE 2 меньше, чем в PoE 1.
+- Каждый слинкованный саппорт добавляет **+5** к соответствующему атрибутному требованию скилла
+- Один и тот же саппорт **нельзя** использовать на двух разных скиллах одновременно
 
 ## Persistent Buff Gems
 
@@ -88,7 +90,7 @@ QoL: с 0.2.1 есть кнопка **Refund All Passives**.
 
 ## Gemcutting
 
-[[Gemcutting]] — отдельная подсистема. Здесь — только базовые механики; подробности (стоимость, ограничения по уровню гемов, способы получения uncut gems) — TODO.
+[[crafting/gemcutting|Gemcutting]] — отдельная подсистема создания гемов из Uncut Gems. Подробности: типы гемов, ограничения саппортов, Gem Tags — на странице [[crafting/gemcutting|Gemcutting]].
 
 ## Связанные ссылки
 - [[combat|Combat basics]] — про Melee Enhancement (default attacks бесплатно усиливаются гемами)

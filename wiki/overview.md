@@ -31,7 +31,7 @@ Free-to-play action RPG от Grinding Gear Games. Early Access с 6 декабр
 - Хаб: [[character|Character (всё про персонажа)]]
 - 12 базовых классов: см. [[classes|Список классов]]
 - 3 Ascendancy на класс (36 итого после ввода всех)
-- [[passive-tree|Passive Tree]] с дуал-специализацией (2 разных стиля боя)
+- [[mechanics/passive-skill-tree|Passive Tree]] с дуал-специализацией (2 разных стиля боя)
 
 ## Боевая система
 См. [[combat|Combat basics]]:

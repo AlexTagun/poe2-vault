@@ -82,7 +82,7 @@ Fextralife делит активные скиллы на:
 
 ## Passive Tree
 
-[[Passive Tree]] поддерживает **дуал-специализацию**: можно прокачивать 2 разных стиля боя в одном дереве. Точные правила переключения — TODO (проверить отдельный источник).
+[[mechanics/passive-skill-tree|Passive Tree]] поддерживает **дуал-специализацию**: можно прокачивать 2 разных стиля боя в одном дереве. ~1800+ Small Passives, 500+ Notables, 16+ Keystones. Gold-ноды глобальны, Red/Green — по Weapon Set.
 
 QoL: с 0.2.1 есть кнопка **Refund All Passives**.
 

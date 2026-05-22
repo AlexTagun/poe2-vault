@@ -15,12 +15,14 @@
 - [[mechanics/combat|combat]] | dodge, spirit, melee | 0.4.0 | 2026-05
 - [[mechanics/atlas-endgame|atlas-endgame]] | atlas, waystone, breach, ritual, delirium, pinnacle | 0.4.0 | 2026-05
 - [[mechanics/skill-system|skill-system]] | gems, supports, passive tree | 0.4.0 | 2026-05
+- [[mechanics/passive-skill-tree|passive-skill-tree]] | passive tree, keystones, weapon specialization, dual spec, respec | 0.4.0 | 2026-05
 - [[mechanics/stats-attributes|stats-attributes]] | STR/DEX/INT, life, ES, resists, jewellery | 0.4.0 | 2026-05
 
 ## Skills
 <!-- skill gems, support gems, interactions -->
 
 - [[skills/skill-categories|skill-categories]] | gems, ammunition, attack, buff, meta, trigger, warcry | 0.4.0 | 2026-05
+- [[skills/fan-the-flames|fan-the-flames]] | support gem, wind, ignite, fire, trigger, druid, huntress | 0.4.0 | 2026-05
 
 ## Crafting
 <!-- methods, currencies, strategies -->

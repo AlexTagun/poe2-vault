@@ -35,7 +35,7 @@ updated: 2026-05-21
 
 ## Passive Skills
 
-[[passive-tree|Passive Tree]] с дуал-специализацией (2 разных стиля боя). Источник `/Passive+Skills` — TODO.
+[[mechanics/passive-skill-tree|Passive Tree]] с дуал-специализацией (2 разных стиля боя). Источник `/Passive+Skills` — ингестирован.
 
 QoL: Refund All Passives (с 0.2.1).
 

@@ -14,7 +14,8 @@
       "Bash(python scripts/fetch_uniques.py --index-only)",
       "PowerShell(head -30)",
       "PowerShell(New-Item -ItemType Directory -Path \"D:\\\\my_progs\\\\poe2-vault\\\\raw\\\\fextralife\\\\off-hand\" -Force)",
-      "PowerShell(Get-ChildItem \"D:\\\\my_progs\\\\poe2-vault\\\\raw\\\\Clippings\\\\ascendancy-notables\\\\\" -Force | ForEach-Object { $_.FullName })"
+      "PowerShell(Get-ChildItem \"D:\\\\my_progs\\\\poe2-vault\\\\raw\\\\Clippings\\\\ascendancy-notables\\\\\" -Force | ForEach-Object { $_.FullName })",
+      "PowerShell(\\(Get-ChildItem \"D:\\\\my_progs\\\\poe2-vault\\\\raw\\\\Clippings\\\\skills\\\\\"\\).Count)"
     ]
   }
 }

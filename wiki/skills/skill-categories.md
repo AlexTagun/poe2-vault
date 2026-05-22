@@ -2,8 +2,9 @@
 category: skills
 sources:
   - raw/Clippings/Skills.md
+  - raw/Clippings/skills/*.md
 patch: 0.4.0
-updated: 2026-05-21
+updated: 2026-05-22
 ---
 
 # Skill Categories
@@ -19,6 +20,7 @@ Fextralife группирует все активные скиллы (Skill Gems
 > которых грантят активные скиллы из других категорий. См. соответствующий раздел.
 
 Полные эффекты по каждому скиллу — в [raw/Clippings/Skills.md](../../raw/Clippings/Skills.md).
+Таблица с T1 саппортами и требованиями по оружию — [[skills/skill-reference|skill-reference]].
 
 ## Сводка
 

@@ -22,7 +22,8 @@
 <!-- skill gems, support gems, interactions -->
 
 - [[skills/skill-categories|skill-categories]] | gems, ammunition, attack, buff, meta, trigger, warcry | 0.4.0 | 2026-05
-- [[skills/fan-the-flames|fan-the-flames]] | support gem, wind, ignite, fire, trigger, druid, huntress | 0.4.0 | 2026-05
+- [[skills/skill-reference|skill-reference]] | all skills, support gems, weapon requirements, patch notes | 0.4.0 | 2026-05
+
 
 ## Crafting
 <!-- methods, currencies, strategies -->

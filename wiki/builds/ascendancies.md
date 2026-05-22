@@ -1,8 +1,8 @@
 ---
 category: builds
-sources: [raw/fextralife/ascendancies.md, raw/fextralife/classes.md]
+sources: [raw/fextralife/ascendancies.md, raw/fextralife/classes.md, raw/Clippings/ascendancies/]
 patch: 0.4.0
-updated: 2026-05-21
+updated: 2026-05-22
 ---
 
 # Ascendancies
@@ -28,26 +28,26 @@ updated: 2026-05-21
 
 ## Mercenary
 
-### Witchhunter
+### [[ascendancies/witchhunter|Witchhunter]]
 Использует **wards** для элементальной защиты и ритуалы, заставляющие врагов взрываться. Известные ноды: Weapon Master, Judge Jury and Executioner, Pitiless Killer, Zealous Inquisition.
 
-### Gemling Legionnaire
+### [[ascendancies/gemling-legionnaire|Gemling Legionnaire]]
 Встраивает [[skill-system|skill gems]] в собственное тело, усиливая способности и получая дополнительные слоты под скиллы.
 
-### Tactician *(new)*
+### [[ascendancies/tactician|Tactician]] *(new)*
 Бывший солдат, обученный командованию — поддерживает союзников в бою (party-buff/aura-направленность).
 
 ---
 
 ## Monk
 
-### Invoker
+### [[ascendancies/invoker|Invoker]]
 Триггерит элементальные волны, специализируется на одном из элементов для усиления freeze/shock. Известные ноды: And I Shall Rage, I am the Thunder, I am the Blizzard, Faith is a Choice. См. [[ailments|Ailments]].
 
-### Acolyte of Chayula
+### [[ascendancies/acolyte-of-chayula|Acolyte of Chayula]]
 "Embraces the darkness, using it both as a shield and a weapon" — chaos-направленный архетип, [[Spirit]]-флейвор.
 
-### Martial Artist *(new)*
+### [[ascendancies/martial-artist|Martial Artist]] *(new)*
 Мастер трёх **Hollow Techniques** — AoE-атаки для зачистки:
 - **Hollow Form Technique** — создаёт иллюзий, атакующих выбранным скиллом
 - **Hollow Focus Technique** — манифестирует духовную энергию в виде колоколов вокруг персонажа
@@ -59,62 +59,62 @@ updated: 2026-05-21
 
 ## Ranger
 
-### Deadeye
+### [[ascendancies/deadeye|Deadeye]]
 "Expert in marksman" — больше снарядов, повышенная скорость передвижения, проекции. Ноды: Eagle Eyes, Called Shots, Endless Munitions, Gathering Winds.
 
-### Pathfinder
+### [[ascendancies/pathfinder|Pathfinder]]
 Эксперт по флягам и яду; бросает взрывные бутыли, расходуя заряды фляг. См. [[ailments|Poison]].
 
 ---
 
 ## Sorceress
 
-### Stormweaver
+### [[ascendancies/stormweaver|Stormweaver]]
 Мастер стихий, разрушительные элементальные атаки. Ноды: Heart of the Storm, Shaper of Storms, Constant Gale, Rain Dancer.
 
-### Chronomancer
+### [[ascendancies/chronomancer|Chronomancer]]
 Манипулирует временем — останавливает врагов или откатывает время для восстановления HP/маны.
 
-### Disciple of Varashta *(new)*
+### [[ascendancies/disciple-of-varashta|Disciple of Varashta]] *(new)*
 Сочетает spells, [[curses]], minions и **djinns**, чтобы выкашивать врагов. Гибридный ascendancy на стыке кастера и саммонера для Sorceress.
 
 ---
 
 ## Warrior
 
-### Warbringer
+### [[ascendancies/warbringer|Warbringer]]
 "Channels the might of their ancestors" — включая **corpse explosions**.
 
-### Titan
+### [[ascendancies/titan|Titan]]
 Тяжёлые удары, триггерящие shockwaves и after-effects.
 
-### Smith of Kitava *(new)*
+### [[ascendancies/smith-of-kitava|Smith of Kitava]] *(new)*
 Master blacksmith, принимающий силу Кытавы; кузнечная тематика — крафт оружия как часть геймплея ascendancy.
 
 ---
 
 ## Witch
 
-### Blood Mage
+### [[ascendancies/blood-mage|Blood Mage]]
 Master of life and energy; **blood magic** + leech с врагов.
 
-### Infernalist
+### [[ascendancies/infernalist|Infernalist]]
 Призывает hellhound-компаньона и трансформируется в **demon form**.
 
-### Lich *(new)*
+### [[ascendancies/lich|Lich]] *(new)*
 Master of chaos и [[curses]]; использует jewel как **phylactery**, пожертвовав частью души.
 
 ---
 
 ## Huntress
 
-### Amazon
+### [[ascendancies/amazon|Amazon]]
 Master huntress; точные критические удары, обнажающая слабости врагов.
 
-### Ritualist
+### [[ascendancies/ritualist|Ritualist]]
 Тёмный практик — blood sacrifice и испорченная lifeforce против врагов.
 
-### Spirit Walker *(new)*
+### [[ascendancies/spirit-walker|Spirit Walker]] *(new)*
 Сочетает силу с **Azmerian animal spirits** (Stag, Owl, Bear). Ключевые ноды:
 - **Vivid Stampede** — стадо оленей, AoE-урон + shocked ground
 - **Primal Bounty** — Owl spirit даёт **feathers**, расходуемые на дополнительные снаряды
@@ -125,10 +125,10 @@ Master huntress; точные критические удары, обнажаю�
 
 ## Druid
 
-### Shaman
+### [[ascendancies/shaman|Shaman]]
 Channels nature's fury — harnesses rage to empower spells, призывает meteors / lightning. См. форму Bear в [[classes#Druid STR INT|Druid]].
 
-### Oracle
+### [[ascendancies/oracle|Oracle]]
 "Perfected the power of Foresight" — заглядывает в будущее, чтобы получить преимущество.
 
 ---

@@ -33,6 +33,14 @@
 
 - [[builds/classes|classes]] | classes, ascendancy | 0.4.0 | 2026-05
 - [[builds/ascendancies|ascendancies]] | ascendancy, subclasses, trials, sekhemas, chaos | 0.4.0 | 2026-05
+  - [[builds/ascendancies/witchhunter|Witchhunter]], [[builds/ascendancies/gemling-legionnaire|Gemling Legionnaire]], [[builds/ascendancies/tactician|Tactician]] — Mercenary
+  - [[builds/ascendancies/invoker|Invoker]], [[builds/ascendancies/acolyte-of-chayula|Acolyte of Chayula]], [[builds/ascendancies/martial-artist|Martial Artist]] — Monk
+  - [[builds/ascendancies/deadeye|Deadeye]], [[builds/ascendancies/pathfinder|Pathfinder]] — Ranger
+  - [[builds/ascendancies/amazon|Amazon]], [[builds/ascendancies/ritualist|Ritualist]], [[builds/ascendancies/spirit-walker|Spirit Walker]] — Huntress
+  - [[builds/ascendancies/stormweaver|Stormweaver]], [[builds/ascendancies/chronomancer|Chronomancer]], [[builds/ascendancies/disciple-of-varashta|Disciple of Varashta]] — Sorceress
+  - [[builds/ascendancies/blood-mage|Blood Mage]], [[builds/ascendancies/infernalist|Infernalist]], [[builds/ascendancies/lich|Lich]] — Witch
+  - [[builds/ascendancies/warbringer|Warbringer]], [[builds/ascendancies/titan|Titan]], [[builds/ascendancies/smith-of-kitava|Smith of Kitava]] — Warrior
+  - [[builds/ascendancies/shaman|Shaman]], [[builds/ascendancies/oracle|Oracle]] — Druid
 
 ## Glossary
 <!-- short term definitions -->

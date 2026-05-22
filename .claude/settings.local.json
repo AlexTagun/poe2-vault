@@ -11,7 +11,8 @@
       "Bash(python scripts/fetch_ascendancy_notables.py)",
       "Bash(tee scripts/fetch_ascendancy_notables.log)",
       "Bash(powershell:*)",
-      "Bash(python scripts/fetch_uniques.py --index-only)"
+      "Bash(python scripts/fetch_uniques.py --index-only)",
+      "PowerShell(head -30)"
     ]
   }
 }

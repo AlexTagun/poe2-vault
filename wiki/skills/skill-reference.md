@@ -14,6 +14,7 @@ updated: 2026-05-22
 
 > Категории скиллов и группировка по архетипу — см. [[skills/skill-categories|skill-categories]].
 > Механика гемов и сокетов — [[mechanics/skill-system|skill-system]].
+> Support Gems (тиры, Lineage, полные списки) — [[skills/support-gems|support-gems]].
 
 ## Таблица
 

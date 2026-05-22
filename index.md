@@ -23,6 +23,7 @@
 
 - [[skills/skill-categories|skill-categories]] | gems, ammunition, attack, buff, meta, trigger, warcry | 0.4.0 | 2026-05
 - [[skills/skill-reference|skill-reference]] | all skills, support gems, weapon requirements, patch notes | 0.4.0 | 2026-05
+- [[skills/support-gems|support-gems]] | support gems, lineage, tiers, STR/DEX/INT, crafting | 0.4.0 | 2026-05
 
 
 ## Crafting

@@ -21,6 +21,7 @@ Fextralife группирует все активные скиллы (Skill Gems
 
 Полные эффекты по каждому скиллу — в [raw/Clippings/Skills.md](../../raw/Clippings/Skills.md).
 Таблица с T1 саппортами и требованиями по оружию — [[skills/skill-reference|skill-reference]].
+Полный справочник по Support Gems (тиры, Lineage, списки по атрибуту) — [[skills/support-gems|support-gems]].
 
 ## Сводка
 

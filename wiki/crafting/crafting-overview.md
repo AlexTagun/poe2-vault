@@ -85,9 +85,9 @@ Normal
 
 ## Омены
 
-[[omens|Omens]] — особые предметы из [[mechanics/atlas-endgame#ritual|Ритуалов]]. Меняют поведение следующей использованной орбы. Применяется только 1 омен за крафт.
+[[items/omens|Omens]] — особые предметы из [[mechanics/atlas-endgame#ritual|Ритуалов]]. Меняют поведение следующей использованной орбы. Применяется только 1 омен за крафт.
 
-Пример: *Omen of Dextral Annulment* — следующий Orb of Annulment снимет только суффикс.
+Пример: *Omen of Dextral Annulment* — следующий Orb of Annulment снимет только суффикс. Полный список — [[items/omens|omens]].
 
 ## Порча (Vaal Orb)
 

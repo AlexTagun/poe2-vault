@@ -1,0 +1,48 @@
+---
+category: items
+sources: [raw/fextralife/items/charms.md]
+patch: 0.2.0
+updated: 2026-05-22
+---
+
+# Charms
+
+Charms — экипируемые предметы, дающие автоматические защитные бонусы или иммунитеты при наступлении определённых условий. Экипируются в слоты пояса.
+
+Связанные темы: [[flasks]], [[items/jewellery-belts|jewellery-belts]], [[mechanics/combat|combat]]
+
+## Механика
+
+- **Триггерные**: каждый чарм активируется при выполнении условия (например, при получении урона огнём)
+- **Заряды**: ограниченный запас зарядов (обычно 80 макс.), расходуется при активации; пополняется убийством монстров
+- **Длительность**: эффект длится 2–4 секунды в зависимости от типа
+- **Редкость**: доступны в Normal → Rare, можно крафтить моды
+
+## Слоты чармов
+
+Базово доступен 1 слот чарма. Идол **Maxarius** добавляет +1 Charm Slot. Пояса с модом "Charm Slot" также расширяют количество.
+
+## Полный список чармов
+
+| Название | Эффект | Триггер | Стоимость | Треб. ур. |
+|---|---|---|---|---|
+| Ruby Charm | +25% Fire Resistance | Получение fire damage от хита | 40/80 | 5 |
+| Sapphire Charm | +25% Cold Resistance | Получение cold damage от хита | 40/80 | 5 |
+| Topaz Charm | +25% Lightning Resistance | Получение lightning damage от хита | 40/80 | 5 |
+| Stone Charm | Нельзя оглушить | Оглушение | 40/80 | 8 |
+| Silver Charm | Скорость не замедляется | Попадание под slow | 40/80 | 10 |
+| Thawing Charm | Иммунитет к Freeze | Заморозка | 80/80 | 12 |
+| Staunching Charm | Иммунитет к Bleeding | Начало кровотечения | 60/80 | 18 |
+| Antidote Charm | Иммунитет к Poison | Отравление | 40/80 | 24 |
+| Dousing Charm | Иммунитет к Ignite | Поджигание | 60/80 | 32 |
+| Grounding Charm | Иммунитет к Shock | Шок | 50/80 | 32 |
+| Amethyst Charm | +18% Chaos Resistance | Получение chaos damage от хита | 60/80 | 40 |
+| Golden Charm | +20% Item Rarity | Убийство rare/unique врага | 80/80 | 50 |
+
+## Восстановление зарядов
+
+Заряды восполняются убийством монстров. [[omens|Omen of Refreshment]] мгновенно восстанавливает заряды фласков и чармов при достижении Low Life.
+
+## Soul Core взаимодействие
+
+[[items/soul-cores|Soul Core of Opiloti]] (armour slot) даёт +10% Charm Charges gained.

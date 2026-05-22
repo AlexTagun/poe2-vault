@@ -17,7 +17,7 @@ updated: 2026-05-21
 
 ## Waystones
 
-[[Waystone]] — расходник для размещения и активации карт в Atlas. Аналог Maps из PoE 1, но как отдельный item-тип со своими модификаторами.
+[[items/waystones|Waystone]] — расходник для размещения и активации карт в Atlas. Аналог Maps из PoE 1, но как отдельный item-тип со своими модификаторами. Тиры 1–16 (уровни зон 65–80). Полная таблица тиров, механика смерти и крафт — [[items/waystones|waystones]].
 
 ## Seven Systems (endgame mechanics)
 
@@ -55,3 +55,5 @@ updated: 2026-05-21
 - [[patches|История патчей]]
 - [[combat|Combat basics]]
 - [[Trade]] — асинхронная торговля (с 0.3.0)
+- [[items/waystones|Waystones]] — тиры, крафт, портальные цвета
+- [[items/tablets|Tablets]] — Precursor Tablets для башен Atlas

@@ -35,6 +35,14 @@
 ## Items
 <!-- bases, uniques, modifiers -->
 
+- [[items/currencies|currencies]] | currencies, orbs, essences, catalysts, liquid emotions, keys | 0.2.0 | 2026-05
+- [[items/flasks|flasks]] | life flask, mana flask, unique flask, charges, tiers | 0.2.0 | 2026-05
+- [[items/charms|charms]] | charms, trigger, charges, immunity, resistance, belt slots | 0.2.0 | 2026-05
+- [[items/omens|omens]] | omens, meta-craft, dextral, sinistral, prefix, suffix, vaal | 0.2.0 | 2026-05
+- [[items/soul-cores|soul-cores]] | soul cores, socketable, vaal, trialmaster, runes, charges | 0.2.0 | 2026-05
+- [[items/waystones|waystones]] | waystones, atlas, tiers, portal, map, endgame | 0.2.0 | 2026-05
+- [[items/tablets|tablets]] | tablets, precursor towers, atlas, breach, delirium, ritual, expedition | 0.2.0 | 2026-05
+- [[items/idols|idols]] | idols, socketable, animal spirits, charm slot, spirit-possessed | 0.2.0 | 2026-05
 - [[items/weapons|weapons]] | weapons hub, all types, gem sockets, weapon swap, dual spec | 0.2.x | 2026-05
   - [[items/weapons-axes|weapons-axes]] | axes, STR DEX, hatchet, greataxe, glaive, halberd | 0.2.x | 2026-05
   - [[items/weapons-bows|weapons-bows]] | bows, DEX, dualstring, cultist, warden, additional arrow | 0.2.x | 2026-05

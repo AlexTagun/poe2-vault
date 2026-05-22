@@ -11,6 +11,8 @@ updated: 2026-05-22
 
 Уникальное оружие имеет фиксированные модификаторы, заданные вручную, в отличие от магических и редких предметов с рандомными аффиксами. Не всегда лучше редкого, но открывает уникальные механики и синергии.
 
+Базовые типы оружия: [[items/weapons|Weapons]]. Базы по категориям: [[items/weapons-bows|Bows]], [[items/weapons-crossbows|Crossbows]], [[items/weapons-maces|Maces]], [[items/weapons-staves|Staves]], [[items/weapons-spears|Spears]], [[items/weapons-wands|Wands]], [[items/weapons-sceptres|Sceptres]], [[items/weapons-talismans|Talismans]].
+
 ## Получение
 
 - Падает с боссов и редких монстров с уникальными модификаторами.

@@ -45,6 +45,11 @@
   - [[items/jewellery-belts|jewellery-belts]] | belts, flask, charm, headhunter, stun threshold | 0.2.x | 2026-05
   - [[items/jewellery-jewels|jewellery-jewels]] | jewels, passive tree, timeless, grand spectrum, time-lost | 0.2.x | 2026-05
   - [[items/jewellery-uniques|jewellery-uniques]] | unique jewellery, astramentis, headhunter, kalandra's touch, ventor's gamble | 0.2.x | 2026-05
+- [[items/off-hand|off-hand]] | off-hand, shields, foci, quivers, bucklers, block | 0.2.x | 2026-05
+  - [[items/off-hand-shields|off-hand-shields]] | tower shield, targe, crest shield, buckler, raise shield, block | 0.2.x | 2026-05
+  - [[items/off-hand-foci|off-hand-foci]] | foci, energy shield, intelligence, spellcaster | 0.2.x | 2026-05
+  - [[items/off-hand-quivers|off-hand-quivers]] | quivers, bows, pierce, attack speed, bleed, poison | 0.2.x | 2026-05
+  - [[items/off-hand-uniques|off-hand-uniques]] | unique off-hand, svalinn, drillneck, rathpith globe, the surrender | 0.2.x | 2026-05
 
 ## Builds
 <!-- archetypes, synthesized strategies -->

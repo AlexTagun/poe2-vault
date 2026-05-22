@@ -12,7 +12,8 @@
       "Bash(tee scripts/fetch_ascendancy_notables.log)",
       "Bash(powershell:*)",
       "Bash(python scripts/fetch_uniques.py --index-only)",
-      "PowerShell(head -30)"
+      "PowerShell(head -30)",
+      "PowerShell(New-Item -ItemType Directory -Path \"D:\\\\my_progs\\\\poe2-vault\\\\raw\\\\fextralife\\\\off-hand\" -Force)"
     ]
   }
 }

@@ -9,7 +9,7 @@ updated: 2026-05-22
 
 Charms — экипируемые предметы, дающие автоматические защитные бонусы или иммунитеты при наступлении определённых условий. Экипируются в слоты пояса.
 
-Связанные темы: [[flasks]], [[items/jewellery-belts|jewellery-belts]], [[mechanics/combat|combat]]
+Связанные темы: [[flasks]], [[items/jewellery/belts|jewellery-belts]], [[mechanics/combat|combat]]
 
 ## Механика
 

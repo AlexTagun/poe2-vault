@@ -9,7 +9,7 @@ updated: 2026-05-22
 
 Idols — socketable предметы, дающие бонусы к различным параметрам. Вставляются в слоты оружия/брони, после вставки нельзя извлечь (только заменить). Stack size: 10.
 
-Связанные темы: [[items/jewellery-jewels|jewellery-jewels]], [[soul-cores]]
+Связанные темы: [[items/jewellery/jewels|jewellery-jewels]], [[soul-cores]]
 
 ## Механика
 

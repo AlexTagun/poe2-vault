@@ -7,7 +7,7 @@ updated: 2026-05-22
 
 # Crafting Overview
 
-Крафтинг в Path of Exile 2 — система модификации предметов через [[currency|валюту]]. Ключевое отличие от PoE 1: нет **Orb of Scouring**, поэтому нельзя сбросить [[items/armor|броню]] или [[items/weapons|оружие]] обратно в Normal. Белые (Normal) предметы ценны как чистые основы.
+Крафтинг в Path of Exile 2 — система модификации предметов через [[currency|валюту]]. Ключевое отличие от PoE 1: нет **Orb of Scouring**, поэтому нельзя сбросить [[items/armor/armor|броню]] или [[items/weapons/weapons|оружие]] обратно в Normal. Белые (Normal) предметы ценны как чистые основы.
 
 ## Редкость предметов
 

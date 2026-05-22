@@ -43,40 +43,40 @@
 - [[items/waystones|waystones]] | waystones, atlas, tiers, portal, map, endgame | 0.2.0 | 2026-05
 - [[items/tablets|tablets]] | tablets, precursor towers, atlas, breach, delirium, ritual, expedition | 0.2.0 | 2026-05
 - [[items/idols|idols]] | idols, socketable, animal spirits, charm slot, spirit-possessed | 0.2.0 | 2026-05
-- [[items/weapons|weapons]] | weapons hub, all types, gem sockets, weapon swap, dual spec | 0.2.x | 2026-05
-  - [[items/weapons-axes|weapons-axes]] | axes, STR DEX, hatchet, greataxe, glaive, halberd | 0.2.x | 2026-05
-  - [[items/weapons-bows|weapons-bows]] | bows, DEX, dualstring, cultist, warden, additional arrow | 0.2.x | 2026-05
-  - [[items/weapons-claws|weapons-claws]] | claws, DEX, life leech, mana leech, attack speed | 0.2.x | 2026-05
-  - [[items/weapons-crossbows|weapons-crossbows]] | crossbows, STR DEX, reload time, bombard, dyad, bolt speed | 0.2.x | 2026-05
-  - [[items/weapons-daggers|weapons-daggers]] | daggers, DEX INT, critical hit, 15% crit, moon dagger | 0.2.x | 2026-05
-  - [[items/weapons-flails|weapons-flails]] | flails, STR INT, unblockable, elemental, stone flail | 0.2.x | 2026-05
-  - [[items/weapons-maces|weapons-maces]] | maces, STR, stun, daze, jade club, construct hammer | 0.2.x | 2026-05
-  - [[items/weapons-quarterstaves|weapons-quarterstaves]] | quarterstaves, DEX INT, monk, block, crackling, barrier | 0.2.x | 2026-05
-  - [[items/weapons-sceptres|weapons-sceptres]] | sceptres, STR INT, spirit, minions, skeletal warrior, purity | 0.2.x | 2026-05
-  - [[items/weapons-spears|weapons-spears]] | spears, STR DEX, range 1.5, spear throw, maim, huntress | 0.2.x | 2026-05
-  - [[items/weapons-staves|weapons-staves]] | staves, INT, spell damage, gelid, voltaic, pyrophyte | 0.2.x | 2026-05
-  - [[items/weapons-swords|weapons-swords]] | swords, STR DEX, energy blade, golden blade, versatile | 0.2.x | 2026-05
-  - [[items/weapons-talismans|weapons-talismans]] | talismans, druid, shapeshifting, bear, werewolf, wyvern, rage | 0.2.x | 2026-05
-  - [[items/weapons-traps|weapons-traps]] | traps, DEX INT, proximity, manual, mercenary, witchhunter | 0.2.x | 2026-05
-  - [[items/weapons-wands|weapons-wands]] | wands, INT, chaos bolt, bone blast, galvanic, volatile dead | 0.2.x | 2026-05
-- [[items/unique-weapons|unique-weapons]] | unique, weapons, bows, maces, staves, spears, wands, crossbows, talismans | 0.4.0 | 2026-05
-- [[items/armor|armor]] | armor, defense types, slots, crafting, tiers, evasion, energy shield | 0.2.x | 2026-05
-  - [[items/armor-body|armor-body]] | body armour, implicits, notable bases, hybrid, tri-stat | 0.2.x | 2026-05
-  - [[items/armor-helmets|armor-helmets]] | helmets, greathelm, tiara, circlet, golden visage, golden wreath | 0.2.x | 2026-05
-  - [[items/armor-gloves|armor-gloves]] | gloves, mitts, bracers, golden bracers | 0.2.x | 2026-05
-  - [[items/armor-boots|armor-boots]] | boots, greaves, sabatons, golden caligae | 0.2.x | 2026-05
-  - [[items/armor-uniques|armor-uniques]] | unique armor, kaom's heart, tabula rasa, queen of the forest, facebreaker | 0.2.x | 2026-05
-- [[items/jewellery|jewellery]] | jewellery, amulets, rings, belts, jewels, accessories | 0.2.x | 2026-05
-  - [[items/jewellery-amulets|jewellery-amulets]] | amulets, stellar, amber, jade, lapis, solar, spirit | 0.2.x | 2026-05
-  - [[items/jewellery-rings|jewellery-rings]] | rings, ruby, sapphire, topaz, prismatic, unset, cast speed | 0.2.x | 2026-05
-  - [[items/jewellery-belts|jewellery-belts]] | belts, flask, charm, headhunter, stun threshold | 0.2.x | 2026-05
-  - [[items/jewellery-jewels|jewellery-jewels]] | jewels, passive tree, timeless, grand spectrum, time-lost | 0.2.x | 2026-05
-  - [[items/jewellery-uniques|jewellery-uniques]] | unique jewellery, astramentis, headhunter, kalandra's touch, ventor's gamble | 0.2.x | 2026-05
-- [[items/off-hand|off-hand]] | off-hand, shields, foci, quivers, bucklers, block | 0.2.x | 2026-05
-  - [[items/off-hand-shields|off-hand-shields]] | tower shield, targe, crest shield, buckler, raise shield, block | 0.2.x | 2026-05
-  - [[items/off-hand-foci|off-hand-foci]] | foci, energy shield, intelligence, spellcaster | 0.2.x | 2026-05
-  - [[items/off-hand-quivers|off-hand-quivers]] | quivers, bows, pierce, attack speed, bleed, poison | 0.2.x | 2026-05
-  - [[items/off-hand-uniques|off-hand-uniques]] | unique off-hand, svalinn, drillneck, rathpith globe, the surrender | 0.2.x | 2026-05
+- [[items/weapons/weapons|weapons]] | weapons hub, all types, gem sockets, weapon swap, dual spec | 0.2.x | 2026-05
+  - [[items/weapons/axes|weapons-axes]] | axes, STR DEX, hatchet, greataxe, glaive, halberd | 0.2.x | 2026-05
+  - [[items/weapons/bows|weapons-bows]] | bows, DEX, dualstring, cultist, warden, additional arrow | 0.2.x | 2026-05
+  - [[items/weapons/claws|weapons-claws]] | claws, DEX, life leech, mana leech, attack speed | 0.2.x | 2026-05
+  - [[items/weapons/crossbows|weapons-crossbows]] | crossbows, STR DEX, reload time, bombard, dyad, bolt speed | 0.2.x | 2026-05
+  - [[items/weapons/daggers|weapons-daggers]] | daggers, DEX INT, critical hit, 15% crit, moon dagger | 0.2.x | 2026-05
+  - [[items/weapons/flails|weapons-flails]] | flails, STR INT, unblockable, elemental, stone flail | 0.2.x | 2026-05
+  - [[items/weapons/maces|weapons-maces]] | maces, STR, stun, daze, jade club, construct hammer | 0.2.x | 2026-05
+  - [[items/weapons/quarterstaves|weapons-quarterstaves]] | quarterstaves, DEX INT, monk, block, crackling, barrier | 0.2.x | 2026-05
+  - [[items/weapons/sceptres|weapons-sceptres]] | sceptres, STR INT, spirit, minions, skeletal warrior, purity | 0.2.x | 2026-05
+  - [[items/weapons/spears|weapons-spears]] | spears, STR DEX, range 1.5, spear throw, maim, huntress | 0.2.x | 2026-05
+  - [[items/weapons/staves|weapons-staves]] | staves, INT, spell damage, gelid, voltaic, pyrophyte | 0.2.x | 2026-05
+  - [[items/weapons/swords|weapons-swords]] | swords, STR DEX, energy blade, golden blade, versatile | 0.2.x | 2026-05
+  - [[items/weapons/talismans|weapons-talismans]] | talismans, druid, shapeshifting, bear, werewolf, wyvern, rage | 0.2.x | 2026-05
+  - [[items/weapons/traps|weapons-traps]] | traps, DEX INT, proximity, manual, mercenary, witchhunter | 0.2.x | 2026-05
+  - [[items/weapons/wands|weapons-wands]] | wands, INT, chaos bolt, bone blast, galvanic, volatile dead | 0.2.x | 2026-05
+  - [[items/weapons/uniques|unique-weapons]] | unique, weapons, bows, maces, staves, spears, wands, crossbows, talismans | 0.4.0 | 2026-05
+- [[items/armor/armor|armor]] | armor, defense types, slots, crafting, tiers, evasion, energy shield | 0.2.x | 2026-05
+  - [[items/armor/body|armor-body]] | body armour, implicits, notable bases, hybrid, tri-stat | 0.2.x | 2026-05
+  - [[items/armor/helmets|armor-helmets]] | helmets, greathelm, tiara, circlet, golden visage, golden wreath | 0.2.x | 2026-05
+  - [[items/armor/gloves|armor-gloves]] | gloves, mitts, bracers, golden bracers | 0.2.x | 2026-05
+  - [[items/armor/boots|armor-boots]] | boots, greaves, sabatons, golden caligae | 0.2.x | 2026-05
+  - [[items/armor/uniques|armor-uniques]] | unique armor, kaom's heart, tabula rasa, queen of the forest, facebreaker | 0.2.x | 2026-05
+- [[items/jewellery/jewellery|jewellery]] | jewellery, amulets, rings, belts, jewels, accessories | 0.2.x | 2026-05
+  - [[items/jewellery/amulets|jewellery-amulets]] | amulets, stellar, amber, jade, lapis, solar, spirit | 0.2.x | 2026-05
+  - [[items/jewellery/rings|jewellery-rings]] | rings, ruby, sapphire, topaz, prismatic, unset, cast speed | 0.2.x | 2026-05
+  - [[items/jewellery/belts|jewellery-belts]] | belts, flask, charm, headhunter, stun threshold | 0.2.x | 2026-05
+  - [[items/jewellery/jewels|jewellery-jewels]] | jewels, passive tree, timeless, grand spectrum, time-lost | 0.2.x | 2026-05
+  - [[items/jewellery/uniques|jewellery-uniques]] | unique jewellery, astramentis, headhunter, kalandra's touch, ventor's gamble | 0.2.x | 2026-05
+- [[items/off-hand/off-hand|off-hand]] | off-hand, shields, foci, quivers, bucklers, block | 0.2.x | 2026-05
+  - [[items/off-hand/shields|off-hand-shields]] | tower shield, targe, crest shield, buckler, raise shield, block | 0.2.x | 2026-05
+  - [[items/off-hand/foci|off-hand-foci]] | foci, energy shield, intelligence, spellcaster | 0.2.x | 2026-05
+  - [[items/off-hand/quivers|off-hand-quivers]] | quivers, bows, pierce, attack speed, bleed, poison | 0.2.x | 2026-05
+  - [[items/off-hand/uniques|off-hand-uniques]] | unique off-hand, svalinn, drillneck, rathpith globe, the surrender | 0.2.x | 2026-05
 
 ## Builds
 <!-- archetypes, synthesized strategies -->

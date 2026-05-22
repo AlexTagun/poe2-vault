@@ -10,7 +10,8 @@
       "Bash(tee scripts/fetch_skills.log)",
       "Bash(python scripts/fetch_ascendancy_notables.py)",
       "Bash(tee scripts/fetch_ascendancy_notables.log)",
-      "Bash(powershell:*)"
+      "Bash(powershell:*)",
+      "Bash(python scripts/fetch_uniques.py --index-only)"
     ]
   }
 }

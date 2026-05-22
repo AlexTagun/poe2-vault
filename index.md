@@ -33,6 +33,18 @@
 <!-- bases, uniques, modifiers -->
 
 - [[items/unique-weapons|unique-weapons]] | unique, weapons, bows, maces, staves, spears, wands, crossbows, talismans | 0.4.0 | 2026-05
+- [[items/armor|armor]] | armor, defense types, slots, crafting, tiers, evasion, energy shield | 0.2.x | 2026-05
+  - [[items/armor-body|armor-body]] | body armour, implicits, notable bases, hybrid, tri-stat | 0.2.x | 2026-05
+  - [[items/armor-helmets|armor-helmets]] | helmets, greathelm, tiara, circlet, golden visage, golden wreath | 0.2.x | 2026-05
+  - [[items/armor-gloves|armor-gloves]] | gloves, mitts, bracers, golden bracers | 0.2.x | 2026-05
+  - [[items/armor-boots|armor-boots]] | boots, greaves, sabatons, golden caligae | 0.2.x | 2026-05
+  - [[items/armor-uniques|armor-uniques]] | unique armor, kaom's heart, tabula rasa, queen of the forest, facebreaker | 0.2.x | 2026-05
+- [[items/jewellery|jewellery]] | jewellery, amulets, rings, belts, jewels, accessories | 0.2.x | 2026-05
+  - [[items/jewellery-amulets|jewellery-amulets]] | amulets, stellar, amber, jade, lapis, solar, spirit | 0.2.x | 2026-05
+  - [[items/jewellery-rings|jewellery-rings]] | rings, ruby, sapphire, topaz, prismatic, unset, cast speed | 0.2.x | 2026-05
+  - [[items/jewellery-belts|jewellery-belts]] | belts, flask, charm, headhunter, stun threshold | 0.2.x | 2026-05
+  - [[items/jewellery-jewels|jewellery-jewels]] | jewels, passive tree, timeless, grand spectrum, time-lost | 0.2.x | 2026-05
+  - [[items/jewellery-uniques|jewellery-uniques]] | unique jewellery, astramentis, headhunter, kalandra's touch, ventor's gamble | 0.2.x | 2026-05
 
 ## Builds
 <!-- archetypes, synthesized strategies -->

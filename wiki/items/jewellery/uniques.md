@@ -50,6 +50,7 @@ updated: 2026-05-22
 - **Grand Spectrum** — усиливается при наборе нескольких копий
 - **Heroic Tragedy** — на базе Timeless Jewel
 - **The Adorned** — Diamond; усиливает Magic-самоцветы рядом
+- [[items/jewellery/uniques/heart-of-the-well|Heart of the Well]] — Diamond; 4 рандомных desecrated-мода из пула 73; топ-1 джевел меты (49%)
 
 ## Получение
 

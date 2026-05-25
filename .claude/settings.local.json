@@ -33,7 +33,8 @@
       "mcp__Claude_in_Chrome__computer",
       "mcp__Claude_in_Chrome__tabs_close_mcp",
       "PowerShell($content = Get-Content \"D:\\\\my_progs\\\\poe2-vault\\\\Clippings\\\\Early Access Patch Notes - Content Update 0.5.0 — Path of Exile 2 Return of the Ancients - Forum.md\" -Raw; $content.Length)",
-      "PowerShell($content = Get-Content \"D:\\\\my_progs\\\\poe2-vault\\\\Clippings\\\\Early Access Patch Notes - Content Update 0.5.0 — Path of Exile 2 Return of the Ancients - Forum.md\" -Raw; @\\('Splash', 'Bleed', 'Sanguimancy', 'Blood Mage', 'Leech', 'Chronomancer', 'Spirit Walker', 'Martial Artist', 'Heart of the Well', 'Headhunter', 'Kalandra'\\) | ForEach-Object { $word = $_; $idx = $content.IndexOf\\($word\\); if\\($idx -ge 0\\) { $start = [Math]::Max\\(0, $idx-150\\); \"`n[$word]`n\" + $content.Substring\\($start, [Math]::Min\\(600, $content.Length - $start\\)\\) } else { \"`n[$word] - NOT FOUND\" } })"
+      "PowerShell($content = Get-Content \"D:\\\\my_progs\\\\poe2-vault\\\\Clippings\\\\Early Access Patch Notes - Content Update 0.5.0 — Path of Exile 2 Return of the Ancients - Forum.md\" -Raw; @\\('Splash', 'Bleed', 'Sanguimancy', 'Blood Mage', 'Leech', 'Chronomancer', 'Spirit Walker', 'Martial Artist', 'Heart of the Well', 'Headhunter', 'Kalandra'\\) | ForEach-Object { $word = $_; $idx = $content.IndexOf\\($word\\); if\\($idx -ge 0\\) { $start = [Math]::Max\\(0, $idx-150\\); \"`n[$word]`n\" + $content.Substring\\($start, [Math]::Min\\(600, $content.Length - $start\\)\\) } else { \"`n[$word] - NOT FOUND\" } })",
+      "PowerShell($file = 'D:\\\\my_progs\\\\poe2-vault\\\\Clippings\\\\Early Access Patch Notes - Content Update 0.5.0 — Path of Exile 2 Return of the Ancients - Forum 1.md'; $content = Get-Content $file -Raw; $idx = $content.IndexOf\\('Essence'\\); if \\($idx -ge 0\\) { \"Found at position $idx\"; $content.Substring\\([Math]::Max\\(0, $idx - 300\\), 1500\\) } else { 'Not found in this variant' })"
     ]
   }
 }

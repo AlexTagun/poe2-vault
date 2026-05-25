@@ -22,7 +22,7 @@ Infernalist канализирует силу адского пламени: п�
 - **Beidat's Will** — Reserves 25% of [[Life]]. +1 to Maximum [[Spirit]] per 25 Maximum Life.
 - **Bringer of Flame** — All Damage from you and Allies in your [[Presence]] Contributes to [[ailments#Ignite|Ignite]] Chance и Magnitude.
 - **Demonic Possession** — Grants Skill: [[Demon Form]].
-- **Grinning Immolation** — Становишься Ignited при Critical Hit, теряя 15% Life + ES в секунду как [[Fire Damage]]. 50% more Critical Damage Bonus.
+- **Grinning Immolation** — Становишься Ignited при [[mechanics/critical-hits|Critical Hit]], теряя 15% Life + ES в секунду как [[Fire Damage]]. 50% more [[mechanics/critical-hits|Critical Damage Bonus]].
 - **Loyal Hellhound** — Grants Skill: [[Summon Infernal Hound]].
 - **Mastered Darkness** — [[Demonflame]] не имеет максимума.
 - **Pyromantic Pact** — Maximum [[Mana]] заменяется на Maximum [[Infernal Flame]]. Скиллы тратят Infernal Flame вместо Mana. При достижении максимума Infernal Flame получаешь максимальный Life и ES как Fire Damage и теряешь весь Infernal Flame. 50% Infernal Flame теряется в секунду, если он не пополнялся последние 2 секунды.
@@ -30,7 +30,7 @@ Infernalist канализирует силу адского пламени: п�
 
 ## Passive nodes
 
-- **Critical Chance** — 12% increased Critical Hit Chance.
+- **Critical Chance** — 12% increased [[mechanics/critical-hits|Critical Hit Chance]].
 - **Life** — 3% increased maximum [[Life]].
 - **Mana** — 3% increased maximum [[Mana]].
 - **Minion Life** — [[minions|Minions]] have 12% increased maximum Life.

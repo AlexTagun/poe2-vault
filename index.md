@@ -18,6 +18,7 @@
 - [[mechanics/merchants|merchants]] | merchants, gold, trading, disenchanting, gambling, currency exchange, vendor | 0.4.0 | 2026-05
 - [[mechanics/quests|quests]] | quests, main quests, side quests, act 1, act 2, act 3, act 4, interlude, ascendancy trials | 0.4.0 | 2026-05
 - [[mechanics/combat|combat]] | dodge, spirit, melee | 0.4.0 | 2026-05
+- [[mechanics/critical-hits|critical-hits]] | crit, critical hit chance, critical damage bonus, lucky, evasion, inevitable | 0.4.0 | 2026-05
 - [[mechanics/multiplayer|multiplayer]] | party, co-op, crossplay, loot allocation, guilds, local co-op, online | 0.4.0 | 2026-05
 - [[mechanics/pvp|pvp]] | pvp, player vs player, duel, not yet available | 0.4.0 | 2026-05
 - [[mechanics/atlas-endgame|atlas-endgame]] | atlas, waystone, breach, ritual, delirium, pinnacle | 0.4.0 | 2026-05

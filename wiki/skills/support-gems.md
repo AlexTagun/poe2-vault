@@ -69,7 +69,7 @@ Support Gems модифицируют [[skill-gems|Skill Gems]], усилива�
 | Dreamer's Knell | — | Lineage, Attack, AoE, Melee, Trigger, Duration | 65 | +5 DEX | Создаёт Bell за каждые 2 Combo при трате Combo; 40% Attack Damage |
 | Einhar's Beastrite | Behead | Lineage, Attack, Melee, Strike | 65 | +5 STR | Уничтожает только Low Life врагов; убийство Rare → 2 их модификатора на 40 сек |
 | Esh's Radiance | Breachlord | Lineage | 65 | +5 INT | +20% Lightning Damage as Extra Chaos; Chaos Hits также учитываются для Shock |
-| Garukhan's Resolve | Hit and Run | Lineage, Attack, Conditional | 65 | +5 DEX | Активен только после перемещения на 20м; Bifurcate Critical Hit Chance |
+| Garukhan's Resolve | Hit and Run | Lineage, Attack, Conditional | 65 | +5 DEX | Активен только после перемещения на 20м; Bifurcate [[mechanics/critical-hits|Critical Hit Chance]] |
 | Helbrym's Hide | — | Lineage, Shapeshift, Buff | 65 | +5 STR | Shapeshift → бафф, накапливающий полученный урон → Guard + Rage при истечении |
 | Ixchel's Torment | Fluke | Lineage, Trigger | 65 | +5 INT | Триггерные скиллы получают случайный ±40–60% Damage, ±40–50% AoE/ProjSpeed, 0–20% Refund cost |
 | Kalisa's Crescendo | — | Lineage | 65 | +5 INT | Враги Pacified в последние 30% длительности проклятия; повторная Pacify через 8 сек |

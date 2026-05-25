@@ -127,7 +127,7 @@ Persistent buffs, auras, heralds, mark-скиллы, triggers, banners. Боль
 - [[Discipline]] — share max mana → ally ES
 - [[Heart of Ice]] — chill enemies in presence
 - [[Herald of Ice]] · [[Herald of Plague]] · [[Herald of Thunder]] — on-kill heralds
-- [[Malice]] — apply Critical Weakness
+- [[Malice]] — apply [[mechanics/critical-hits|Critical Weakness]]
 - [[Overwhelming Presence]] — ailment/stun threshold reduce in presence
 - [[Plague Bearer]] — store poison damage
 - [[Purity of Fire]] · [[Purity of Ice]] · [[Purity of Lightning]] — ally resistances
@@ -137,7 +137,7 @@ Persistent buffs, auras, heralds, mark-скиллы, triggers, banners. Боль
 ### Cast-on Trigger Buffs (energy-based)
 
 - [[Cast on Block]]
-- [[Cast on Critical]]
+- [[Cast on Critical]] — триггер на [[mechanics/critical-hits|Critical Hit]]
 - [[Cast on Death]]
 - [[Cast on Elemental Ailment]]
 - [[Cast on Freeze]]

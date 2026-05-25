@@ -82,7 +82,7 @@ updated: 2026-05-22
 | I am the Blizzard | passive | +10% Damage as extra Cold. При Freeze создаёт Chilled Ground |
 | I am the Thunder | passive | +10% Damage as extra Lightning. 25% шанс создать Shocked Ground при Shock |
 | Lead me through Grace | passive | +1 Spirit per 8 Energy Shield на экипированном Body Armour |
-| Sunder my Enemies | passive | Critical Hits игнорируют ненегативные Elemental Resistances врагов |
+| Sunder my Enemies | passive | [[mechanics/critical-hits|Critical Hits]] игнорируют ненегативные Elemental Resistances врагов |
 | The Soul Springs Eternal | passive | Meta Skills получают 35% more Energy |
 
 **Passive nodes**: Chill Effect, Critical Chance, Elemental Damage, Energy Shield Recharge Rate, Evasion, Evasion and Energy Shield, Shock Effect.
@@ -168,7 +168,7 @@ updated: 2026-05-22
 | Notable | Тип | Эффект |
 |---|---|---|
 | Azmeri Brew | passive | Life Flasks также восстанавливают Mana |
-| Critical Strike | passive | Узел на критические удары (детали в дереве) |
+| Critical Strike | passive | Узел на [[mechanics/critical-hits|критические удары]] (детали в дереве) |
 | Elemental Infusion | **[skill]** | Потребление Power Charge → Cold Infusion; Endurance → Fire; Frenzy → Lightning |
 | Elemental Surge | **[skill]** | При потреблении Charge — Trigger Elemental Surge |
 | In for the Kill | passive | +20% Movement Speed когда враг с Open Weakness находится в [[Presence]] |
@@ -260,13 +260,13 @@ updated: 2026-05-22
 | Between the Cracks | passive | 50% less Life Recovery from Flasks |
 | Blood Barbs | passive | Bleeding на Cursed целях становится Aggravated |
 | Crimson Power | passive | Energy Shield с Body Armour → extra Maximum Life |
-| Gore Spike | passive | +1% Critical Damage Bonus per 50 Life |
+| Gore Spike | passive | +1% [[mechanics/critical-hits|Critical Damage Bonus]] per 50 Life |
 | Grasping Wounds | passive | 25% урона от Hits предотвращается, но теряется постепенно за 4 секунды |
 | Life Remnants | **[skill]** | Remnants восстанавливают Life при подборе |
 | Open Sores | passive | Цели под твоими Curses имеют 100% reduced Life Regeneration Rate |
 | Sanguimancy | **[skill]** | Grants Skill: [[Life Remnants]] |
 | Sanguine Tides | passive | 50% less Life Recovery from Flasks (вариант Between the Cracks) |
-| Sunder the Flesh | passive | Base Critical Hit Chance для Spells = 15% |
+| Sunder the Flesh | passive | Base [[mechanics/critical-hits|Critical Hit Chance]] для Spells = 15% |
 | Vitality Siphon | passive | 10% Spell Damage Leeched as Life |
 | Whispers of the Flesh | passive | Cursed цели имеют 100% reduced Life Regeneration Rate (вариант Open Sores) |
 
@@ -284,7 +284,7 @@ updated: 2026-05-22
 | Beidat's Will | passive | Резервирует 25% Life. +1 Maximum [[Spirit]] per 25 Maximum Life |
 | Bringer of Flame | passive | Весь Damage от тебя и союзников в [[Presence]] вносит вклад в Ignite Chance/Magnitude |
 | Demonic Possession | **[skill]** | Grants Skill: [[Demon Form]] |
-| Grinning Immolation | passive | Ignited при Crit Hit: −15% Life+ES/с как Fire Damage. +50% more Critical Damage Bonus |
+| Grinning Immolation | passive | Ignited при [[mechanics/critical-hits|Crit Hit]]: −15% Life+ES/с как Fire Damage. +50% more [[mechanics/critical-hits|Critical Damage Bonus]] |
 | Loyal Hellhound | **[skill]** | Grants Skill: [[Summon Infernal Hound]] |
 | Mastered Darkness | passive | [[Demonflame]] не имеет максимума |
 | Pyromantic Pact | passive | Maximum Mana заменяется на Maximum [[Infernal Flame]]; при переполнении — взрыв self-damage |
@@ -361,7 +361,7 @@ updated: 2026-05-22
 | Forged in Flame | passive | Модификаторы к Maximum Fire Resistance также дают Maximum Cold/Lightning Resist |
 | Heat of the Forge | **[skill]** | Grants Skill: [[Fire Spell on Hit]] |
 | Heatproofing | passive | Body Armour grants: Unaffected by Damaging Ailments |
-| Internal Layer | passive | Body Armour grants: Hits против тебя имеют 100% reduced Critical Damage Bonus |
+| Internal Layer | passive | Body Armour grants: Hits против тебя имеют 100% reduced [[mechanics/critical-hits|Critical Damage Bonus]] |
 | Kitavan Engraving | passive | Body Armour grants: +15% increased Maximum Life |
 | Kitavan Imprint | passive | Body Armour grants: +60% increased Glory generation |
 | Leather Bindings | passive | Body Armour grants: Regenerate 3% of Max Life per second |
@@ -399,7 +399,7 @@ updated: 2026-05-22
 | Converging Paths | **[skill]** | Grants Skill: Moment of Vulnerability |
 | Entwined Realities | passive | Не-Keystone Passive Skills в Medium Radius от Keystone можно брать без привязки к дереву |
 | Fateful Vision | **[skill]** | Grants Skill: Align Fate |
-| Forced Outcome | passive | Inevitable Critical Hits |
+| Forced Outcome | passive | [[mechanics/critical-hits#Inevitable Critical Hits|Inevitable Critical Hits]] |
 | Harmony Within | passive | Hit Damage снимается с Mana до Life если Mana > Life |
 | The Lesser Harm | passive | Критические Hits врагов против тебя — Unlucky |
 | The Unseen Path | passive | Walk the Paths Not Taken (особая tree-механика) |

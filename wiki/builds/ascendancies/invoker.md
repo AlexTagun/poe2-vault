@@ -23,13 +23,13 @@ Invoker черпает силу стихий и обрушивает на вра
 - **I am the Blizzard** — Gain 10% of Damage as Extra Cold Damage; при [[ailments#Freeze|Freezing]] врагов создаёт [[Chilled Ground]].
 - **I am the Thunder** — Gain 10% of Damage as Extra Lightning Damage; 25% chance при [[ailments#Shock|Shocking]] врагов создавать [[Shocked Ground]].
 - **Lead me through Grace** — Gain 1 [[Spirit]] for every 8 [[Energy Shield]] на Body Armour; 1 Spirit за каждые 20 Evasion Rating на Body Armour. Не получает Spirit от другого снаряжения.
-- **Sunder my Enemies** — Critical Hits игнорируют non-negative Elemental Resistances монстров.
+- **Sunder my Enemies** — [[mechanics/critical-hits|Critical Hits]] игнорируют non-negative Elemental Resistances монстров.
 - **The Soul Springs Eternal** — Meta Skills получают 35% more Energy и имеют 50% increased Reservation Efficiency.
 
 ## Passive nodes
 
 - **Chill Effect** — 15% increased Magnitude of [[ailments#Chill|Chill]] you inflict.
-- **Critical Chance** — 12% increased Critical Hit Chance.
+- **Critical Chance** — 12% increased [[mechanics/critical-hits|Critical Hit Chance]].
 - **Elemental Damage** — 12% increased Elemental Damage.
 - **Energy Shield Recharge Rate** — 20% increased [[Energy Shield]] Recharge Rate.
 - **Evasion** — 20% increased Evasion Rating.
@@ -41,7 +41,7 @@ Invoker черпает силу стихий и обрушивает на вра
 ### Плюсы
 - Сильный elemental damage — несколько нод усиливают элементальный урон напрямую.
 - Crowd control через [[ailments|elemental ailments]] — [[ailments#Freeze|freeze]]/[[ailments#Shock|shock]] + ground-эффекты выкашивают пачки.
-- Crit-фокус — игнор сопротивлений + extra elemental damage делает critical hit-плейстайл прибыльным.
+- [[mechanics/critical-hits|Crit]]-фокус — игнор сопротивлений + extra elemental damage делает critical hit-плейстайл прибыльным.
 
 ### Минусы
 - Привязан к ailments — без [[ailments#Freeze|freeze]]/[[ailments#Shock|shock]] большая часть нод не работает, что ограничивает выбор билдов.

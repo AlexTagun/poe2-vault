@@ -127,7 +127,7 @@ updated: 2026-05-21
 - **Buff / Debuff** — позитивный / негативный эффект
 - **CC** — Crowd Control
 - **CD** — Cooldown
-- **Crit** — критический удар
+- **Crit** — [[mechanics/critical-hits|критический удар]]
 - **DoT** — Damage over Time
 - **DPS** — Damage Per Second
 - **Proc** — срабатывание условного триггера

@@ -92,7 +92,7 @@ updated: 2026-05-25
 | **Gloamgown** | Elementalist Robe | 45 | 72 Int | — | 1000% ES Recharge Rate; ES Recharge Delay = 10 seconds |
 | **Gloomform** | Waxed Jacket | 11 | 13 Dex, 13 Int | — | Smoke Cloud while stationary; 20% reduced Light Radius |
 | **Greed's Embrace** | Vaal Cuirass | 37 | 90 Str | — | (30–50)% increased Rarity; 20% reduced Move Speed; 50% increased Str Requirement |
-| **Hyrri's Ire** | Armoured Vest | 73 | 121 Dex | (30–40)% Elemental Ailment Threshold | Evasion doubled if not Hit Recently; Gain (15–25)% Damage as extra Cold |
+| **Hyrri's Ire** | Armoured Vest | 73 | 121 Dex | (30–40)% Elemental Ailment Threshold | (200–250)% Evasion; +(30–40) Dex; Gain (15–25)% Damage as extra Cold; 25% Freeze Duration on Enemies; Evasion doubled if not Hit Recently |
 | **Icetomb** | Mail Vestments | 16 | 17 Str, 17 Int | — | Gain Cold Thorns equal to (10–18)% max Mana |
 | **Irongrasp** | Vagabond Armour | 16 | 17 Str, 17 Dex | — | Iron Grip; Iron Will; +(100–150) Stun Threshold |
 | **Kaom's Heart** | Conqueror Plate | 68 | 121 Str | (30–40)% Stun Threshold | +1500 max Life; You have no Spirit |

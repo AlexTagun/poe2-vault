@@ -47,7 +47,10 @@
       "Bash(git add *)",
       "Bash(git commit -m ' *)",
       "Bash(xargs -I{} basename {})",
-      "Bash(grep '^\\\\*\\\\*Class:' /d/my_progs/poe2-vault/raw/poe2db/uniques/__TRACKED_VAR__)"
+      "Bash(grep '^\\\\*\\\\*Class:' /d/my_progs/poe2-vault/raw/poe2db/uniques/__TRACKED_VAR__)",
+      "Bash(grep -E \"Bows$|Crossbows$|Crossbow$|One Hand Maces$|Two Hand Maces$|Quarterstaves$|Spears$|Staves$|Sceptres$|Talismans$|Talisman$|Wands$\")",
+      "Bash(grep -E \"Bows$|Crossbow\")",
+      "Bash(grep -rl \"^\\\\*\\\\*Class:\\\\*\\\\* Bow$\\\\|^\\\\*\\\\*Class:\\\\*\\\\* Crossbow$\\\\|^\\\\*\\\\*Class:\\\\*\\\\* Talisman$\" /d/my_progs/poe2-vault/raw/poe2db/uniques/)"
     ]
   }
 }

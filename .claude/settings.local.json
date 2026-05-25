@@ -45,7 +45,9 @@
       "Bash(Write-Host \"Deleted all raw uniques\")",
       "Bash(rm -f \"D:/my_progs/poe2-vault/raw/poe2db/uniques/\"*.md && echo \"deleted\")",
       "Bash(git add *)",
-      "Bash(git commit -m ' *)"
+      "Bash(git commit -m ' *)",
+      "Bash(xargs -I{} basename {})",
+      "Bash(grep '^\\\\*\\\\*Class:' /d/my_progs/poe2-vault/raw/poe2db/uniques/__TRACKED_VAR__)"
     ]
   }
 }

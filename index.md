@@ -81,6 +81,7 @@
   - [[items/jewellery/jewels|jewellery-jewels]] | jewels, passive tree, timeless, grand spectrum, time-lost | 0.2.x | 2026-05
   - [[items/jewellery/uniques|jewellery-uniques]] | unique jewellery, astramentis, headhunter, kalandra's touch, ventor's gamble | 0.2.x | 2026-05
     - [[items/jewellery/uniques/heart-of-the-well|heart-of-the-well]] | diamond jewel, desecrated, abyss, lichborn, meta 49% | 0.4.0 | 2026-05
+    - [[items/jewellery/uniques/headhunter|headhunter]] | heavy belt, rare mod steal, 60s, breach, delirium | 0.2.1 | 2026-05
 - [[items/off-hand/off-hand|off-hand]] | off-hand, shields, foci, quivers, bucklers, block | 0.2.x | 2026-05
   - [[items/off-hand/shields|off-hand-shields]] | tower shield, targe, crest shield, buckler, raise shield, block | 0.2.x | 2026-05
   - [[items/off-hand/foci|off-hand-foci]] | foci, energy shield, intelligence, spellcaster | 0.2.x | 2026-05

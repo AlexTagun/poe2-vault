@@ -36,7 +36,7 @@ updated: 2026-05-22
 
 ## Уникальные пояса (примеры)
 
-- [[Headhunter]] (Heavy Belt) — краёт баффы убитых редких монстров; один из самых ценных предметов в игре
+- [[items/jewellery/uniques/headhunter|Headhunter]] (Heavy Belt) — крадёт модификаторы убитых редких монстров на 60 секунд; один из самых ценных предметов в игре
 - [[Meginord's Girdle]] (Rawhide Belt)
 - [[Soul Tether]] (Long Belt)
 - [[Zerphi's Genesis]] (Heavy Belt)

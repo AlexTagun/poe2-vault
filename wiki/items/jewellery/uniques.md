@@ -37,12 +37,12 @@ updated: 2026-05-22
 
 | Название | База |
 |----------|------|
-| [[Headhunter]] | Heavy Belt |
+| [[items/jewellery/uniques/headhunter|Headhunter]] | Heavy Belt |
 | Meginord's Girdle | Rawhide Belt |
 | Soul Tether | Long Belt |
 | Zerphi's Genesis | Heavy Belt |
 
-**Headhunter** — крадёт баффы убитых редких монстров; один из самых желанных предметов в игре.
+**[[items/jewellery/uniques/headhunter|Headhunter]]** — крадёт модификаторы убитых редких монстров на 60 секунд (с патча 0.2.1); один из самых желанных предметов в игре.
 
 ## Уникальные самоцветы
 

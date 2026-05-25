@@ -5,4 +5,15 @@ patch: 0.4.0
 status: raw
 ---
 
-# 
+# Herald of Ice
+
+**Base:** Buff
+**Class:** Attack , Persistent , AoE , Cold , Herald , Payoff
+
+## Base Stats
+
+Tier: 4
+Level: (1 — 20)
+Reservation: 30 Spirit
+
+**Requires: Any Martial Weapon**

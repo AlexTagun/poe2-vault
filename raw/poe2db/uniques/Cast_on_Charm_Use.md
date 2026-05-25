@@ -5,4 +5,13 @@ patch: 0.4.0
 status: raw
 ---
 
-# 
+# Cast on Charm Use
+
+**Base:** Buff
+**Class:** Persistent , Trigger , Meta
+
+## Base Stats
+
+Level: (1 — 20)
+
+**Requires: Level (1 — 90)**

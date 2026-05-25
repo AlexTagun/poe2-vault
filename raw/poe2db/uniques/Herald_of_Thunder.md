@@ -5,4 +5,15 @@ patch: 0.4.0
 status: raw
 ---
 
-# 
+# Herald of Thunder
+
+**Base:** Buff
+**Class:** Attack , Persistent , AoE , Lightning , Herald , Payoff
+
+## Base Stats
+
+Tier: 4
+Level: (1 — 20)
+Reservation: 30 Spirit
+
+**Requires: Any Martial Weapon**

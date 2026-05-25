@@ -44,12 +44,13 @@
 <!-- bases, uniques, modifiers -->
 
 - [[items/currencies|currencies]] | currencies, orbs, essences, catalysts, liquid emotions, keys | 0.2.0 | 2026-05
-- [[items/flasks|flasks]] | life flask, mana flask, unique flask, charges, tiers | 0.2.0 | 2026-05
-- [[items/charms|charms]] | charms, trigger, charges, immunity, resistance, belt slots | 0.2.0 | 2026-05
+- [[items/flasks|flasks]] | life flask, mana flask, unique flask, charges, tiers | 0.4.0 | 2026-05
+- [[items/charms|charms]] | charms, trigger, charges, immunity, resistance, belt slots | 0.4.0 | 2026-05
 - [[items/omens|omens]] | omens, meta-craft, dextral, sinistral, prefix, suffix, vaal | 0.2.0 | 2026-05
 - [[items/soul-cores|soul-cores]] | soul cores, socketable, vaal, trialmaster, runes, charges | 0.2.0 | 2026-05
 - [[items/waystones|waystones]] | waystones, atlas, tiers, portal, map, endgame | 0.2.0 | 2026-05
-- [[items/tablets|tablets]] | tablets, precursor towers, atlas, breach, delirium, ritual, expedition | 0.2.0 | 2026-05
+- [[items/tablets|tablets]] | tablets, precursor towers, atlas, breach, delirium, ritual, expedition | 0.4.0 | 2026-05
+- [[items/relics|relics]] | relics, trial of sekhemas, zarokh, temporalis, sekhema's resolve, sandstorm visage, against the darkness, barya | 0.4.0 | 2026-05
 - [[items/idols|idols]] | idols, socketable, animal spirits, charm slot, spirit-possessed | 0.2.0 | 2026-05
 - [[items/weapons/weapons|weapons]] | weapons hub, all types, gem sockets, weapon swap, dual spec | 0.2.x | 2026-05
   - [[items/weapons/axes|weapons-axes]] | axes, STR DEX, hatchet, greataxe, glaive, halberd | 0.2.x | 2026-05
@@ -73,20 +74,20 @@
   - [[items/armor/helmets|armor-helmets]] | helmets, greathelm, tiara, circlet, golden visage, golden wreath | 0.2.x | 2026-05
   - [[items/armor/gloves|armor-gloves]] | gloves, mitts, bracers, golden bracers | 0.2.x | 2026-05
   - [[items/armor/boots|armor-boots]] | boots, greaves, sabatons, golden caligae | 0.2.x | 2026-05
-  - [[items/armor/uniques|armor-uniques]] | unique armor, kaom's heart, tabula rasa, queen of the forest, facebreaker | 0.2.x | 2026-05
+  - [[items/armor/uniques|armor-uniques]] | unique armor, kaom's heart, tabula rasa, queen of the forest, facebreaker | 0.4.0 | 2026-05
 - [[items/jewellery/jewellery|jewellery]] | jewellery, amulets, rings, belts, jewels, accessories | 0.2.x | 2026-05
   - [[items/jewellery/amulets|jewellery-amulets]] | amulets, stellar, amber, jade, lapis, solar, spirit | 0.2.x | 2026-05
   - [[items/jewellery/rings|jewellery-rings]] | rings, ruby, sapphire, topaz, prismatic, unset, cast speed | 0.2.x | 2026-05
   - [[items/jewellery/belts|jewellery-belts]] | belts, flask, charm, headhunter, stun threshold | 0.2.x | 2026-05
   - [[items/jewellery/jewels|jewellery-jewels]] | jewels, passive tree, timeless, grand spectrum, time-lost | 0.2.x | 2026-05
-  - [[items/jewellery/uniques|jewellery-uniques]] | unique jewellery, astramentis, headhunter, kalandra's touch, ventor's gamble | 0.2.x | 2026-05
+  - [[items/jewellery/uniques|jewellery-uniques]] | unique jewellery, astramentis, headhunter, kalandra's touch, ventor's gamble | 0.4.0 | 2026-05
     - [[items/jewellery/uniques/heart-of-the-well|heart-of-the-well]] | diamond jewel, desecrated, abyss, lichborn, meta 49% | 0.4.0 | 2026-05
     - [[items/jewellery/uniques/headhunter|headhunter]] | heavy belt, rare mod steal, 60s, breach, delirium | 0.2.1 | 2026-05
 - [[items/off-hand/off-hand|off-hand]] | off-hand, shields, foci, quivers, bucklers, block | 0.2.x | 2026-05
   - [[items/off-hand/shields|off-hand-shields]] | tower shield, targe, crest shield, buckler, raise shield, block | 0.2.x | 2026-05
   - [[items/off-hand/foci|off-hand-foci]] | foci, energy shield, intelligence, spellcaster | 0.2.x | 2026-05
   - [[items/off-hand/quivers|off-hand-quivers]] | quivers, bows, pierce, attack speed, bleed, poison | 0.2.x | 2026-05
-  - [[items/off-hand/uniques|off-hand-uniques]] | unique off-hand, svalinn, drillneck, rathpith globe, the surrender | 0.2.x | 2026-05
+  - [[items/off-hand/uniques|off-hand-uniques]] | unique off-hand, svalinn, drillneck, rathpith globe, the surrender | 0.4.0 | 2026-05
 
 ## Builds
 <!-- archetypes, synthesized strategies -->

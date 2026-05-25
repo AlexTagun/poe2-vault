@@ -1,8 +1,8 @@
 ---
 category: items
-sources: [raw/fextralife/items/consumables.md]
-patch: 0.2.0
-updated: 2026-05-22
+sources: [raw/fextralife/items/consumables.md, raw/poe2db/uniques/*.md]
+patch: 0.4.0
+updated: 2026-05-25
 ---
 
 # Flasks
@@ -26,7 +26,11 @@ Flasks — основные расходуемые предметы, восст�
 | Ultimate Life Flask | 60 | 920 Life | 3 сек |
 
 ### Уникальные Life Flasks
-- **Olroth's Resolve** (Ultimate, Lvl 60) — мгновенное восстановление, больше зарядов на использование, избыточное лечение конвертируется в щит.
+
+| Название | База | Треб. уровень | Ключевые модификаторы |
+|---|---|---|---|
+| Olroth's Resolve | Ultimate Life Flask | 60 | Мгновенное Recovery; избыточное лечение создаёт щит (Guard) на 20 сек; повышенный расход зарядов |
+| Blood of the Warrior | Gargantuan Life Flask | 40 | 90% меньше Life Recovery; 15–30% нанесённого урона возвращается как Life (Recoup); при использовании Сбрасывает текущий Rage, затем постепенно восстанавливает Rage; Rage потребляет запас Recovery |
 
 ## Mana Flasks
 
@@ -43,7 +47,11 @@ Flasks — основные расходуемые предметы, восст�
 | Ultimate Mana Flask | 60 | 310 Mana | 3 сек |
 
 ### Уникальные Mana Flasks
-- **Melting Maelstrom** (Ultimate, Lvl 60) — наносит Chaos damage в зависимости от потраченной маны, эффект сохраняется пока незарезервированная мана заполнена.
+
+| Название | База | Треб. уровень | Ключевые модификаторы |
+|---|---|---|---|
+| Melting Maelstrom | Ultimate Mana Flask | 60 | Каждые 3 сек наносит Chaos damage равный 100% маны, потраченной за это время; +200–250% к длительности; эффект продолжается пока незарезервированная мана заполнена |
+| Lavianga's Spirits | Gargantuan Mana Flask | 49 | Нельзя использовать вручную; применяется постоянно; 70–80% меньше Amount Recovered |
 
 ## Заряды фласков
 

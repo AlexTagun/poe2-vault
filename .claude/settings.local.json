@@ -37,7 +37,8 @@
       "PowerShell($file = 'D:\\\\my_progs\\\\poe2-vault\\\\Clippings\\\\Early Access Patch Notes - Content Update 0.5.0 — Path of Exile 2 Return of the Ancients - Forum 1.md'; $content = Get-Content $file -Raw; $idx = $content.IndexOf\\('Essence'\\); if \\($idx -ge 0\\) { \"Found at position $idx\"; $content.Substring\\([Math]::Max\\(0, $idx - 300\\), 1500\\) } else { 'Not found in this variant' })",
       "WebFetch(domain:poe2db.tw)",
       "Bash(curl -s \"https://poe2db.tw/us/Atziris_Contempt\")",
-      "Bash(python -c \"import requests, bs4; print\\('OK'\\)\")"
+      "Bash(python -c \"import requests, bs4; print\\('OK'\\)\")",
+      "Bash(python raw/poe2db/fetch_uniques.py)"
     ]
   }
 }

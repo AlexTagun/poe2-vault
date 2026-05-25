@@ -120,46 +120,64 @@ SLUGS = [
 ]
 
 
+def clean(el) -> str:
+    """Collapse whitespace in element text."""
+    return " ".join(el.get_text(" ", strip=True).split())
+
+
 def extract_item(html: str, slug: str) -> str:
     soup = BeautifulSoup(html, "html.parser")
 
-    # Find the item popup (main item card)
-    popup = soup.find(class_=re.compile(r"(newItemPopup|UniquePopup|item-popup|ItemPopup)"))
+    popup = soup.find("div", class_="newItemPopup")
     if not popup:
-        # Fallback: look for div.itemHeader
-        popup = soup.find(class_=re.compile(r"itemHeader"))
-        if popup:
-            popup = popup.parent
+        popup = soup.find("div", class_="UniquePopup")
 
     item_name = ""
     base_type = ""
-    item_class = ""
-    lines = []
+    item_class_line = ""  # first property = item class (e.g. "Spears")
+    properties = []       # base stats (damage, APS, etc.)
+    requirements = ""
+    implicit_mods = []
+    explicit_mods = []
     flavor = ""
 
     if popup:
-        # Extract structured text
-        raw_text = popup.get_text(separator="\n", strip=True)
-        raw_lines = [l.strip() for l in raw_text.split("\n") if l.strip()]
+        # Header: itemName + typeLine
+        name_el = popup.find(class_="itemName")
+        if name_el:
+            item_name = clean(name_el)
+        base_el = popup.find(class_="typeLine")
+        if base_el:
+            base_type = clean(base_el)
 
-        if raw_lines:
-            item_name = raw_lines[0]
-        if len(raw_lines) > 1:
-            base_type = raw_lines[1]
+        # Stats div children
+        stats_div = popup.find("div", class_="Stats")
+        if stats_div:
+            prop_list = []
+            for child in stats_div.children:
+                if not hasattr(child, "name") or not child.name:
+                    continue
+                cls = child.get("class", [])
+                txt = clean(child)
+                if not txt:
+                    continue
+                if "property" in cls:
+                    prop_list.append(txt)
+                elif "requirements" in cls:
+                    requirements = txt
+                elif "implicitMod" in cls:
+                    implicit_mods.append(txt)
+                elif "explicitMod" in cls:
+                    explicit_mods.append(txt)
+                elif "FlavourText" in cls or "flavourText" in cls:
+                    flavor = txt
 
-        # Find item class (e.g. "Spears", "Bows", "Body Armour")
-        class_el = popup.find(class_=re.compile(r"(itemClass|item-class|typeLine|subHeader)"))
-        if class_el:
-            item_class = class_el.get_text(strip=True)
+            # First property is item class (e.g. "Spears", "Bows", "Body Armour")
+            if prop_list:
+                item_class_line = prop_list[0]
+                properties = prop_list[1:]
 
-        # Find flavor text (usually italic)
-        flavor_el = popup.find("em") or popup.find(class_=re.compile(r"(flavou?r|lore|italic)"))
-        if flavor_el:
-            flavor = flavor_el.get_text(strip=True)
-
-        lines = raw_lines[2:] if len(raw_lines) > 2 else []
-    else:
-        # Minimal fallback
+    if not item_name:
         title_el = soup.find("title")
         item_name = title_el.get_text(strip=True).split(" - ")[0] if title_el else unquote(slug.replace("_", " "))
 
@@ -177,20 +195,36 @@ def extract_item(html: str, slug: str) -> str:
         "",
     ]
 
-    if base_type and base_type != item_name:
+    if base_type:
         md_lines.append(f"**Base:** {base_type}")
-    if item_class and item_class not in (item_name, base_type):
-        md_lines.append(f"**Class:** {item_class}")
-    if base_type or item_class:
+    if item_class_line:
+        md_lines.append(f"**Class:** {item_class_line}")
+    if base_type or item_class_line:
         md_lines.append("")
 
-    if lines:
-        md_lines.append("## Stats")
+    if properties:
+        md_lines.append("## Base Stats")
         md_lines.append("")
-        for line in lines:
-            if line == flavor:
-                continue
-            md_lines.append(line)
+        for p in properties:
+            md_lines.append(p)
+        md_lines.append("")
+
+    if requirements:
+        md_lines.append(f"**{requirements}**")
+        md_lines.append("")
+
+    if implicit_mods:
+        md_lines.append("## Implicit")
+        md_lines.append("")
+        for m in implicit_mods:
+            md_lines.append(f"- {m}")
+        md_lines.append("")
+
+    if explicit_mods:
+        md_lines.append("## Modifiers")
+        md_lines.append("")
+        for m in explicit_mods:
+            md_lines.append(f"- {m}")
         md_lines.append("")
 
     if flavor:

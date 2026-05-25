@@ -38,7 +38,9 @@
       "WebFetch(domain:poe2db.tw)",
       "Bash(curl -s \"https://poe2db.tw/us/Atziris_Contempt\")",
       "Bash(python -c \"import requests, bs4; print\\('OK'\\)\")",
-      "Bash(python raw/poe2db/fetch_uniques.py)"
+      "Bash(python raw/poe2db/fetch_uniques.py)",
+      "Bash(curl -s \"https://poe2db.tw/us/Atziris_Contempt\" -H \"User-Agent: Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36\")",
+      "Bash(python -c ' *)"
     ]
   }
 }

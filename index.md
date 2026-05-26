@@ -26,6 +26,7 @@
 - [[mechanics/skill-system|skill-system]] | gems, supports, passive tree | 0.4.0 | 2026-05
 - [[mechanics/passive-skill-tree|passive-skill-tree]] | passive tree, keystones, weapon specialization, dual spec, respec | 0.4.0 | 2026-05
 - [[mechanics/stats-attributes|stats-attributes]] | STR/DEX/INT, life, ES, resists, jewellery | 0.4.0 | 2026-05
+- [[mechanics/resistances|resistances]] | fire, cold, lightning, chaos, cap, penalty, exposure, penetration, honour, ascendancy | 0.4.0 | 2026-05
 
 ## Skills
 <!-- skill gems, support gems, interactions -->

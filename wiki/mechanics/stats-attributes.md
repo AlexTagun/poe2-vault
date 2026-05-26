@@ -37,12 +37,16 @@ updated: 2026-05-21
 
 ## Резисты
 
-Четыре резиста. **Cap по умолчанию — 75%**, поднимается до **90%**. Отрицательные значения **увеличивают** получаемый урон. По мере прогресса кампании резисты режутся (penalty).
+Четыре резиста. **Cap по умолчанию — 75%**, поднимается до **90%** через моды на Maximum Resistance. Отрицательные значения **увеличивают** получаемый урон. По мере прогресса кампании резисты режутся (penalty −10% за акт, итого −60% после 6 актов; Chaos Resistance penalty не получает).
 
-- **[[Fire Resistance]]**
-- **[[Cold Resistance]]**
-- **[[Lightning Resistance]]**
-- **[[Chaos Resistance]]**
+Physical Damage **не имеет резиста** — снижается через [[armour|Armour]] (Physical Damage Reduction).
+
+- **[[fire-resistance|Fire Resistance]]**
+- **[[cold-resistance|Cold Resistance]]**
+- **[[lightning-resistance|Lightning Resistance]]**
+- **[[chaos-resistance|Chaos Resistance]]**
+
+Подробно: [[mechanics/resistances|Resistances]] — cap, penetration, exposure, curses, ascendancy-взаимодействия.
 
 ## Базовые атрибуты классов
 

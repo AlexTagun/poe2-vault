@@ -97,7 +97,7 @@
 - [[builds/classes|classes]] | classes, ascendancy | 0.4.0 | 2026-05
 - [[builds/ascendancies|ascendancies]] | ascendancy, subclasses, trials, sekhemas, chaos | 0.4.0 | 2026-05
 - [[builds/ascendancy-notables|ascendancy-notables]] | notables, passive, granted skills, all ascendancies | 0.4.0 | 2026-05
-- [[builds/league-meta|league-meta]] | poe.ninja snapshots, ascendancy distribution, top items/skills/passives, patch comparison | 0.4.0 | 2026-05
+- [[builds/league-meta|league-meta]] | poe.ninja snapshots, ascendancy distribution, top items/skills/passives, patch comparison | 0.5.0 | 2026-06
   - [[builds/ascendancies/witchhunter|Witchhunter]], [[builds/ascendancies/gemling-legionnaire|Gemling Legionnaire]], [[builds/ascendancies/tactician|Tactician]] — Mercenary
   - [[builds/ascendancies/invoker|Invoker]], [[builds/ascendancies/acolyte-of-chayula|Acolyte of Chayula]], [[builds/ascendancies/martial-artist|Martial Artist]] — Monk
   - [[builds/ascendancies/deadeye|Deadeye]], [[builds/ascendancies/pathfinder|Pathfinder]] — Ranger

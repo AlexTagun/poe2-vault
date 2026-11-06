@@ -44,6 +44,7 @@ GGG целенаправленно улучшали:
 Расширены состояния, накладываемые статус-эффектами. Подробности см. на странице [[ailments]] (TODO).
 
 ## Связанные ресурсы и ссылки
+- [[damage-calculation]] — полный порядок расчёта урона (BCSM), Hits vs DoT
 - [[skill-system|Skill System Overhaul]] — гемы, сокеты, поддержки
 - [[atlas-endgame|Endgame combat encounters]]
 - [[defenses]] — резисты, броня, evasion, energy shield, Runic Ward

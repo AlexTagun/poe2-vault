@@ -35,7 +35,7 @@ updated: 2026-05-25
 
 Headhunter ценен в контенте с **высокой плотностью редких монстров**:
 
-- [[mechanics/atlas-endgame|Endgame]]-мапы с механиками [[Breach]], [[Delirium]], [[Ritual]], [[Expedition]] — стабильный поток рарок.
+- [[mechanics/atlas-endgame|Endgame]]-мапы с механиками [[Breach]], [[Delirium]], [[mechanics/ritual|Ritual]], [[Expedition]] — стабильный поток рарок.
 - Tablet-стек на breach/delirium через [[items/tablets|таблеты]] на [[Precursor Tower|башнях]].
 - Боссинг и одиночные цели — HH **не нужен** (нет рарок для стилла).
 

@@ -18,10 +18,12 @@
 - [[mechanics/merchants|merchants]] | merchants, gold, trading, disenchanting, gambling, currency exchange, vendor | 0.4.0 | 2026-05
 - [[mechanics/quests|quests]] | quests, main quests, side quests, act 1, act 2, act 3, act 4, interlude, ascendancy trials | 0.4.0 | 2026-05
 - [[mechanics/combat|combat]] | dodge, spirit, melee | 0.4.0 | 2026-05
+- [[mechanics/damage-calculation|damage-calculation]] | base, conversion, gain as extra, scaling, increased vs more, mitigation, bcsm | 0.4.0 | 2026-06
 - [[mechanics/critical-hits|critical-hits]] | crit, critical hit chance, critical damage bonus, lucky, evasion, inevitable | 0.4.0 | 2026-05
 - [[mechanics/multiplayer|multiplayer]] | party, co-op, crossplay, loot allocation, guilds, local co-op, online | 0.4.0 | 2026-05
 - [[mechanics/pvp|pvp]] | pvp, player vs player, duel, not yet available | 0.4.0 | 2026-05
 - [[mechanics/atlas-endgame|atlas-endgame]] | atlas, waystone, breach, ritual, delirium, pinnacle | 0.4.0 | 2026-05
+- [[mechanics/ritual|ritual]] | ritual, tribute, altar types, infested, contaminated, smothered, sapping, tainted, traveller's woe, atlas tree | 0.4.0 | 2026-06
 - [[mechanics/hideouts|hideouts]] | hideout, base, crafting bench, map device, decorations, endgame | 0.4.0 | 2026-05
 - [[mechanics/skill-system|skill-system]] | gems, supports, passive tree | 0.4.0 | 2026-05
 - [[mechanics/passive-skill-tree|passive-skill-tree]] | passive tree, keystones, weapon specialization, dual spec, respec | 0.4.0 | 2026-05

@@ -105,6 +105,7 @@ Critical Hit — это on-Hit эффект, который умножает у�
 
 ## Связанные страницы
 
+- [[mechanics/damage-calculation]] — крит как множитель на шаге Scaling в общем порядке BCSM
 - [[mechanics/stats-attributes]] — Evasion, Accuracy
 - [[mechanics/passive-skill-tree]] — Pain Attunement, Resolute Technique
 - [[skills/support-gems]] — Supercritical, Pinpoint Critical, Inevitable Critical
